@@ -1,0 +1,4169 @@
+非洲	Africa
+日本	Japan
+南美洲	South America
+挪威	Norway
+英格兰	England
+苏格兰	Scotland
+匈牙利	Hungary
+西班牙	Spain
+美国	United States
+比利时	Belgium
+卢森堡	Luxembourg
+地球	Earth
+人	Human
+欢喜	Happiness
+芬兰	Finland
+瑞典	Sweden
+波兰	Poland
+立陶宛	Lithuania
+意大利	Italy
+瑞士	Switzerland
+奥地利	Austria
+希腊	Greece
+土耳其	Turkey
+啤酒	Beer
+葡萄牙	Portugal
+欧洲	Europe
+亚洲	Asia
+维基百科	Wikipedia
+尼德兰	Netherlands
+PHP	PHP
+纽约市	New York City
+旧金山	San Francisco
+洛杉矶	Los Angeles
+计算机	Computer
+办合纳	Bern
+极乃伐	Geneva
+苏黎世	Zürich
+巴拉克·奥巴马	Barack Obama
+乌拉圭	Uruguay
+白才尔	Basel
+打印机	Printer (computing)
+伦敦	London
+开罗	Cairo
+苹果	Apple
+墨西哥	Mexico
+大西洋	Atlantic Ocean
+太平洋	Pacific Ocean
+加利福尼亚	California
+波士顿	Boston
+礼拜一	Monday
+火星	Mars
+肯尼亚	Kenya
+礼拜两	Tuesday
+礼拜三	Wednesday
+礼拜四	Thursday
+礼拜五	Friday
+礼拜六	Saturday
+礼拜天	Sunday
+法国	France
+世界语	Esperanto
+狗	Dog
+英国	United Kingdom
+貓	Cat
+中华人民共和国	China
+法文	French language
+鱼	Fish
+巴西	Brazil
+俄罗斯	Russia
+大海	Sea
+圓周率	Pi
+Π	Pi (letter)
+聖保羅	São Paulo
+该办克	Quebec
+德国	Germany
+白俄罗斯	Belarus
+德语	German language
+冰岛	Iceland
+愛沙尼亞	Estonia
+土星	Saturn
+巧克力	Chocolate
+飞机	Airplane
+打仗	War
+拉脱维亚	Latvia
+乌克兰	Ukraine
+捷克	Czech Republic
+斯洛伐克	Slovakia
+斯洛文尼亚	Slovenia
+摩尔多瓦	Moldova
+罗马尼亚	Romania
+保加利亚	Bulgaria
+罗马	Rome
+马其顿	Republic of Macedonia
+阿爾巴尼亞	Albania
+格陵兰	Greenland
+克罗地亚	Croatia
+波黑	Bosnia and Herzegovina
+阿塞拜疆	Azerbaijan
+安道尔	Andorra
+塞浦路斯	Cyprus
+格鲁吉亚	Georgia (country)
+哈萨克斯坦	Kazakhstan
+马耳他	Malta
+摩纳哥	Monaco
+黑山共和国	Montenegro
+梵蒂冈	Vatican City
+圣马力诺	San Marino
+布鲁塞尔	City of Brussels
+古巴	Cuba
+大众汽车	Volkswagen
+Java	Java (programming language)
+印度尼西亚	Indonesia
+南非	South Africa
+阿尔及利亚	Algeria
+乌兹别克斯坦	Uzbekistan
+欧罗维竞唱歌比赛	Eurovision Song Contest
+水	Water
+木	Wood
+电视机	Television
+冰岛文	Icelandic language
+智利	Chile
+耶稣	Jesus
+語言	Language
+英语维基百科	English Wikipedia
+尼古拉·萨科齐	Nicolas Sarkozy
+新加坡	Singapore
+科学	Science
+自由軟件	Free software
+列支敦士登	Liechtenstein
+希特拉	Adolf Hitler
+WikiLeaks	WikiLeaks
+第二次世界大战	World War II
+科隆	Cologne
+Linux	Linux
+数学	Mathematics
+拉丁文	Latin
+巴林	Bahrain
+亚美尼亚	Armenia
+塞尔维亚	Serbia
+月球	Moon
+澳大利亚	Australia
+物理学	Physics
+阿根廷	Argentina
+秘鲁	Peru
+朝鲜民主主义人民共和国	North Korea
+柬埔寨	Cambodia
+恐龙	Dinosaur
+回教	Islam
+里昂	Lyon
+欧洲联盟	European Union
+女性	Woman
+诗	Poetry
+米蘭	Milan
+屁眼	Anus
+古高尔	Googol
+珠穆朗玛峰	Mount Everest
+城市	City
+巴斯德	Louis Pasteur
+村	Village
+大洋洲	Oceania
+太阳系	Solar System
+氢	Hydrogen
+维基共享	Wikimedia Commons
+揚聲器	Loudspeaker
+东帝汶	East Timor
+维嘞合朋纳	Villeurbanne
+学纳河	Rhône
+迪拜	Dubai
+瀑瑶兰葡萄酒	Beaujolais
+哥白尼	Nicolaus Copernicus
+碳	Carbon
+音乐	Music
+圣皮得斯堡	Saint Petersburg
+北	North
+新西兰	New Zealand
+南	South
+印度	India
+西	West
+氯气	Chlorine
+铅	Lead
+蒙古国	Mongolia
+委内瑞拉	Venezuela
+国际象棋	Chess
+缅因	Maine
+苏里南	Suriname
+巴拉圭	Paraguay
+圭亚那	Guyana
+艺术	Art
+厄瓜多尔	Ecuador
+哥伦比亚	Colombia
+佛教	Buddhism
+玻利维亚	Bolivia
+特里尼达搭仔多巴哥	Trinidad and Tobago
+新罕布什爾	New Hampshire
+马萨诸塞	Massachusetts
+康涅狄格	Connecticut
+鸡	Chicken
+澤西島	Jersey
+猪猡	Domestic pig
+伊朗	Iran
+伊拉克	Iraq
+阿拉斯加	Alaska
+以色列	Israel
+巴拿马	Panama
+也門	Yemen
+约旦	Jordan
+佛罗里达州	Florida
+吉尔吉斯斯坦	Kyrgyzstan
+科威特	Kuwait
+老挝	Laos
+黎巴嫩	Lebanon
+俄勒冈	Oregon
+马尔代芙	Maldives
+马来西亚	Malaysia
+缅甸	Burma
+尼泊尔	Nepal
+阿曼	Oman
+巴基斯坦	Pakistan
+卡塔尔	Qatar
+沙特阿拉伯	Saudi Arabia
+斯里兰卡	Sri Lanka
+史太林	Joseph Stalin
+叙利亚	Syria
+塔吉克斯坦	Tajikistan
+口袋妖怪	Pokémon
+中华民国	Taiwan
+泰国	Thailand
+火车	Train
+土库曼斯坦	Turkmenistan
+阿拉伯联合酋长国	United Arab Emirates
+越南	Vietnam
+新西伯利亚	Novosibirsk
+大韩民国	South Korea
+阿富汗	Afghanistan
+金	Gold
+喀山	Kazan
+孟加拉	Bangladesh
+马里	Mali
+安哥拉	Angola
+不丹	Bhutan
+文莱	Brunei
+菲律宾	Philippines
+牛顿	Isaac Newton
+OpenStreetMap	OpenStreetMap
+量子力学	Quantum mechanics
+突尼斯	Tunisia
+赞比亚	Zambia
+津巴布韦	Zimbabwe
+北京	Beijing
+贝宁	Benin
+博茨瓦纳	Botswana
+布隆迪	Burundi
+刚果共和国	Republic of the Congo
+刚果民主共和国	Democratic Republic of the Congo
+甘地	Mahatma Gandhi
+连环画	Comics
+冈比亚	The Gambia
+科特迪瓦	Ivory Coast
+喀麦隆	Cameroon
+尼日利亚	Nigeria
+索马里	Somalia
+铌	Niobium
+凱撒	Julius Caesar
+苏丹	Sudan
+汉堡	Hamburg
+联合国	United Nations
+唐担	Dante Alighieri
+艾哈迈德堡	Ahmedabad
+锡	Tin
+克林顿总统	Bill Clinton
+孟买	Mumbai
+波多黎各	Puerto Rico
+卡纳塔克邦	Karnataka
+列农	John Lennon
+爱达荷州	Idaho
+华盛顿州	Washington (state)
+科索沃	Kosovo
+潘基文	Ban Ki-moon
+Kofi Annan	Kofi Annan
+分类:页面分类	Category:Contents
+多特蒙德	Dortmund
+冬天	Winter
+西班牙语	Spanish language
+匹兹堡	Pittsburgh
+费城	Philadelphia
+金奈	Chennai
+班加罗尔	Bangalore
+钞票	Money
+纽约州	New York
+罗德岛	Rhode Island
+昆虫	Insect
+宾夕法尼亚	Pennsylvania
+Uetersen	Uetersen
+奧古斯都	Augustus
+微软视窗	Microsoft Windows
+直布罗陀	Gibraltar
+布宜诺斯艾利斯	Buenos Aires
+东京都	Tokyo
+爱荷华州	Iowa
+里昂地铁	Lyon Metro
+印地语	Hindi
+艾迪托·比娅呋	Édith Piaf
+因斯孛鲁克	Innsbruck
+都柏林	Dublin
+法兰克福	Frankfurt
+天主教	Catholicism
+圣经	Bible
+金边	Phnom Penh
+胡志明市	Ho Chi Minh City
+河內市	Hanoi
+真耶稣教会	True Jesus Church
+英语	English language
+曼谷	Bangkok
+臺北市	Taipei
+同海市	Đồng Hới
+Końskowola	Końskowola
+达累斯萨拉姆	Dar es Salaam
+Al-Khartoum	Khartoum
+疾画合	Givors
+1月11号	January 11
+明斯克	Minsk
+微软公司	Microsoft
+库鲁夫	Kurów
+化学	Chemistry
+2月19号	February 19
+Visual Basic	Visual Basic
+本笃十六世	Pope Benedict XVI
+12月25号	December 25
+8月4号	August 4
+8月31号	August 31
+迈克尔·杰克逊	Michael Jackson
+巴西利亞	Brasília
+大里昂	Urban Community of Lyon
+圣地牙哥	Santiago
+坎培拉	Canberra
+悉尼	Sydney
+墨尔本	Melbourne
+木卫三	Ganymede (moon)
+珀斯	Perth
+西澳大利亚州	Western Australia
+北领地 (澳大利亚)	Northern Territory
+苏门答腊岛	Sumatra
+突尼斯市	Tunis
+德黑兰	Tehran
+亚的斯亚贝巴	Addis Ababa
+安卡拉	Ankara
+贝尔格莱德	Belgrade
+分类:维基百科模板	Category:Wikipedia templates
+爪哇岛	Java
+法属圭亚娜	French Guiana
+安曼	Amman
+贝鲁特	Beirut
+分类:国家模板	Category:Country templates
+内罗毕	Nairobi
+分类:地理模板	Category:Geography and place templates
+学堂	School
+大学	University
+Wikipedia:沙盘	Wikipedia:Sandbox
+屋	House
+卡尔梅克共和国	Kalmykia
+金头公园	Parc de la Tête d'Or
+地图	Map
+奥萨斯库	Osasco
+弗杭歇维嘞（学纳）	Francheville, Rhône
+同海机场	Dong Hoi Airport
+里昂祭光节	Festival of Lights (Lyon)
+世界言话排名	List of languages by number of native speakers
+分类:日本历史	Category:History of Japan
+孔子	Confucius
+分类:数学	Category:Mathematics
+法罗群岛	Faroe Islands
+分类:印度历史	Category:History of India
+分类:泰国历史	Category:History of Thailand
+巴厘岛	Bali
+分类:缅甸历史	Category:History of Burma
+欧元	Euro
+美元	United States dollar
+地中海	Mediterranean Sea
+威尼斯共和国	Republic of Venice
+杭州市	Hangzhou
+基督教	Christianity
+模板:亚洲行政区划	Template:Countries of Asia
+模板:Support	Template:Agree
+金国	Jin dynasty (1115–1234)
+洲	Continent
+模板:ALA	Template:ALA
+阿德来得	Adelaide
+首都	Capital city
+葡萄牙语	Portuguese language
+模板:Portal	Template:Portal
+公元1949年	1949
+阿嘞玛桑	Almazán
+黄现璠	Huang Xianfan
+日语	Japanese language
+荧光屏	Computer monitor
+百科全书	Encyclopedia
+封面	Main Page
+路由器	Router (computing)
+棒球	Baseball
+奧林匹克运动会	Olympic Games
+长江	Yangtze
+里海	Caspian Sea
+拉斐尔	Raphael
+电车	Tram
+加泰罗尼亚	Catalonia
+毛泽东	Mao Zedong
+西安	Xi'an
+拉萨市	Lhasa
+性行为	Sexual intercourse
+加夫列尔·加西亚·马尔克斯	Gabriel García Márquez
+分类:快速删除候选	Category:Candidates for speedy deletion
+莎里 嘛克嘞朗	Sally Pearson
+马可·波罗	Marco Polo
+共产主义	Communism
+1368年	1368
+國家	Country
+Joe Biden	Joe Biden
+希拉里·克林顿	Hillary Rodham Clinton
+Yelena Isinbayeva	Yelena Isinbayeva
+大英博物馆	British Museum
+蒙彼利埃	Montpellier
+分类:天文学	Category:Astronomy
+汉堡包	Hamburger
+班合比让	Perpignan
+标致汽车	Peugeot
+李白	Li Bai
+图书馆	Library
+世界银行	World Bank
+汉武帝	Emperor Wu of Han
+女权主义	Feminism
+元朝	Yuan dynasty
+库克船长	James Cook
+郑和	Zheng He
+黃河	Yellow River
+蚂蚁	Ant
+宋朝	Song dynasty
+宋高宗	Emperor Gaozong of Song
+落苏	Eggplant
+龙	Dragon
+姆妈	Mother
+隆波岛	Lombok
+小人	Child
+俄语	Russian language
+人家	Home
+普京	Vladimir Putin
+东南亚国家联盟	Association of Southeast Asian Nations
+面包	Bread
+国际货币基金组织	International Monetary Fund
+联合国教育科学文化组织	UNESCO
+联合国卫生组织	World Health Organization
+漢語	Chinese language
+雨	Rain
+全球暖化	Global warming
+纳尔逊·曼德拉	Nelson Mandela
+马丁·路德·金	Martin Luther King Jr.
+蛋白质	Protein
+天灾	Natural disaster
+海啸	Tsunami
+云	Cloud
+电视	Television set
+几何学	Geometry
+日圆	Japanese yen
+单词	Word
+漢字	Chinese characters
+希腊字母	Greek alphabet
+諺文	Hangul
+分类:法国	Category:France
+分类:音乐	Category:Music
+红楼梦	Dream of the Red Chamber
+漫画	Manga
+狐狸	Fox
+哈利波特	Harry Potter
+小提琴	Violin
+肛交	Anal sex
+教育	Education
+男性	Man
+婚姻	Marriage
+法语维基百科	French Wikipedia
+咖啡	Coffee
+果汁	Juice
+山	Mountain
+第29届奧林匹克运动会	2008 Summer Olympics
+孙中山	Sun Yat-sen
+香港	Hong Kong
+首尔	Seoul
+上海	Shanghai
+伦敦 海斯楼 飞机场	London Heathrow Airport
+里昂市公共交通系统	Transports en commun lyonnais
+清朝	Qing dynasty
+越南战争	Vietnam War
+巴斯克语	Basque language
+阿拉贡语	Aragonese language
+瓦伦西亚	Valencia
+玛丽咏·高帝娅	Marion Cotillard
+麦克斯韦	James Clerk Maxwell
+原子	Atom
+光	Light
+罗鲍斯	Dayron Robles
+韩语	Korean language
+官話	Mandarin Chinese
+高棉文	Khmer language
+弗洛伊德	Sigmund Freud
+泰语	Thai language
+马来语	Malay language
+蒙古语	Mongolian language
+犹太教	Judaism
+万象	Vientiane
+莫白桑	Guy de Maupassant
+司马迁	Sima Qian
+朱熹	Zhu Xi
+廷巴克图	Timbuktu
+伦理学	Ethics
+沙·卢克·康	Shah Rukh Khan
+什叶派	Shia Islam
+道教	Taoism
+子宫	Uterus
+颈	Neck
+富克朗特群岛	Falkland Islands
+马恩岛	Isle of Man
+戴安娜王妃	Diana, Princess of Wales
+唐玄宗	Emperor Xuanzong of Tang
+Α	Alpha
+Ω	Omega
+Μ	Mu (letter)
+明朝	Ming dynasty
+朱元璋	Hongwu Emperor
+Φ	Phi
+朱由检	Chongzhen Emperor
+Laura Robson	Laura Robson
+2008年欧罗维竞唱歌比赛	Eurovision Song Contest 2008
+里昂有轨电车	Lyon tramway
+强·马凯恩	John McCain
+金正日	Kim Jong-il
+元素周期表	Periodic table
+罗別脫 姆格比	Robert Mugabe
+自杀	Suicide
+爬蟲類	Reptile
+Λ	Lambda
+伍老虎	Tiger Woods
+洋山芋	Potato
+三宝垄	Semarang
+报纸	Newspaper
+电话	Telephone
+?	Question mark
+美国空军	United States Air Force
+菲德尔·卡斯特罗	Fidel Castro
+元素单子	Chemical element
+广域网	Wide area network
+围棋	Go (game)
+电影	Film
+气体	Gas
+液体	Liquid
+固体	Solid
+脚踏车	Bicycle
+农业	Agriculture
+温度	Temperature
+面积	Area
+数	Number
+玛丽亚·莎拉波娃	Maria Sharapova
+重慶	Chongqing
+天津市	Tianjin
+武汉	Wuhan
+世界地理索引	List of sovereign states
+玫瑰人生 (歌)	La Vie en rose
+担桑身	Pregnancy
+Google地图	Google Maps
+癌	Cancer
+残疾人	Disability
+抗生素	Antibiotics
+青霉素	Penicillin
+肺炎	Pneumonia
+克来普	Crêpe
+麻将	Mahjong
+运河	Canal
+坝	Dam
+牛顿 (单位)	Newton (unit)
+世界报 (法国)	Le Monde
+万里长城	Great Wall of China
+可再生能源	Renewable energy
+电	Electricity
+核武器	Nuclear weapon
+Joomla!	Joomla
+吉卜赛语	Romani language
+壮语	Zhuang languages
+自由人报 (法国)	Libération
+安吉丽娜	Angelina Jolie
+阿拉伯语	Arabic language
+马多符	Bernard Madoff
+扬马延岛	Jan Mayen
+弗	Dollar
+科西嘉岛	Corsica
+奥克语	Occitan language
+克里斯蒂娜 艾伐脱	Chris Evert
+李明博	Lee Myung-bak
+Β	Beta
+Γ	Gamma
+Δ	Delta (letter)
+Ε	Epsilon
+Ζ	Zeta
+Η	Eta
+Θ	Theta
+Ι	Iota
+Κ	Kappa
+Ν	Nu (letter)
+Ξ	Xi (letter)
+Ο	Omicron
+Ρ	Rho
+Σ	Sigma
+Τ	Tau
+Υ	Upsilon
+Χ	Chi (letter)
+Ψ	Psi (letter)
+复活节岛	Easter Island
+澳门	Macau
+联想计算机公司	Lenovo
+梁振英	CY Leung
+董建华	Tung Chee-hwa
+胡锦涛	Hu Jintao
+习近平	Xi Jinping
+深圳市	Shenzhen
+廣東省	Guangdong
+广西壮族自治区	Guangxi
+国际金融中心 (香港)	International Finance Centre
+施蒂文 呼克	Steve Hooker
+南澳大学	University of South Australia
+鹿儿岛县	Kagoshima Prefecture
+C语言	C (programming language)
+手铐	Handcuffs
+艾米·麦克唐纳 (歌手)	Amy Macdonald
+Wikipedia:Featured articles	Wikipedia:Featured articles
+Wikipedia:红茶坊	Wikipedia:Village pump
+釜山广域市	Busan
+佛蒙特	Vermont
+广州	Guangzhou
+蔣中正	Chiang Kai-shek
+江泽民	Jiang Zemin
+温家宝	Wen Jiabao
+南京市	Nanjing
+刘德华	Andy Lau
+张学友	Jacky Cheung
+郭富城	Aaron Kwok
+同济大学	Tongji University
+首都圈电铁	Seoul Metropolitan Subway
+上海市南洋模范中学	Nanyang Model High School
+北京大学	Peking University
+清華大學	Tsinghua University
+江苏省	Jiangsu
+浙江省	Zhejiang
+邓小平	Deng Xiaoping
+琶兰那克	Parañaque
+菲律宾比索	Philippine peso
+西藏	Tibet Autonomous Region
+圆	Circle
+同性婚姻	Same-sex marriage
+Francesc Fàbregas	Cesc Fàbregas
+手机	Mobile phone
+太平山 (香港)	Victoria Peak
+欧洲杯足球赛	UEFA Champions League
+马来亚半岛	Malay Peninsula
+平壤市	Pyongyang
+奥斯卡奖	Academy Awards
+各经济实体国内生产总值列表	List of countries by GDP (nominal)
+司徒华	Szeto Wah
+黑龍江省	Heilongjiang
+芽庄市	Nha Trang
+教皇	Pope
+波多黎各独立党	Puerto Rican Independence Party
+钱塘江	Qiantang River
+四川省	Sichuan
+蔡元培	Cai Yuanpei
+圣诞	Christmas
+闰年	Leap year
+大田广域市	Daejeon
+大邱广域市	Daegu
+仁川国际机场	Incheon International Airport
+仁川广域市	Incheon
+京畿道	Gyeonggi Province
+计算机科学	Computer science
+阿鲁巴	Aruba
+国际音标	International Phonetic Alphabet
+河北省	Hebei
+GNU自由文档许可证	GNU Free Documentation License
+陈水扁	Chen Shui-bian
+纽约	New York (disambiguation)
+2012年欧洲足球冠军赛	UEFA Euro 2012
+路由	Routing
+人口密度	Population density
+爱尔兰	Ireland
+南京航空航天大学	Nanjing University of Aeronautics and Astronautics
+鲁迅	Lu Xun
+有利大楼	Union Building, Shanghai
+湖	Lake
+黄瓜	Cucumber
+南奥赛西亚	South Ossetia
+阿什哈巴德	Ashgabat
+岛屿	Island
+马赛	Marseille
+风牙己榜国家公园	Phong Nha-Kẻ Bàng National Park
+广平省	Quảng Bình Province
+赤道	Equator
+字典	Dictionary
+北塞浦路斯	Northern Cyprus
+沪剧	Huju
+死海	Dead Sea
+英镑	Pound sterling
+金兰国际机场	Cam Ranh International Airport
+荷属安地列斯	Netherlands Antilles
+根西岛	Guernsey
+斯瓦尔巴群岛	Svalbard
+Benetice	Benetice (Světlá nad Sázavou)
+摄氏温标	Celsius
+大叻市	Da Lat
+岘港市	Da Nang
+Washington	Washington
+甴巴子	Cockroach
+鱷魚	Crocodilia
+中国工商银行	Industrial and Commercial Bank of China
+朝鮮正祖	Jeongjo of Joseon
+人造卫星	Satellite
+太原省 (越南)	Thái Nguyên Province
+杀人鲸	Killer whale
+印科软件	Infosys
+苏岩礁	Socotra Rock
+日本海	Sea of Japan
+东亚	East Asia
+北亚	North Asia
+南欧	Southern Europe
+东欧	Eastern Europe
+北欧	Northern Europe
+西欧	Western Europe
+中欧	Central Europe
+辛基得语	Tlingit language
+琉球国	Ryukyu Kingdom
+扶余国	Buyeo kingdom
+县	County
+氨基糖苷类抗生素	Aminoglycoside
+伊斯兰历	Islamic calendar
+柳京饭店	Ryugyong Hotel
+霍顿汽车	Holden
+市长	Mayor
+中文维基百科	Chinese Wikipedia
+总统	President
+满洲国	Manchukuo
+安娜·伊凡诺维琪	Ana Ivanovic
+圣诞岛	Christmas Island
+明绞拉	Mingora
+黄宗羲	Huang Zongxi
+臺灣省	Taiwan Province
+拳击	Boxing
+樟宜国际机场	Singapore Changi Airport
+大西洋处女	Virgin Atlantic
+快达航空	Qantas
+国立台湾大学	National Taiwan University
+斑马	Zebra
+同奈省	Đồng Nai Province
+广义省	Quảng Ngãi Province
+金瓯省	Cà Mau Province
+广南省 (越南)	Quảng Nam Province
+槟椥省	Bến Tre Province
+庆和省	Khánh Hòa Province
+客家语	Hakka Chinese
+北宁省	Bắc Ninh Province
+优八克	International Union of Pure and Applied Chemistry
+赣语	Gan Chinese
+海地克里奥耳语	Haitian Creole
+大熊猫	Giant panda
+孤立語言	Language isolate
+卡纳达语	Kannada language
+杜甫	Du Fu
+瓦尔帕莱索	Valparaíso
+演员	Actor
+分类:程序编制言话	Category:Programming languages
+瓦哈卡	Oaxaca
+侗台语	Tai–Kadai languages
+白脱	Butter
+尼亚加拉瀑布	Niagara Falls
+吴语	Wu Chinese
+塔斯马尼亚	Tasmania
+贝拉齐尔‧布托	Benazir Bhutto
+费利佩二世 (西班牙)	Philip II of Spain
+牛津大学	University of Oxford
+基地 (恐怖组织)	Al-Qaeda
+英吉利海峡	English Channel
+柴尔兹孛格	Salzburg
+秦国	Qin (state)
+半岛	Peninsula
+新疆維吾爾自治區	Xinjiang
+布里司班	Brisbane
+东正教	Eastern Orthodox Church
+各国首都列表	List of national capitals in alphabetical order
+平面镜	Mirror
+锡金语	Sikkimese language
+孛拉特 皮此	Brad Pitt
+欧洲足球联合会	UEFA
+美国个州	U.S. state
+议会	Parliament
+大阪市	Osaka
+集韵	Jiyun
+剑桥大学	University of Cambridge
+牙膏	Toothpaste
+通货膨胀	Inflation
+艾美 羅森	Emmy Rossum
+竹	Bamboo
+刚果	Congo
+马失拉地	Maserati
+科科斯群岛	Cocos (Keeling) Islands
+昆士兰州	Queensland
+明尼阿波利斯	Minneapolis
+顺化市	Huế
+马拉雅南语	Malayalam
+逻辑语	Lojban
+北江省	Bắc Giang Province
+耶稣会	Society of Jesus
+承天顺化省	Thừa Thiên–Huế Province
+北𣴓省	Bắc Kạn Province
+阿伯丁	Aberdeen
+莱州省	Lai Châu Province
+河南省 (越南)	Hà Nam Province
+上海浦东国际机场	Shanghai Pudong International Airport
+政治學	Political science
+闽东语	Eastern Min
+闽南语	Southern Min
+安江省	An Giang Province
+茶荣省	Trà Vinh Province
+Tycho Brahe	Tycho Brahe
+薄辽省	Bạc Liêu Province
+嘉莱省	Gia Lai Province
+平福省	Bình Phước Province
+同塔省	Đồng Tháp Province
+约旦河西岸	West Bank
+河江省	Hà Giang Province
+维克多利亚州	Victoria (Australia)
+多乐省	Đắk Lắk Province
+平定省	Bình Định Province
+上海言话	Shanghainese
+得农省	Đắk Nông Province
+水晶之夜	Kristallnacht
+潮州话	Teochew dialect
+台语	Taiwanese Hokkien
+门	Door
+猪流感	Swine influenza
+高平省	Cao Bằng Province
+平阳省	Bình Dương Province
+平顺省	Bình Thuận Province
+巴地头顿省	Bà Rịa–Vũng Tàu Province
+奠边省	Điện Biên Province
+三船敏郎	Toshiro Mifune
+印度电影观众奖	Filmfare Awards
+AK-47	AK-47
+八国集团	G8
+孙武	Sun Tzu
+国际商用机器公司	IBM
+互聯網電影數據庫	Internet Movie Database
+贝克特	Samuel Beckett
+达赖喇嘛	Dalai Lama
+邮政编码	Postal code
+Nicole Kidman	Nicole Kidman
+联合国安理会	United Nations Security Council
+洋火棒儿	Match
+雹	Hail
+南海	South China Sea
+肯波拉圣吉奥瓦尼	Campora San Giovanni
+朝鮮世宗	Sejong the Great
+奥克兰格兰玛学校	Auckland Grammar School
+电冰箱	Refrigerator
+黄海	Yellow Sea
+大仲马	Alexandre Dumas
+黄果树瀑布	Huangguoshu Waterfall
+孟加拉湾	Bay of Bengal
+哈马斯	Hamas
+阿斯旺水坝	Aswan Dam
+人民币	Renminbi
+富士山	Mount Fuji
+小鼠	Mouse
+索契	Sochi
+迈克尔·菲尔普斯	Michael Phelps
+卡地马党	Kadima
+加沙地带	Gaza Strip
+霍巴特	Hobart
+金草莓奖	Golden Raspberry Awards
+律师	Lawyer
+相扑	Sumo
+希斯·莱杰	Heath Ledger
+安徽省	Anhui
+江原道	Gangwon (historical province)
+内蒙古自治区	Inner Mongolia
+金日成	Kim Il-sung
+全罗北道	North Jeolla Province
+济州特别自治道	Jeju Province
+郁陵岛	Ulleungdo
+湄公河	Mekong
+索尼	Sony
+巴別塔	Tower of Babel
+力学	Mechanics
+南半球	Southern Hemisphere
+蔚山广域市	Ulsan
+光州广域市	Gwangju
+温室效应	Greenhouse effect
+Julia Gillard	Julia Gillard
+华国锋	Hua Guofeng
+福建省	Fujian
+克拉耿富合脱	Klagenfurt
+小熊猫	Red panda
+大溪地	Tahiti
+安东市	Andong
+海南省	Hainan
+汉语拼音	Pinyin
+远东	Far East
+西班牙国家足球队	Spain national football team
+华氏温标	Fahrenheit
+海峡群岛	Channel Islands
+甘肃省	Gansu
+苏州市	Suzhou
+无锡市	Wuxi
+湖州市	Huzhou
+绍兴市	Shaoxing
+汉族	Han Chinese
+昆山	Kunshan
+宁波市	Ningbo
+ETA (民族组织)	ETA
+隆城国际机场	Long Thanh International Airport
+数据	Data
+迪马 皮郎	Dima Bilan
+基本粒子	Elementary particle
+陆克文	Kevin Rudd
+沙菲娅 劳塔露	Sofia Rotaru
+些拉·班琳	Sarah Palin
+云南省	Yunnan
+苏丹 (称谓)	Sultan
+德国国家足球队	Germany national football team
+国立虎尾科技大学	National Formosa University
+山东省	Shandong
+福楼拜	Gustave Flaubert
+英属印度洋领地	British Indian Ocean Territory
+地质年代	Geologic time scale
+河南省	Henan
+乃堂雅虎	Benjamin Netanyahu
+护照	Passport
+遼寧省	Liaoning
+件西卡 阿尔白	Jessica Alba
+桑•班	Sean Penn
+GNOME	GNOME
+台湾桃园国际机场	Taoyuan International Airport
+色子	Dice
+吉林省	Jilin
+东海	East China Sea
+2008年美国总统选举	United States presidential election, 2008
+苏州地铁1号线	Line 1, Suzhou Rail Transit
+沙吞区	Sathon District
+阿南德	Viswanathan Anand
+湖南省	Hunan
+水族馆	Aquarium
+青海省	Qinghai
+柏威夏寺	Preah Vihear Temple
+豪納省	Rhône (department)
+金一葉	Kim Il-yeop
+陸龜	Tortoise
+話筒	Microphone
+山西省	Shanxi
+魔方	Rubik's Cube
+尼德兰国家足球队	Netherlands national football team
+谜子	Riddle
+艾西瓦娅·巴克罕	Aishwarya Rai Bachchan
+贵州省	Guizhou
+Warren Buffett	Warren Buffett
+蹔𧉆	Cricket (insect)
+纸币	Banknote
+加沙城	Gaza City
+白斯克	Basque Country (greater region)
+安达曼海	Andaman Sea
+胡适	Hu Shih
+穆斯林	Muslim
+孛路內 (Blu-Ray)	Blu-ray Disc
+法国国家足球队	France national football team
+后现代	Postmodernism
+宮城县	Miyagi Prefecture
+帕荔斯 希尔顿	Paris Hilton
+陕西省	Shaanxi
+模板:Commonscat	Template:Commons category
+岩手县	Iwate Prefecture
+死人	Cadaver
+莱纳斯·鲍林	Linus Pauling
+Patrick Swayze	Patrick Swayze
+嫦娥1号	Chang'e 1
+刘裕	Emperor Wu of Liu Song
+水彩画	Watercolor painting
+李舜臣	Yi Sun-sin
+香港政区	Districts of Hong Kong
+南洞区	Namdong District
+富平区	Bupyeong District
+巴黎地铁	Paris Métro
+陈方安生	Anson Chan
+釜山地铁	Busan Metro
+清迈	Chiang Mai
+对马海峽	Tsushima Strait
+珍珠港事件	Attack on Pearl Harbor
+分类:化学模板	Category:Chemistry templates
+模板:Taxobox	Template:Taxobox
+松下电器	Panasonic
+丰田汽车	Toyota
+田鸡	Frog
+艾奇亚	IKEA
+火车站	Train station
+洛东江	Nakdong River
+模板:中国历史	Template:History of China
+金正恩	Kim Jong-un
+豪萨语	Hausa language
+闽语	Min Chinese
+莆仙语	Pu-Xian Min
+徐汇区	Xuhui District
+江西省	Jiangxi
+台湾省 (中华人民共和国)	Taiwan Province, People's Republic of China
+纳姆耶尔·旺楚克 (不丹国王)	Jigme Khesar Namgyel Wangchuck
+阮明哲	Nguyễn Minh Triết
+宁夏回族自治区	Ningxia
+拿督阿都拉萨	Najib Razak
+吉格梅·廷礼	Jigme Thinley
+约翰·菲利普·凯伊	John Key
+宿迁市	Suqian
+扬州市	Yangzhou
+泰州	Taizhou, Jiangsu
+南通	Nantong
+镇江市	Zhenjiang
+常州市	Changzhou
+嘉兴市	Jiaxing
+金华市	Jinhua
+衢州	Quzhou
+台州市	Taizhou, Zhejiang
+舟山市	Zhoushan
+迪斯科	Disco
+沧浪区	Canglang District
+阉	Castration
+老虫	Muroidea
+以色列国防军	Israel Defense Forces
+寿春机场	Tho Xuan Airport
+嘟嘟車	Auto rickshaw
+海蒂·克鲁姆	Heidi Klum
+拉吉倪甘斯	Rajinikanth
+阿拉伯文数字	Eastern Arabic numerals
+空军	Air force
+周庄镇 (昆山)	Zhouzhuang
+大名	Daimyo
+太仓	Taicang
+劳莱士表	Rolex
+数码照相机	Digital camera
+数词	Numeral (linguistics)
+哈里发	Caliph
+汇率	Exchange rate
+青森县	Aomori Prefecture
+福岛县	Fukushima Prefecture
+梁思成	Liang Sicheng
+青蛙	Rana (genus)
+海防市	Haiphong
+斯堪的纳维亚半岛	Scandinavian Peninsula
+里尔克	Rainer Maria Rilke
+排列组合	Combinatorics
+鲍林标度	Electronegativity
+街道	Street
+Wikipedia:新闻发布	Wikipedia:Milestones
+机器翻译	Machine translation
+阿根廷国家足球队	Argentina national football team
+面向对象程式编制	Object-oriented programming
+千叶县	Chiba Prefecture
+定积分	Integral
+故宫	Forbidden City
+泰米尔猛虎解放组织	Liberation Tigers of Tamil Eelam
+印度卢比	Indian rupee
+Microsoft Outlook	Microsoft Outlook
+早饭	Breakfast
+自动银行出纳机	Automated teller machine
+秋田县	Akita Prefecture
+乌克兰元	Ukrainian hryvnia
+Ségolène Royal	Ségolène Royal
+通用汽车	General Motors
+1998年个中国水灾	1998 Yangtze River floods
+差头	Taxicab
+乌赛	Region
+雷 (天气)	Thunder
+滇池	Dian Lake
+尼扎·拉言	Nizar Rayan
+拿塔莎 康埔西	Natascha Kampusch
+新浪微博	Sina Weibo
+模板:Cite book	Template:Cite book
+香农 (计算数学家)	Claude Shannon
+宝莱坞	Bollywood
+索里亚省	List of municipalities in Soria
+三角函数	Trigonometric functions
+2009年甲型H1N1流感疫情	2009 flu pandemic
+草	Weed
+文瑾莹	Moon Geun-young
+2004年欧洲足球冠军赛	UEFA Euro 2004
+严重急性呼吸道综合症	Severe acute respiratory syndrome
+Flickr	Flickr
+John C. Mather	John C. Mather
+索尔·珀尔马特	Saul Perlmutter
+希腊数字	Greek numerals
+人民力量党 (泰国)	People's Power Party (Thailand)
+俞正声	Yu Zhengsheng
+普吉岛	Phuket (disambiguation)
+克里米亚鞑靼人	Crimean Tatars
+伊斯兰圣战组织 (巴勒斯坦)	Islamic Jihad Movement in Palestine
+2011年亚洲杯足球比赛入围赛	2011 AFC Asian Cup qualification
+爱媛县	Ehime Prefecture
+圣灰星期三	Ash Wednesday
+邻舍	Neighbourhood
+沙地	Steppe
+鸡窠生凤凰 (电影)	Slumdog Millionaire
+浦东新区	Pudong
+天坛	Temple of Heaven
+外滩	The Bund
+山形县	Yamagata Prefecture
+基呒湖	Lake Kivu
+东野圭吾	Keigo Higashino
+电子工程	Electronic engineering
+台湾海峡	Taiwan Strait
+神奈川县	Kanagawa Prefecture
+中国地区	Chūgoku region
+长野县	Nagano Prefecture
+埼玉县	Saitama Prefecture
+笼	Cage (enclosure)
+英属印度	British Raj
+法国高速铁路	TGV
+Ϝ	Digamma
+群马县	Gunma Prefecture
+Ϙ	Koppa (letter)
+Hugh Jackman	Hugh Jackman
+兵库县	Hyōgo Prefecture
+2004年东南亚大地震搭海啸	2004 Indian Ocean earthquake and tsunami
+李准基	Lee Joon-gi
+安娜·库妮可娃	Anna Kournikova
+天线	Antenna (radio)
+泰国湾	Gulf of Thailand
+2000年欧洲足球冠军赛	UEFA Euro 2000
+Ϛ	Stigma (letter)
+兵房	Barracks
+石川县	Ishikawa Prefecture
+妓院	Brothel
+国际单位制词头	Metric prefix
+静冈县	Shizuoka Prefecture
+对话	Dialogue
+Ͳ	Sampi
+农民	Farmer
+葡蛮郎	Boomerang
+渧拉米酥	Tiramisu
+Ϻ	San (letter)
+毛巾	Towel
+钱包	Wallet
+春节	Chinese New Year
+麻生太郎	Tarō Asō
+无产阶级	Proletariat
+弥撒	Mass (liturgy)
+Naomi Watts	Naomi Watts
+座头鲸	Humpback whale
+冈山县	Okayama Prefecture
+赌场	Casino
+撒旦教	Satanism
+沙道镇 (泰国)	Sadao District
+彰化县	Changhua County
+农历	Chinese calendar
+克罗地亚国家足球队	Croatia national football team
+巴尔喀什湖	Lake Balkhash
+丹尼·波尔	Danny Boyle
+泰国旗	Flag of Thailand
+希腊国家足球队	Greece national football team
+峨眉山	Mount Emei
+Zip	Zip (file format)
+冰壶	Curling
+巴拉同 斯里恰乓	Paradorn Srichaphan
+台风	Typhoon
+台南市	Tainan
+太湖	Lake Tai
+研究生	Postgraduate education
+加蒂诺市 (魁北克)	Gatineau
+针	Sewing needle
+加合拉·孛何妮	Carla Bruni
+北仑区	Beilun District
+欧楂	Mespilus germanica
+袁枚	Yuan Mei
+卡哟儿	Kajol
+魔幻现实主义	Magic realism
+潘玉良	Pan Yuliang
+勒	Bridle
+义和团	Boxer Rebellion
+李芙妮	Tzipi Livni
+列宁搿拉德围城搭仔保卫战	Siege of Leningrad
+1988年欧洲足球冠军赛	UEFA Euro 1988
+皇家夜总会 (电影)	Casino Royale (2006 film)
+薯条	French fries
+吉赛尔·邦臣	Gisele Bündchen
+塔塔拿挪	Tata Nano
+特强气旋风暴纳尔吉斯	Cyclone Nargis
+2008年希腊街头骚乱	2008 Greek riots
+半岛战争	Peninsular War
+日本杯	Japan Cup
+利奧波德咖啡馆	Leopold Cafe
+丽水县	Lệ Thủy District
+莱斯利城堡	Castle Leslie
+Bipasha Basu	Bipasha Basu
+纳吉丝	Nargis
+英国电视电影艺术学院奖	British Academy of Film and Television Arts
+毛纳洛火山	Mauna Loa
+荷兰东印度公司	Dutch East India Company
+富牌国际机场	Phu Bai International Airport
+铁路轨道	Track (rail transport)
+斷背山	Brokeback Mountain
+雀巢公司	Nestlé
+环球小姐	Miss Universe
+ADSL	Asymmetric digital subscriber line
+1992年欧洲足球冠军赛	UEFA Euro 1992
+奥斯区亚国家足球队	Austria national football team
+伦敦德里城	Derry
+新干线	Shinkansen
+达新	Thaksin Shinawatra
+Olga Kurylenko	Olga Kurylenko
+瑞士国家足球队	Switzerland national football team
+莲姜国际机场	Lien Khuong Airport
+金泳三	Kim Young-sam
+星海爭霸	StarCraft
+波兰国家足球队	Poland national football team
+瑞穗银行	Mizuho Financial Group
+姑蘇區	Gusu District
+祖父母	Grandparent
+环球影视城	Universal Studios
+罗马尼亚国家足球队	Romania national football team
+唐宁街10号	10 Downing Street
+小仲马	Alexandre Dumas, fils
+芹苴机场	Can Tho International Airport
+罗杰·科恩伯格	Roger D. Kornberg
+2008年末─2009年初加沙地带大规模军事行动	Gaza War (2008–09)
+利息	Interest
+直接民主制	Direct democracy
+橡胶擦子	Eraser
+幽老猫	Hide-and-seek
+ت	Taw
+ث	Ṯāʾ
+萨丽	Sari
+1960年欧洲足球国家杯	1960 European Nations' Cup
+几何原本	Euclid's Elements
+خ	Ḫāʾ
+数码信号处理	Digital signal processing
+解热镇痛药	Analgesic
+木版画	Woodcut
+世界小姐	Miss World
+长沙市	Changsha
+阿披实	Abhisit Vejjajiva
+越南国家航空公司	Vietnam Airlines
+伦敦政治经济学院	London School of Economics
+油画	Oil painting
+达乃 乌同秋克	Danai Udomchoke
+Portal:历史	Portal:History
+泥石流	Mudflow
+洲际弹道飞弹	Intercontinental ballistic missile
+物流	Logistics
+遗传转录	Transcription (genetics)
+繁体字	Traditional Chinese characters
+宦官	Eunuch
+虱误	Software bug
+阿歷克山德拉·柯倫泰	Alexandra Kollontai
+George F. Smoot	George Smoot
+Ϸ	Sho (letter)
+锡克金庙	Harmandir Sahib
+酋长航空公司	Emirates (airline)
+1996年欧洲足球冠军赛	UEFA Euro 1996
+消费者物价指数	Consumer price index
+国际足球联合会世界排名表	FIFA World Rankings
+卡本塔里亚湾	Gulf of Carpentaria
+超级市场	Supermarket
+章子怡	Zhang Ziyi
+Heineken	Heineken International
+威尔士国家足球队	Wales national football team
+千分比	Per mille
+高雄市	Kaohsiung
+病人	Patient
+基拉尼湖	Lakes of Killarney
+1980年欧洲足球冠军赛	UEFA Euro 1980
+1968年欧洲足球冠军赛	UEFA Euro 1968
+1964年欧洲足球国家杯	1964 European Nations' Cup
+印第安纳琼斯 —— 水晶骷髅王国	Indiana Jones and the Kingdom of the Crystal Skull
+1972年欧洲足球冠军赛	UEFA Euro 1972
+Bayes定理	Bayes' theorem
+美人魚	Mermaid
+普吉府	Phuket Province
+1984年欧洲足球冠军赛	UEFA Euro 1984
+亚历山大	Alexandria (disambiguation)
+昆明	Kunming
+老呒所依	No Country for Old Men (film)
+东京铁塔	Tokyo Tower
+兰州市	Lanzhou
+佛來崮	Le Puy-en-Velay
+头趟公开募股	Initial public offering
+羅迪尼亞	Rodinia
+欧里维娅	Olivia Newton-John
+Knol	Knol
+Ͱ	Heta
+法国航空447号班机	Air France Flight 447
+共享软件	Shareware
+简化字	Simplified Chinese characters
+Lend Lease	Lend Lease Group
+Mike Myers	Mike Myers
+文雅信使	Mercure de France
+薄拉特 (电影)	Borat
+張勉	Chang Myon
+耳機	Headphones
+利库德党	Likud
+洛阳	Luoyang
+淞河	Saône
+白鳍豚	Baiji
+雅拉脉郡	Yarra Ranges Shire
+1976年欧洲足球冠军赛	UEFA Euro 1976
+平昌郡	Pyeongchang County
+藤球	Sepak takraw
+亚洲开发银行	Asian Development Bank
+奖学金	Scholarship
+矮马	Pony
+匈奴编年史	Xiongnu
+孟子	Mencius
+帝国理工	Imperial College London
+曾国藩	Zeng Guofan
+卫生	Public health
+桂林	Guilin
+雪兰莪州	Selangor
+海口市	Haikou
+海拔	Altitude
+挪威广播公司	NRK
+中原地区	Central Plain (China)
+第一趟鸦片战争	First Opium War
+声调	Tone (linguistics)
+基督山伯爵	The Count of Monte Cristo
+玛丽女王2号	RMS Queen Mary 2
+法国总统	President of France
+尹潽善	Yun Posun
+伊顿公学	Eton College
+越盾	Vietnamese dong
+解剖学治疗学及化学分类系统	Anatomical Therapeutic Chemical Classification System
+尹致昊	Yun Chi-ho
+终结者3	Terminator 3: Rise of the Machines
+北卡罗莱纳大学教堂山分校	University of North Carolina at Chapel Hill
+我有一只梦	I Have a Dream
+上海世博会	Expo 2010
+梦工厂	DreamWorks
+谢列梅捷沃国际机场	Sheremetyevo International Airport
+麵	Noodle
+瑞联银行	UBS
+观世音	Avalokiteśvara
+新曼谷国际机场	Suvarnabhumi Airport
+闸北区	Zhabei District
+张爱玲	Eileen Chang
+章太炎	Zhang Binglin
+张道陵	Zhang Daoling
+张居正	Zhang Juzheng
+张家港	Zhangjiagang
+浙江大学	Zhejiang University
+郑洁	Zheng Jie
+正阳门	Zhengyangmen
+镇海区	Zhenhai District
+月饼	Mooncake
+周迅	Zhou Xun
+朱家角	Zhujiajiao
+诸暨	Zhuji
+株洲市	Zhuzhou
+壯學	Zhuang studies
+中国人民解放军	People's Liberation Army
+辛格·旺楚克 (不丹国王)	Jigme Singye Wangchuck
+利尿药	Diuretic
+毕升	Bi Sheng
+华南虎	South China tiger
+巴黎大区高速铁路C线	RER C
+精神疾病诊断搭仔统计手冊	Diagnostic and Statistical Manual of Mental Disorders
+米尔克 (电影)	Milk (film)
+高棉帝国	Khmer Empire
+狙击手	Sniper
+鼻衄	Nosebleed
+开脱•文斯莱脱	Kate Winslet
+平均	Average
+斯里兰卡国家板球队	Sri Lanka national cricket team
+富国机场	Phu Quoc Airport
+李商隐	Li Shangyin
+曹操	Cao Cao
+火山湖	Crater lake
+水粉画	Gouache
+拨人忽视个真相	An Inconvenient Truth
+Isaac Hayes	Isaac Hayes
+春武里府	Chonburi Province
+武夷山	Wuyi Mountains
+塔麻可吉电子小鸡	Tamagotchi
+泰王国国歌	Thai National Anthem
+二氧化氮	Nitrogen dioxide
+冬至	Winter solstice
+风月俏佳人	Pretty Woman
+新台币	New Taiwan dollar
+混成词	Portmanteau
+法国省份一览表	Provinces of France
+BOINC	Berkeley Open Infrastructure for Network Computing
+袁世凯	Yuan Shikai
+袋鼠岛	Kangaroo Island
+泰拉 蕾	Tara Reid
+氯化氢	Hydrogen chloride
+刘翔	Liu Xiang
+蒙古人民共和国	Mongolian People's Republic
+DTD	Document type definition
+开脱•末斯	Kate Moss
+娜塔莎·李察遜	Natasha Richardson
+三聚氰胺	Melamine
+高隆皮亚国家足球队	Colombia national football team
+莫尼卡-莱温斯基	Monica Lewinsky
+雷曼兄弟公司	Lehman Brothers
+大使馆	Diplomatic mission
+喫	Eating
+金奎植	Kim Kyu-sik
+IPod Shuffle	IPod Shuffle
+泼水节	Songkran (Thailand)
+7-Zip	7-Zip
+洋油盏	Kerosene lamp
+Julius Pokorny	Julius Pokorny
+南沙群岛	Spratly Islands
+湘潭市	Xiangtan
+费加罗报 (法国)	Le Figaro
+汽车旅馆	Motel
+垃圾桶	Waste container
+金刚 (电影)	King Kong
+泻药	Laxative
+海龜	Sea turtle
+老鼠会	Ponzi scheme
+赌城风云 (电影)	Casino (film)
+化学品登记、评估、准许搭限制法规	Registration, Evaluation, Authorisation and Restriction of Chemicals
+学科	Outline of academic disciplines
+性用品商店	Sex shop
+ISO/IEC 8859	ISO/IEC 8859
+关公	Guan Yu
+龟	Turtle
+东方明珠	Oriental Pearl Tower
+国际足联世界冠军俱乐部杯赛	FIFA Club World Cup
+卢旺达旅馆	Hotel Rwanda
+重见日头 (1996年电影)	Daylight (film)
+苹果 (消歧义)	Apple (disambiguation)
+非洲国家列表	List of sovereign states and dependent territories in Africa
+Isla Fisher	Isla Fisher
+石泰凡妮 莱斯	Stephanie Rice
+印度空间研究组织	Indian Space Research Organisation
+臺灣 (消歧義)	Taiwan (disambiguation)
+酱油	Soy sauce
+新山	Johor Bahru
+Euro	Euro (disambiguation)
+MT	MT
+泰-老友谊大桥二号桥	Second Thai–Lao Friendship Bridge
+国富论	The Wealth of Nations
+清迈府	Chiang Mai Province
+蔡英文	Tsai Ing-wen
+宋卡府	Songkhla Province
+平年	Common year
+玫瑰人生 (2007年电影)	La Vie en Rose (film)
+沙吞府	Satun Province
+泰文字母表	Thai alphabet
+清莱府	Chiang Rai Province
+拉廊府	Ranong Province
+披集府	Phichit Province
+We Are the Champions	We Are the Champions
+九龙	Kowloon
+末尔悬岩	Cliffs of Moher
+IT狂人	The IT Crowd
+北榄坡府	Nakhon Sawan Province
+碧差汶府	Phetchabun Province
+普吉国际机场	Phuket International Airport
+抗心律失常药	Antiarrhythmic agent
+陈艳青	Chen Yanqing
+2008年欧洲足球冠军赛	UEFA Euro 2008
+五代十国	Five Dynasties and Ten Kingdoms period
+森理世	Riyo Mori
+QED	QED
+索马里内战	Somali Civil War
+沙马	Samak Sundaravej
+金砖国家	BRICS
+安纳乍能府	Amnat Charoen Province
+董里府	Trang Province
+博他仑府	Phatthalung Province
+纳戈尔诺-卡拉巴赫	Nagorno-Karabakh Republic
+血色将至	There Will Be Blood
+乌泰他尼府	Uthai Thani Province
+新北市	New Taipei City
+臺中市	Taichung
+真爱个火焰 (印度电影)	Devdas (2002 Hindi film)
+中国地铁	Urban rail transit in China
+他拉嘞共 (维克多利亚)	Traralgon
+堂前	Ancestral shrine
+和谐社会	Harmonious Society
+口令伍德澳式足球队	Collingwood Football Club
+新竹市	Hsinchu
+王力宏	Wang Leehom
+轰炸机澳洲式足球队	Essendon Football Club
+鹅	Domestic goose
+年号	Chinese era name
+高丽航空	Air Koryo
+环球银行金融电信协会	Society for Worldwide Interbank Financial Telecommunication
+Motorola	Motorola
+赛义巴巴	Sai Baba of Shirdi
+欧洲足球冠军赛	UEFA European Championship
+汽水	Carbonated water
+天狼星号油轮	MV Sirius Star
+三沙市	Sansha
+保合多伽勒国家足球队	Portugal national football team
+车路	Highway
+苏梅岛	Ko Samui
+爱尔兰镑	Irish pound
+陈冯富珍	Margaret Chan
+中岛美嘉	Mika Nakashima
+Lauren Jackson	Lauren Jackson
+安娜 米亚里斯	Anna Meares
+Prapawadee Jaroenrattanatarakoon	Prapawadee Jaroenrattanatarakoon
+邓亚萍	Deng Yaping
+里斯班斯 齐凯脱	Libby Trickett
+西跋榭滴	Shilpa Shetty
+石泰凡妮 孛朗	Stephanie Brown Trafton
+Melissa Etheridge	Melissa Etheridge
+陈冲	Joan Chen
+林心如	Ruby Lin
+陈若琳 (运动员)	Chen Ruolin
+Jennifer Hawkins	Jennifer Hawkins
+张柏芝	Cecilia Cheung
+Sheryl Swoopes	Sheryl Swoopes
+Pamela Jelimo	Pamela Jelimo
+挪威公主阿斯特丽德	Princess Astrid, Mrs. Ferner
+莱索尔 强斯	Leisel Jones
+汤唯	Tang Wei
+陈慧琳	Kelly Chen
+诗丽黛玮	Sridevi
+郭晶晶	Guo Jingjing
+陈燮霞	Chen Xiexia
+头孢菌素	Cephalosporin
+沙没巴干府	Samut Prakan Province
+呵叻府	Nakhon Ratchasima Province
+藏羚羊	Tibetan antelope
+生个利亚酒	Sangria
+浮罗交怡	Langkawi
+攀牙府	Phang Nga Province
+馅饼统计图	Pie chart
+艾管里	Écully
+抗酸剂	Antacid
+早稻田大学	Waseda University
+吴 (三国)	Eastern Wu
+氯霉素	Chloramphenicol
+猜也贲府	Chaiyaphum Province
+泰华农民银行	Kasikornbank
+计程车3	Taxi 3
+英特尔砂桥	Sandy Bridge
+马肖·米切姆	Matthew Mitcham
+耶莲娜	Jelena Dokic
+甲骨文财软	Oracle Financial Services Software
+重组DNA	Recombinant DNA
+海宁市	Haining City
+硫酸镁	Magnesium sulfate
+拉喇·杜打	Lara Dutta
+汽车租赁	Car rental
+澳大利亚搭新西兰军团纪念日	Anzac Day
+ANZ大球场	Stadium Australia
+杨玉环	Yang Guifei
+素拉育	Surayud Chulanont
+颂猜·旺沙瓦	Somchai Wongsawat
+地帕·漫它	Deepa Mehta
+拍凤裕庭 (泰国将军)	Phraya Phahon Phonphayuhasena
+奥特莱•导都	Audrey Tautou
+Β－内酰胺类抗生素	Β-lactam antibiotic
+APM	Apm, Hong Kong
+金城武	Takeshi Kaneshiro
+周星驰	Stephen Chow
+EXist	EXist
+WHO	Who (Unix)
+多尼尔228	Dornier Do 228
+孙权	Sun Quan
+蒋经国	Chiang Ching-kuo
+墨尔本胜利	Melbourne Victory FC
+纳维语	Na'vi language
+Al Burj大厦 (迪拜)	Nakheel Tower
+神舟七号飞船	Shenzhou 7
+鬼勒耳朵边头讲	Ghost Whisperer
+Grant George Hackett	Grant Hackett
+松浦晃一郎	Kōichirō Matsuura
+茄特 艾勒麦勒	Gad Elmaleh
+韩愈	Han Yu
+梁朝伟	Tony Leung Chiu-Wai
+丁俊晖	Ding Junhui
+澳大利亚总理	Prime Minister of Australia
+王安石	Wang Anshi
+投资银行	Investment banking
+徐載弼	Seo Jae-pil
+阿宾拿夫 宾德拉	Abhinav Bindra
+窃听器	Covert listening device
+巴真府	Prachinburi Province
+水晶棺材 (传说)	The Glass Coffin
+精工表	Seiko
+杭州灣大橋	Hangzhou Bay Bridge
+武里喃府	Buriram Province
+坤敬府	Khon Kaen Province
+德国无线通信	T-Mobile
+廊开府	Nong Khai Province
+基斯孔哈拉斯	Kiskunhalas
+日本中央银行	Bank of Japan
+Raja Ravi Varma	Raja Ravi Varma
+李自成	Li Zicheng
+哈桑式火箭弹	Qassam rocket
+林语堂	Lin Yutang
+朴憲永	Pak Hon-yong
+金枓捧	Kim Tu-bong
+龙仔厝府	Samut Sakhon Province
+信武里府	Sing Buri Province
+包拯	Bao Zheng
+大雪	Daxue (solar term)
+武昌起义	Wuchang Uprising
+镐立 (泰国)	Khao Lak
+同心隆安足球俱乐部	Đồng Tâm Long An F.C.
+Ad-hoc On-demand Distance Vector	Ad hoc On-Demand Distance Vector Routing
+教堂山	Chapel Hill
+VOC	VOC
+阿德来德联队	Adelaide United FC
+芜湖市	Wuhu
+安庆市	Anqing
+亳州市	Bozhou
+上饶	Shangrao
+冯玉祥	Feng Yuxiang
+佛历	Buddhist calendar
+银河处女	Virgin Galactic
+2007年加沙地带争夺战	Battle of Gaza (2007)
+拗廊 (泰国)	Ao Nang
+新兴工业国家	Newly industrialized country
+崇明岛	Chongming Island
+李鸿章	Li Hongzhang
+塞杜沙里夫	Saidu Sharif
+中秋节	Mid-Autumn Festival
+元均	Won Gyun
+浅野忠信	Tadanobu Asano
+炳·廷素拉暖	Prem Tinsulanonda
+陈冠希	Edison Chen
+以蒙 苏里房	Eamon Sullivan
+雷锋	Lei Feng
+梁启超	Liang Qichao
+多尔衮	Dorgon
+素可泰府	Sukhothai Province
+卡茂尔·哈珊	Kamal Haasan
+彭德怀	Peng Dehuai
+依善	Isan
+紫峰大厦	Zifeng Tower
+姚文元	Yao Wenyuan
+海上花 (电影)	Flowers of Shanghai
+宁国	Ningguo
+Khao Yai National Park	Khao Yai National Park
+应召女郎个秘密日记	Secret Diary of a Call Girl
+泰国学园唱歌比赛	Academy Fantasia
+斯瓦特县	Swat District
+悉尼晨锋报	The Sydney Morning Herald
+The quick brown fox jumps over the lazy dog	The quick brown fox jumps over the lazy dog
+TCL	TCL
+静安寺	Jing'an Temple
+金牌	Gold medal
+亚洲航空	AirAsia
+台南	Tainan (disambiguation)
+白鹿洞书院	White Deer Grotto Academy
+秋叶原	Akihabara
+徐光启	Xu Guangqi
+林可酰胺类抗生素	Lincosamides
+强心苷	Cardiac glycoside
+SDS	Sodium dodecyl sulfate
+四环素类抗生素	Tetracycline antibiotics
+大环内酯类抗生素	Macrolide
+恒生指数	Hang Seng Index
+喹诺酮	Quinolone
+维基百科编辑手册	Wikipedia – The Missing Manual
+靖江	Jingjiang
+通州	Tongzhou
+新苏格兰银行	Scotiabank
+Моа	Moa
+掸邦	Shan State
+1976年河北唐山大地震	1976 Tangshan earthquake
+上海地铁	Shanghai Metro
+以色列空军	Israeli Air Force
+玩转身前事	The Bucket List
+秋瑾	Qiu Jin
+崇礼门	Namdaemun
+保琳汉生	Pauline Hanson
+伍丽群	Melissa Wu
+阿嘞伽莎拉	Ruqaya Al-Ghasra
+許貞淑	Heo Jong-suk
+嫦娥	Chang'e
+孛里盎妮 高尔	Briony Cole
+羅蕙錫	Na Hye-sok
+安娜 孛莱	Anna Bligh
+迪温·布朗	Estella Marie Thompson
+钟欣桐	Gillian Chung
+Liudmila Blonska	Lyudmyla Blonska
+吴三桂	Wu Sangui
+孙休	Sun Xiu
+許政	Heo Jeong
+孙皓	Sun Hao
+孙亮	Sun Liang
+宋吉 (拳手)	Somjit Jongjohor
+韩寒	Han Han
+滑水	Waterskiing
+泰国人	Thai people
+亚罗士打	Alor Setar
+挽腊茫郡	Bang Lamung District
+棕榈山 (泰国)	Khao Kho District
+湄赛边关	Mae Sai District
+博拉碧湖	Bueng Boraphet
+色望红丁郡 (泰国)	Sawang Daen Din District
+维坚武里	Wichian Buri District
+國際馬術聯合會	International Federation for Equestrian Sports
+世界佛教徒聯誼會	World Fellowship of Buddhists
+新山一国际机场	Tan Son Nhat International Airport
+宏碁电脑	Acer Inc.
+运动场	Stadium
+朝鲜半岛	Korean Peninsula
+圣保罗地铁	São Paulo Metro
+亚运会	Asian Games
+捷克国家足球队	Czech Republic national football team
+朝鲜族	Koreans
+吕克·贝松	Luc Besson
+俞吉濬	Yu Kil-chun
+丁岩礁	Parangcho
+Tesco	Tesco
+萨尔浒之战	Battle of Sarhu
+傲游浏览器	Maxthon
+供应链管理	Supply chain management
+金庾信	Kim Yushin
+金明淳	Kim Myeong-sun
+李爱情	Lee Ae-jung
+长今之梦	Jang Geum's Dream
+武烈王	Muyeol of Silla
+文武王	Munmu of Silla
+朴仁德	Park In-deok
+金来沅	Kim Rae-won
+复旦大学	Fudan University
+仁川地铁	Incheon Subway
+李光洙	Yi Kwang-su
+朴重陽	Park Jung-yang
+六方会谈	Six-party talks
+超级跑跑	TalesRunner
+金润玉	Kim Yoon-ok
+奶粉	Powdered milk
+班地戈 (维克多利亚)	Bendigo
+朝鲜核问题	North Korea and weapons of mass destruction
+韩国放送公社	Korean Broadcasting System
+莎阿南	Shah Alam
+玉山	Yushan (mountain)
+泰文数字	Thai numerals
+西湖	West Lake
+澳大利亚日	Australia Day
+大屿山	Lantau Island
+60秒惊天动地	Gone in 60 Seconds (2000 film)
+伊斯兰祈愿团	Jemaah Islamiyah
+Andry Laffita	Andry Laffita
+冈片山	Grampians National Park
+中庸	Doctrine of the Mean
+饭	Steamed rice
+德文语法	German grammar
+温岭	Wenling
+上海交通大學	Shanghai Jiao Tong University
+输入法	Input method
+托忒蒙古文	Clear script
+卡卡	Kaká
+弗灭个灯	There Is a Light That Never Goes Out
+Mia Young	Mia X
+南邦机场	Lampang Airport
+南印度	South India
+2009年枪击斯里兰卡板球队事件	2009 attack on the Sri Lanka national cricket team
+许冠杰	Samuel Hui
+柏林宣言	Berlin Declaration (2007)
+安吉	Anji County
+视力	Visual acuity
+星期四岛	Thursday Island, Queensland
+陈英雄	Tran Anh Hung
+徐志摩	Xu Zhimo
+趙元任	Yuen Ren Chao
+蒙古简介	Mongolian Plateau
+沈约	Shen Yue
+我个小新娘子	My Little Bride
+IBM	IBM (disambiguation)
+巴彦淖尔	Bayannur
+稷下學宮	Jixia Academy
+抗糖尿病药	Anti-diabetic medication
+抗高血压药	Antihypertensive drug
+抗真菌药	Antifungal medication
+岳庙	Yue Fei Temple
+南京路	Nanjing Road
+意大利杂菜汤	Minestrone
+算筹	Counting rods
+咳嗽药	Cough medicine
+搿连乃尔河 (维克多利亚)	Glenelg River (Victoria)
+罗得乃斯脱岛	Rottnest Island
+花岗岩岛 (澳大利亚)	Granite Island (South Australia)
+海峡两岸关系	Cross-Strait relations
+萨萌妲，哦哟	Samantha oups!
+萧山	Xiaoshan District
+世界大婶	Mrs. World
+SourceWatch	SourceWatch
+泰国旅游	Tourism in Thailand
+琅琴表	Longines
+醴陵市	Liling
+奠边府战役	Battle of Dien Bien Phu
+帕克斯 (新南威尔士州)	Parkes, New South Wales
+窝同搿 (维克多利亚)	Wodonga
+如东	Rudong County
+正大集团	Charoen Pokphand
+胡志明	Ho Chi Minh (disambiguation)
+List of Thailand cities	List of cities in Thailand
+法拉备拉矮马	Falabella
+甲米机场	Krabi Airport
+水 (2005年电影)	Water (2005 film)
+阿披叻	Apirak Kosayodhin
+西非国家中央银行	Central Bank of West African States
+依夫城堡	Château d'If
+皮蛋	Century egg
+庐山	Mount Lu
+必和必拓矿业公司	BHP Billiton
+西海大桥	Seohae Bridge
+零假设	Null hypothesis
+世纪报	The Age
+霍元甲 (电影)	Fearless (2006 film)
+布鲁塞尔皇宫	Royal Palace of Brussels
+饺子	Jiaozi
+山猜 拉蒂伐塔娜	Sanchai Ratiwatana
+乃米湖	Lake Nemi
+Ulladulla (新南威尔士)	Ulladulla, New South Wales
+维杰式坦克 (印度)	Vijayanta
+黄浦区	Huangpu District, Shanghai
+长宁区	Changning District
+广州地铁	Guangzhou Metro
+静安区	Jing'an District
+普陀區	Putuo District
+普陀区 (上海)	Putuo District, Shanghai
+虹口区	Hongkou District
+杨浦区	Yangpu District
+闵行区	Minhang District
+宝山区 (上海)	Baoshan District, Shanghai
+嘉定区	Jiading District
+金山区 (上海市)	Jinshan District
+松江区	Songjiang District
+青浦区	Qingpu District, Shanghai
+奉贤区	Fengxian District
+性旅游者	Sex tourism
+卡里平	Caribbean
+素岳山	Doi Suthep
+教堂山 (北卡罗来纳州)	Chapel Hill, North Carolina
+启德机场	Kai Tak Airport
+昆剧	Kunqu
+意大利国家足球队	Italy national football team
+国际先驱论坛报	International New York Times
+卡隆巴 (澳大利亚)	Karumba, Queensland
+流亡政府	Government in exile
+发声态	Phonation
+海门市	Haimen
+日本色情业	Pornography in Japan
+中文数字大写	Chinese numerals
+南京大學	Nanjing University
+輔仁大學	Fu Jen Catholic University
+号子	Prison cell
+鹰式教练机	BAE Systems Hawk
+搿连搭罗格 (爱尔兰)	Glendalough
+快门	Shutter (photography)
+国产凌凌漆	From Beijing with Love
+白朗	Blaupunkt
+Shooting Dogs	Shooting Dogs
+金刚	Vajra
+谥号	Posthumous name
+吴佩孚	Wu Peifu
+徐温	Xu Wen
+吴敬梓	Wu Jingzi
+四庫全書	Siku Quanshu
+李茂贞	Li Maozhen
+杭州湾	Hangzhou Bay
+刘心悠	Annie Liu
+刘濞	Liu Pi, Prince of Wu
+魏忠贤	Wei Zhongxian
+市区	Urban area
+小笼馒头	Xiaolongbao
+张士诚	Zhang Shicheng
+叶永烈	Ye Yonglie
+网球王子	The Prince of Tennis
+段祺瑞	Duan Qirui
+中国医药大学	China Medical University (Taiwan)
+中法战争	Sino-French War
+梁咏琪	Gigi Leung
+台湾高速铁路	Taiwan High Speed Rail
+Twins	Twins (group)
+庙号	Temple name
+张岱	Zhang Dai
+刘嘉玲	Carina Lau
+潘迪华	Rebecca Pan
+言承旭	Jerry Yan
+李未	Li Wei (scientist)
+台湾问题	Political status of Taiwan
+香港惠康超级市场	Wellcome
+汤恩伯	Tang Enbo
+清云科技大学	Chien Hsin University of Science and Technology
+东京爱情故事	Tokyo Love Story
+张謇	Zhang Jian (politician)
+钱穆	Ch'ien Mu
+王晶	Wong Jing
+罗慧娟	Jacqueline Law
+李定国	Li Dingguo
+许雅涵	Candy Hsu
+陈仪	Chen Yi (Kuomintang)
+溫州話	Wenzhounese
+启东	Qidong, Jiangsu
+奉化市	Fenghua
+西德	West Germany
+油条	Youtiao
+蔡卓妍	Charlene Choi
+陈良宇	Chen Liangyu
+亚洲国家列表	List of sovereign states and dependent territories in Asia
+春卷	Spring roll
+袁崇焕	Yuan Chonghuan
+张献忠	Zhang Xianzhong
+还珠格格	My Fair Princess
+金塘岛	Jintang Island
+李金华	Li Jinhua
+春晓气油田	Chunxiao gas field
+卫诗	Jill Vidal
+王菀之	Ivana Wong
+杨采妮	Charlie Young (actress)
+台湾土地银行	Land Bank of Taiwan
+林世荣	Lam Sai-wing
+徐熙娣	Dee Hsu
+台湾个银行一览表	List of banks in Taiwan
+林明达	Sondhi Limthongkul
+贡丸	Pork ball
+沼蛙	Hylarana guentheri
+郑欣宜	Joyce Cheng
+林凤娇	Lin Feng-jiao
+攀牙湾	Phang Nga Bay
+品冠	Victor Wong (singer)
+陈叔宝	Chen Shubao
+陈霸先	Emperor Wu of Chen
+中华大学	Chung Hua University
+色，戒	Lust, Caution (film)
+鲸体爆炸事件	Exploding whale
+中子彈	Neutron bomb
+澳大利亚电信公司	Telstra
+金坛	Jintan
+上海申花足球俱乐部	Shanghai Greenland Shenhua F.C.
+俄罗斯国家足球队	Russia national football team
+计程车(1998年电影)	Taxi (1998 film)
+XUL	XUL
+蓝天处女	Virgin Australia
+現代標準漢語	Standard Chinese
+金边粉	Pad Thai
+薛福成	Xue Fucheng
+پ	Pe (Persian letter)
+赛义德·西扬姆	Said Seyam
+圆仁	Ennin
+James Angleton	James Jesus Angleton
+宋恰脱 拉蒂伐塔娜	Sonchat Ratiwatana
+中国国家图书馆	National Library of China
+大漠孤雄 (电影)	Mongol (film)
+墨尔本机场。	Melbourne Airport
+TCL集团	TCL Corporation
+西昌卫星发射中心	Xichang Satellite Launch Center
+镇	Towns of the People's Republic of China
+2008年欧洲足球冠军赛资格赛C组	UEFA Euro 2008 qualifying Group C
+鲁国	Lu (state)
+塞蓝南无施对	Salaam Namaste
+捧景配启 (拳手)	Pone Kingpetch
+神户机场	Kobe Airport
+巴黎大区高速铁路A线	RER A
+泰国人妖	Kathoey
+丢勒个犀牛	Dürer's Rhinoceros
+泰国北部	Northern Thailand
+凯山丰威汉市	Savannakhet
+高分子化学	Polymer chemistry
+苏州码子	Suzhou numerals
+文子	Wenzi
+克里米亚共和国	Autonomous Republic of Crimea
+计程车2	Taxi 2
+计程车4	Taxi 4
+医疗游客	Medical tourism
+哈米嘞吞 (维克多利亚)	Hamilton, Victoria
+ISO/IEC 646	ISO/IEC 646
+捷星航空	Jetstar Airways
+暖武里市	Nonthaburi (city)
+素叻国际机场	Surat Thani Airport
+亭曼岛	Tioman Island
+岘港国际机场	Da Nang International Airport
+百越	Baiyue
+共同語	Koiné language
+西塘镇	Xitang
+Jászszentlászló	Jászszentlászló
+大城银行 (泰国)	Bank of Ayudhya
+舟山跨海大桥	G9211 Ningbo–Zhoushan Expressway
+崇明县	Chongming County
+泰国外交部	Ministry of Foreign Affairs (Thailand)
+国王岛	King Island (Tasmania)
+宋卡市	Songkhla
+巴卡西半岛	Bakassi
+挽甲必区	Bang Kapi District
+盘谷银行	Bangkok Bank
+马来西亚国家银行	Bank Negara Malaysia
+爱尔兰银行	Bank of Ireland
+赞比亚国家银行	Bank of Zambia
+泰国国家银行	Bank of Thailand
+孛脱马恩斯湾 (澳州)	Batemans Bay
+应召女郎	Call girl
+北塘区	Beitang District
+班嘞格雷夫 (墨尔本)	Belgrave, Victoria
+赤壁(2008年电影)	Red Cliff (film)
+黑人	Black people
+五公祠	Temple of the Five Lords
+普腾汽车	Proton (automobile)
+生-丰	Saint-Fons
+码头	Wharf
+购物	Shopping
+省会	List of current and former capitals of subdivisions of China
+苏州言话	Suzhou dialect
+热干面	Hot dry noodles
+金磚四國	BRIC
+富通银行	Fortis (finance)
+秦淮河	Qinhuai River
+越王勾践剑	Sword of Goujian
+远古侵略	Primeval
+白云山 (广州)	Baiyun Mountain (Guangzhou)
+国防科学技术工业委员会	Commission for Science, Technology and Industry for National Defense
+宰予	Zai Yu
+韶山市	Shaoshan
+Schweppes	Schweppes
+傣族	Dai people
+东突厥斯坦	East Turkestan
+香港邮政总局	General Post Office, Hong Kong
+上海中学	Shanghai High School
+坚尼地道	Kennedy Road, Hong Kong
+欧冶子	Ou Yezi
+內排国际机场	Noi Bai International Airport
+普吉市	Phuket (city)
+F-15雷暴式战斗机	McDonnell Douglas F-15E Strike Eagle
+抗病毒药	Antiviral drug
+國際語音學學會	International Phonetic Association
+维基百科孵化器	Wikimedia Incubator
+火锅	Hot pot
+银牌	Silver medal
+干将莫邪	Gan Jiang and Mo Ye
+阿嘞白拿湖	Lake Albano
+午马	Wu Ma
+冠军	Champion
+印度行政区人口列表	List of states and union territories of India by population
+性工作者	Sex worker
+越捷航空	VietJet Air
+巴乃到乃	Panettone
+拉玛九世	Bhumibol Adulyadej
+外国口音综合症	Foreign accent syndrome
+卡嘞吞澳式足球俱乐部	Carlton Football Club
+流浪者 (印度电影)	Awara (1951 film)
+嫦娥工程	Chinese Lunar Exploration Program
+日落大道	Sunset Boulevard
+科索沃宣布独立事件（2008年）	2008 Kosovo declaration of independence
+东南亚国家杯足球比赛	AFF Championship
+公主	Princess
+薄扶林道	Pok Fu Lam Road
+漆咸道	Chatham Road
+年宵	Lunar New Year Fair
+毕打街	Pedder Street
+摩士公园	Morse Park
+大坑道	Tai Hang Road
+四面佛	Phra Phrom
+最爱女人购物狂	The Shopaholics
+滨湖区	Binhu District
+苏丹航空公司	Sudan Airways
+南翔镇	Nanxiang
+石头城	Stone City
+苏梅国际机场	Samui Airport
+那空沙旺府教区	Roman Catholic Diocese of Nakhon Sawan
+阴蒂	Clitoris
+三清山	Mount Sanqing
+铜牌	Bronze medal
+胡志明纪念堂	Ho Chi Minh Mausoleum
+喃字	Chữ nôm
+性奴隶	Sexual slavery
+天主教上海教区	Roman Catholic Diocese of Shanghai
+坤敬市	Khon Kaen
+粥	Congee
+孛拉尼城堡	Blarney Castle
+1993年印度孟买炸弹大爆炸	1993 Bombay bombings
+巴亭郡	Ba Đình District
+2006年印度孟买火车大爆炸	2006 Mumbai train bombings
+钱元瓘	Qian Yuanguan
+孛拉先拿湖	Lake Bracciano
+统万城	Tongwancheng
+金瓯机场	Cà Mau Airport
+十国春秋	Spring and Autumn Annals of the Ten Kingdoms
+Debian自由软件指导方针	Debian Free Software Guidelines
+文艺春秋 (出版社)	Bungeishunjū
+叶麂	Leaf muntjac
+外蒙古	Outer Mongolia
+天目山	Tianmu Mountain
+挥发性有机化合物	Volatile organic compound
+2009年以色列国会大选	Israeli legislative election, 2009
+动力大厦 (迪拜)	Dynamic Tower
+吴国	Wu (state)
+合艾国际机场	Hat Yai International Airport
+南美洲国家列表	List of sovereign states and dependent territories in South America
+苏州地铁	Suzhou Rail Transit
+帮助:目录	Help:Contents
+Wikipedia:Tutorial	Wikipedia:Tutorial
+龙虎山	Mount Longhu
+泰-老友谊大桥一号桥	Thai–Lao Friendship Bridge
+澳洲电信大球场	Docklands Stadium
+澎湖列岛	Penghu
+中国画	Chinese painting
+申報	Shen Bao
+盖代拉	Gedera
+龙游县	Longyou County
+澳大利亚国家气象局	Bureau of Meteorology
+支气管扩张剂	Bronchodilator
+泰国摩天大楼列表	List of tallest buildings in Thailand
+京津城际铁路	Beijing–Tianjin Intercity Railway
+琼语	Hainanese
+哥打丁宜	Kota Tinggi
+莱 (泰国)	Rai (unit)
+周曙光	Zhou Shuguang
+弗林德斯岛 (塔斯曼尼亚)	Flinders Island
+伐拉古嘞 (维克多利亚)	Warragul
+吴中区	Wuzhong District
+印度储备银行	Reserve Bank of India
+2007年友谊快线大爆炸	2007 Samjhauta Express bombings
+泰国王家军队	Royal Thai Armed Forces
+河姆渡文化	Hemudu culture
+曼谷大桥	Krungthep Bridge
+皇家铸币局	Royal Mint
+阿根廷，勿要为奴哭泣	Don't Cry for Me Argentina
+福布斯	Forbes
+马拉浦南	Malappuram
+塔斯马尼亚州立大学	University of Tasmania
+人妖打排球	The Iron Ladies
+泰京银行 (泰国)	Krung Thai Bank
+星野亚希	Aki Hoshino
+解放日	Liberation Day
+国王湖 (维克多利亚)	Kinglake, Victoria
+清莱国际机场	Chiang Rai International Airport
+上海迪斯尼	Shanghai Disney Resort
+陆上风帆	Land sailing
+Joe Connor	Joe Connor (baseball)
+德天瀑布	Ban Gioc–Detian Falls
+陈情中	Chai Chidchob
+石龙军路	Charoen Krung Road
+翁同龢	Weng Tonghe
+寿臣山	Shouson Hill
+街道办事处	Subdistricts of the People's Republic of China
+相城区	Xiangcheng District, Suzhou
+破坏之王 (电影)	Love on Delivery
+钱乃荣	Qian Nairong
+港岛线	Island Line (MTR)
+猜也奔	Chaiyaphum
+宁波地铁	Ningbo Rail Transit
+草原	Grassland
+金球奖	Golden Globe Award
+Wikipedia:WikiProject Spoken Wikipedia	Wikipedia:WikiProject Spoken Wikipedia
+比拉伊	Piraí
+宜兴市	Yixing
+维克多港	Victor Harbor, South Australia
+常熟	Changshu
+希嘞士维嘞 (维克多利亚)	Healesville, Victoria
+江阴	Jiangyin
+卢湾区	Luwan District
+1939年澳大利亚个黑色星期五大火	Black Friday (1939)
+1983年澳大利亚个圣灰星期三大火	Ash Wednesday bushfires
+乍都节区	Chatuchak District
+佩蒂翁维尔学校倒塌事故	2008 Pétionville school collapse
+崇启大桥	Chongming–Qidong Yangtze River Bridge
+常州言话	Changzhou dialect
+Gaysorn Plaza	Gaysorn
+琼山	Qiongshan District
+天长	Tianchang
+如皋市	Rugao
+江山市	Jiangshan
+浏阳市	Liuyang
+海曙区	Haishu District
+同里镇	Tongli
+新昌	Xinchang County
+吴兴区	Wuxing District
+新都区	Xindu District
+阿拉善右旗	Alxa Right Banner
+蛟	Mizuchi
+年夜饭	Reunion dinner
+仓颉码	Cangjie input method
+麻鷹队 (澳式足球)	Hawthorn Football Club
+香港航空	Hong Kong Airlines
+钱俶	Qian Chu
+龙虾	Lobster
+豪格	Hooge (prince)
+子贡	Duanmu Ci
+奇摩国际学校	The Kilmore International School
+苏州新区	Suzhou New District
+龚自珍	Gong Zizhen
+澳大利亚小姐	Miss Australia
+橋玄	Qiao Xuan
+中毒债务	High-yield debt
+苏州地铁2号线	Line 2, Suzhou Rail Transit
+常山县	Changshan County
+大报恩寺（南京）	Porcelain Tower of Nanjing
+南京中国近代史遗址博物馆	Presidential Palace (Nanjing)
+宋国	Song (state)
+清迈国际机场	Chiang Mai International Airport
+泰鸟航空公司	Nok Air
+O'Reilly Media	O'Reilly Media
+后羿	Houyi
+颂圣歌	Sansoen Phra Barami
+泰国民族党	Thai Nation Party
+2008年欧洲足球冠军赛资格赛A组	UEFA Euro 2008 qualifying Group A
+2008年欧洲足球冠军赛资格赛E组	UEFA Euro 2008 qualifying Group E
+龙井茶	Longjing tea
+泰国南部	Southern Thailand
+灵隐寺	Lingyin Temple
+清迈大学	Chiang Mai University
+越南南方共和国	Provisional Revolutionary Government of the Republic of South Vietnam
+中国国家博物馆	National Museum of China
+东林党	Donglin movement
+钱镠	Qian Liu
+百万富豪	Millionaire
+崇安区	Chong'an District
+崇川区	Chongchuan District
+Club Méd	Club Med
+拙政园	Humble Administrator's Garden
+入唐求法巡礼行记	Ennin's Diary: The Record of a Pilgrimage to China in Search of the Law
+河西省	Hà Tây Province
+2008年欧洲足球冠军赛资格赛B组	UEFA Euro 2008 qualifying Group B
+AV女优	AV idol
+手写体	Cursive
+宋慧教	Song Hye-kyo
+人民民主联盟 (泰国)	People's Alliance for Democracy
+武汉大学	Wuhan University
+开饭喇 (杂志)	OpenRice
+希淡山	Bukit Kayu Hitam
+熊田曜子	Yoko Kumada
+圣地尼尔中学	Sentinel Secondary School
+黃大仙祠 (香港)	Wong Tai Sin Temple (Hong Kong)
+韓國 (消歧義)	Korea (disambiguation)
+库克船长个小房子	Cooks' Cottage
+گ	Gaf
+迪拜大商场	The Dubai Mall
+婚礼歌手	The Wedding Singer
+文蛤	Meretrix lusoria
+异食癖	Pica (disorder)
+本田爵士 (汽车)	Honda Fit
+盛宣怀	Sheng Xuanhuai
+越国	Yue (state)
+桓玄	Huan Xuan
+Cowra (新南威尔士)	Cowra
+1887年个黄河大水灾	1887 Yellow River flood
+为泰党 (泰国)	Pheu Thai Party
+香港人	Hong Kong people
+吕良伟	Ray Lui
+巩金瓯	Cup of Solid Gold
+澳大利亚邮政局	Australia Post
+马来西亚国家动物园	National Zoo of Malaysia
+大中华地区	Greater China
+科廷科技大学	Curtin University
+中华人民共和国国庆节	National Day of the People's Republic of China
+天台山 (浙江)	Tiantai Mountain
+子思	Zisi
+2008年欧洲足球冠军赛资格赛G组	UEFA Euro 2008 qualifying Group G
+2008年欧洲足球冠军赛资格赛F组	UEFA Euro 2008 qualifying Group F
+2008年欧洲足球冠军赛资格赛D组	UEFA Euro 2008 qualifying Group D
+孛相	Play (activity)
+佛统大塔寺	Phra Pathommachedi
+1931年个江淮大水	1931 China floods
+陕西历史博物馆	Shaanxi History Museum
+还剑湖	Hoàn Kiếm Lake
+愛科蘭舞	Futari wa Pretty Cure
+泾县	Jing County, Anhui
+惠山区	Huishan District
+西施	Xi Shi
+岱山县	Daishan County
+当涂县	Dangtu County
+侬	You
+蒙古	Mongolia (disambiguation)
+法国人口	Demographics of France
+言話	Speech (disambiguation)
+梅林	Merlin (TV series)
+泰国民主党	Democrat Party (Thailand)
+西湖 (河内)	West Lake (Hanoi)
+周海媚	Kathy Chow
+普拉部地伐 (演员)	Prabhu Deva
+粤文维基百科	Cantonese Wikipedia
+白露	Bailu
+东亚运动会	East Asian Games
+法师旅馆 (日本)	Hōshi Ryokan
+吴越国	Wuyue
+爱田由	Yua Aida
+越剧	Yue opera (Zhejiang)
+荃湾线	Tsuen Wan Line
+长江三角洲	Yangtze River Delta
+伊	He
+杭州萧山国际机场	Hangzhou Xiaoshan International Airport
+繁昌县	Fanchang County
+射雕英雄传	The Legend of the Condor Heroes
+Ams tram gram	Eeny, meeny, miny, moe
+全椒县	Quanjiao County
+郎溪	Langxi County
+广德	Guangde County
+南明	Southern Ming
+无为县	Wuwei County
+饭岛爱	Ai Iijima
+良渚文化	Liangzhu culture
+湘乡市	Xiangxiang
+泰国个佛教	Buddhism in Thailand
+泰国国立法政大学	Thammasat University
+九龙半岛	Kowloon Peninsula
+定海区	Dinghai District
+廊曼区	Don Mueang District
+机场	Airport
+世界大桥长度排名	List of longest bridges in the world
+男妓	Male prostitution
+南汇区	Nanhui District
+千字文	Thousand Character Classic
+僚	King Liao of Wu
+勾践	King Goujian of Yue
+伍子胥	Wu Zixu
+夫差	King Fuchai of Wu
+新西兰护照	New Zealand passport
+澳大利亚护照	Australian passport
+街妓	Street prostitution
+朱温	Zhu Wen
+牌九	Pai gow
+轻率女子 (电影)	Easy Virtue (2008 film)
+阖闾	King Helü of Wu
+土星运载火箭	Saturn (rocket family)
+核放射事故	List of civilian nuclear accidents
+宝莱坞演员表	List of Indian film actors
+墨尔本杯	Melbourne Cup
+果敢	Kokang
+办酒窠	House (game)
+泰叻报	Thai Rath
+京滨急行电铁	Keikyu
+泰国人民反独裁民主联盟	United Front for Democracy Against Dictatorship
+寶貝計劃	Rob-B-Hood
+乔石	Qiao Shi
+井冈山	Jinggang Mountains
+汉服	Hanfu
+南潯區	Nanxun District
+南湖区	Nanhu District
+嵊泗縣	Shengsi County
+衢江区	Qujiang District, Quzhou
+衡山县	Hengshan County, Hunan
+泰国大富豪一览表	List of Thais by net worth
+中山陵	Sun Yat-sen Mausoleum
+Nowra (新南威尔士)	Nowra, New South Wales
+我个父亲甘地	Gandhi, My Father
+平江区	Pingjiang District
+澳大利亚偶像唱歌比赛	Australian Idol
+金阊区	Jinchang District
+上海大学	Shanghai University
+通州市	Tongzhou District, Nantong
+彭世洛机场	Phitsanulok Airport
+港闸区	Gangzha District
+素坤逸路21巷 (曼谷)	Soi Cowboy
+巴黎大区高速铁路B线	RER B
+罗皇节	Losar
+都市浮生录	Life in a... Metro
+富劳里友半岛	Fleurieu Peninsula
+马来亚银行	Maybank
+江南	Jiangnan
+开县	Kai County
+扬中市	Yangzhong
+锡山区	Xishan District, Wuxi
+乌镇	Wuzhen
+松岭区	Songling District
+开化县	Kaihua County
+吴江区	Wujiang District, Suzhou
+西密朗群岛	Similan Islands
+海安县	Hai'an County
+玉环县	Yuhuan County
+乌达抛飞机场 (泰国)	U-Tapao International Airport
+柯城区	Kecheng District
+路桥	Luqiao District
+南长区	Nanchang District
+陈育嬬	Edison Chen photo scandal
+钟嘉欣	Linda Chung
+宁乡县	Ningxiang County
+范蠡	Fan Li
+湘潭县	Xiangtan County
+凡合乃从	Vernaison
+洛坤机场	Nakhon Si Thammarat Airport
+索菲 艾婷吞	Sophie Edington
+荣毅仁	Rong Yiren
+法朗 (泰语)	Farang
+Simon Crean	Simon Crean
+空堤区 (曼谷)	Khlong Toei District
+分类:德国	Category:Germany
+分类:意大利	Category:Italy
+分类:美国	Category:United States
+分类:俄罗斯	Category:Russia
+分类:英国	Category:United Kingdom
+分类:西班牙	Category:Spain
+分类:中国	Category:China
+分类:日本	Category:Japan
+分类:澳大利亚	Category:Australia
+分类:墨西哥	Category:Mexico
+分类:印度	Category:India
+分类:阿根廷	Category:Argentina
+毛宁吞半岛	Mornington Peninsula
+门牌号码	House numbering
+泰国财政部	Ministry of Finance (Thailand)
+火•1996 (电影)	Fire (1996 film)
+富国国际机场	Phu Quoc International Airport
+巴黎大区高速铁路D线	RER D
+吉碑国际机场	Cat Bi International Airport
+水灯节 (东南亚)	Loi Krathong
+密封剂	Sealant
+武里喃机场	Buriram Airport
+坤敬国际机场	Khon Kaen Airport
+苏勒当阿孛杜勒机场	Sultan Abdul Aziz Shah Airport
+湄宏顺机场	Mae Hong Son Airport
+呵叻国际机场	Nakhon Ratchasima Airport
+楠府机场	Nan Nakhon Airport
+素可泰机场	Sukhothai Airport
+鸟汶机场	Ubon Ratchathani Airport
+چ	Che (Persian letter)
+毛东岛	Moreton Island
+黄塔寺	Wat Chedi Luang
+分类:印度尼西亚	Category:Indonesia
+分类:乃特朗特	Category:Netherlands
+分类:新加坡	Category:Singapore
+分类:韩国	Category:South Korea
+分类:泰国	Category:Thailand
+分类:越南	Category:Vietnam
+分类:哺乳动物	Category:Mammals
+分类:植物	Category:Plants
+分类:物理	Category:Physics
+分类:生物学	Category:Biology
+分类:化学	Category:Chemistry
+分类:历史	Category:History
+分类:地理	Category:Geography
+分类:社会	Category:Society
+分类:宗教	Category:Religion
+分类:体育运动	Category:Sports
+分类:科学	Category:Science
+分类:电影	Category:Film
+分类:建筑物	Category:Buildings and structures
+澳洲人报	The Australian
+泰国银行	List of banks in Thailand
+Princes Highway	Princes Highway
+拉脱卜大学	La Trobe University
+Murrindindi 郡	Shire of Murrindindi
+维曼默宫	Vimanmek Mansion
+中国宗教	Religion in China
+寄畅园	Jichang Garden
+乡	Townships of the People's Republic of China
+西芳寺	Saihō-ji (Kyoto)
+素岳寺	Wat Phra That Doi Suthep
+帕克斯郡	Parkes Shire
+姚华乐路	Yaowarat Road
+玄妙观	Xuanmiao Temple
+军人银行 (泰国)	TMB Bank
+匹嘉声路	Phetkasem Road
+先锋号潜水艇 (英国)	HMS Vanguard (S28)
+眼鏡娘	Meganekko
+韓國 (戰國)	Han (state)
+变调	Tone sandhi
+昂船洲大桥	Stonecutters Bridge
+IPCC第4趟评价报告书	IPCC Fourth Assessment Report
+苏州中学	Suzhou High School
+苏州大学	Soochow University (Suzhou)
+弹跳城堡	Inflatable castle
+帕邢寺	Wat Phra Singh
+华欣	Hua Hin District
+国际规则足球	International rules football
+澳大利亚国家档案库	National Archives of Australia
+幸福航空	Joy Air
+上水	Sheung Shui
+哈里·尼古拉德斯	Harry Nicolaides
+亚该里湖	Lake Argyle
+宋卡湖	Songkhla Lake
+泰国寺庙列表	List of Buddhist temples in Thailand
+舟山岛	Zhoushan Island
+Newsarama	Newsarama
+小珊瑚岛 (泰国)	Ko Lan
+涂改液	Correction fluid
+英国火车事故列表	List of rail accidents in the United Kingdom
+七阶魔方	V-Cube 7
+一乡一制品计划	One Tambon One Product
+翁美玲	Barbara Yung
+樟宜	Changi
+Vibhavadi Rangsit Road	Vibhavadi Rangsit Road
+神舟十号	Shenzhou 10
+韦伯斯特大字典	Webster's Dictionary
+西雾延岛	Sibuyan Island
+越南语音系	Vietnamese phonology
+迈•恰嫩普拉 (泰国歌星)	Mai Charoenpura
+囚犯	Prisoner
+巴士底獄	Bastille
+泰国足球联赛	Thai Premier League
+七宝镇	Qibao
+马里斯维嘞 (维克多利亚)	Marysville, Victoria
+Michael Flood	Michael Flood
+朗娜伐拉	Lonavla
+官恩娜	Ella Koon
+Mike Davis	Mike Davis (scholar)
+民武里区	Min Buri District
+乍都节公园	Chatuchak Park
+隆汉湖 (泰国)	Nong Han Lake
+泰国省府	Monthon
+皇汉	Han chauvinism
+美马宽子	Hiroko Mima
+艾特蒙·堂戴斯	Edmond Dantès
+清迈夜市	Night market
+定向圖	Orienteering map
+生肖	Chinese zodiac
+中国人口	Demographics of China
+分类:消歧义	Category:Disambiguation pages
+分类:佛教	Category:Buddhism
+分类:基督教	Category:Christianity
+分类:伊斯兰教	Category:Islam
+Nicholas Gage	Nicholas Gage
+蓝星行动 (印度)	Operation Blue Star
+江孜	Gyantse
+萨斯系统	SAS (software)
+图朗基 (维克多利亚)	Toolangi, Victoria
+包恩滴 娜去隆佳诺克	Bui Simon
+邪恶圣经	Wicked Bible
+臺语	Taiwanese
+2008年印度因帕尔炸弹爆炸	2008 Imphal bombing
+华东师范大学	East China Normal University
+挡弗脱个爱	Parineeta (2005 film)
+岳麓书院	Yuelu Academy
+泰国商业银行	Siam Commercial Bank
+前童镇	Qiantong, Zhejiang
+渠	Ditch
+拍凤裕庭公路	Phahonyothin Road
+运动员	Athlete
+泰国各党派	List of political parties in Thailand
+表字	Courtesy name
+拍天湖 (泰国)	Phayao Lake
+澳大利亚人口	Demographics of Australia
+The Triffids (乐队)	The Triffids
+Poise	Poise
+香港站	Hong Kong Station
+印度语言及方言	List of languages by number of native speakers in India
+外白渡桥	Waibaidu Bridge
+罗津	Rajin-guyok
+江淮官话	Lower Yangtze Mandarin
+曼谷枪手 1	Bangkok Dangerous (1999 film)
+十月围城	Bodyguards and Assassins
+吴	Wu
+艾士菲 (新南威尔士州)	Ashfield, New South Wales
+担	Picul
+汪明荃	Liza Wang
+廣韻	Guangyun
+女阴	Vulva
+马鲁亚湾 (澳州)	Malua Bay, New South Wales
+麦乳精	Malted milk
+2009年新年伊卜拉欣·亚嘞·马卡得纳清真寺拔轰炸	2009 Ibrahim al-Maqadna Mosque strike
+越南国家银行	State Bank of Vietnam
+Teratai Prima	MV Teratai Prima
+巴亭广场	Ba Đình Square
+容祖儿	Joey Yung
+悉尼天鹅队 (澳式足球)	Sydney Swans
+马维力卡拉	Mavelikkara
+狄娜	Tina Leung
+妙蛙花	Venusaur
+东山飘雨西关晴	When Easterly Showers Fall on the Sunny West
+国民报 (泰国)	The Nation (Thailand)
+吞武里区	Thon Buri District
+饭岛真理	Mari Iijima
+无锡言话	Wuxi dialect
+六阶魔方	V-Cube 6
+麦西·芒芝	Maxi Mounds
+2009年年孟加拉国步枪队哗变	Bangladesh Rifles revolt
+Bochotnica	Bochotnica
+东盟宪章	ASEAN Charter
+砂岩大学	Sandstone universities
+伐朗 (维克多利亚)	Wallan, Victoria
+唐宁街11号	11 Downing Street
+堤岸 (越南)	Cholon, Ho Chi Minh City
+泰国华人	Thai Chinese
+風雲：雄霸天下 (1998年電影)	The Storm Riders
+背越式	Fosbury Flop
+2008年丹麦驻巴基斯坦大使馆爆炸	2008 Danish embassy bombing in Islamabad
+紫砂壶	Yixing clay
+隆宾尼拳场	Lumpinee Boxing Stadium
+常州天宁寺	Tianning Temple (Changzhou)
+剑桥高级英语证书	Cambridge English: Advanced (CAE)
+雅拉搿连 (维克多利亚)	Yarra Glen, Victoria
+2005年安曼炸弹爆炸	2005 Amman bombings
+2008年头一趟印度德里炸弹爆炸	13 September 2008 Delhi bombings
+谢安琪	Kay Tse
+玛格达·苏邦斯基	Magda Szubanski
+小小马鞍子	The Saddle Club
+Replacement character	Specials (Unicode block)
+梧桐河	Ng Tung River
+2008年末全球汽车工业危机	Automotive industry crisis of 2008–10
+正一派	Zhengyi Dao
+伐朗代脫 (维克多利亚)	Warrandyte, Victoria
+若塔寺	Wat Chet Yot
+威廉·艾米斯	Willie Aames
+抗心绞痛药	Antianginal
+Comme si de rien n'était (专辑)	Comme si de rien n'était
+迪斯科 (2008年电影)	Disco (film)
+文白异读	Literary and colloquial readings of Chinese characters
+无锡地铁	Wuxi Metro
+菲里白·哈米尔吞	Filippa Hamilton
+非典型性肺炎	Atypical pneumonia
+斯维斯(Switzerland) 勒欧罗维竞唱歌比赛表现:年份 2008	Switzerland in the Eurovision Song Contest 2008
+选美	Beauty pageant
+淀山湖	Dianshan Lake
+Suka	Suka (string instrument)
+淑女，或是老虎 ?	The Lady, or the Tiger?
+赛•恰嫩普拉 (泰国演员)	Intira Jaroenpura
+唐宁街12号	12 Downing Street
+卡滴二	Louis Cartier
+2005年印度德里炸弹大爆炸	2005 Delhi bombings
+将军澳	Tseung Kwan O
+阿德来德港口队 (澳式足球)	Port Adelaide Football Club
+西海岸鷹队 (澳式足球)	West Coast Eagles
+止泻药	Antidiarrhoeal
+柬埔寨商业银行	Cambodia Commercial Bank
+春晚	CCTV New Year's Gala
+1998年印尼排华大骚乱	May 1998 riots of Indonesia
+奇摩镇	Kilmore, Victoria
+醒来、才好对面真相。。。 （电影歌曲）	I Need to Wake Up
+2009年澳大利亚个大洪水	2009 in Australia
+抗分枝杆菌药	Antimycobacterial
+2008年印度阿萨姆邦大爆炸	2008 Assam bombings
+咸蛋	Salted duck egg
+Cool (程序编制个言话)	Cool (programming language)
+东涌	Tung Chung
+∂	∂
+布里斯本熊队 (澳式足球)	Brisbane Bears
+大篷车	Caravan (1971 film)
+分类:未完个文章	Category:Stubs
+分类:维基百科分类	Category:Wikipedia categorization
+分类:维基百科管理	Category:Wikipedia administration
+分类:文化	Category:Culture
+分类:大洲	Category:Continents
+分类:地质学	Category:Geology
+喫嘞吞 (维克多利亚)	Chiltern, Victoria
+张格尔	Jahangir Khoja
+小城之春	Spring in a Small Town
+泰国每日新闻	Daily News (Thailand)
+泰国民族舞蹈	Dance in Thailand
+令伍特 (维克多利亚)	Ringwood, Victoria
+Pennin Manathai Thottu	Pennin Manathai Thottu
+Jumper (小说)	Jumper (novel)
+马来西亚国际商业银行	CIMB
+大众银行 (马来西亚)	Public Bank Berhad
+高棉日报	The Cambodia Daily
+方腊	Fang La
+酰胺醇类抗生素	Amphenicol
+濑户早妃	Saki Seto
+斯文大盗 (电影)	Gentleman (film)
+搿连威华利 (维克多利亚州)	Glen Waverley, Victoria
+搿连乃尔 (南澳大利亚)	Glenelg, South Australia
+Grenelle环境对策搭会议	Grenelle Environnement
+甜芦粟	Sweet sorghum
+泰国环球小姐	Miss Universe Thailand
+艾啘霍 (维克多利亚)	Ivanhoe, Victoria
+Wikipedia:Selected anniversaries	Wikipedia:Selected anniversaries
+嘛莎 (泰国)	Marsha Vadhanapanich
+Wikipedia:命名常规	Wikipedia:Article titles
+剃刀	Safety razor
+月光广场 (印度)	Chandni Chowk
+太古城	Taikoo Shing
+苏菲娅·德慈	Sophea Duch
+香港湿地公园	Hong Kong Wetland Park
+闽南语维基百科	Min Nan Wikipedia
+海南鸡饭	Hainanese chicken rice
+峇里岛九人帮	Bali Nine
+卡拉姆山谷	Kalam, Swat
+伍斯华斯	Woolworths (supermarket)
+Behrain	Bahrain, Pakistan
+猜也贲湖	Chulabhorn Dam
+关楚耀	Kelvin Kwan
+淮海路	Huaihai Road
+Portal:地理	Portal:Geography
+九品芝麻官 (电影)	Hail the Judge
+薛凱琪	Fiona Sit
+联合早报	Lianhe Zaobao
+史可法	Shi Kefa
+TAFE	Technical and further education
+胡温	Hu–Wen Administration
+粵汉铁路	Guangdong–Hankou Railway
+三通	Three Links
+春运	Chunyun
+屯门公路	Tuen Mun Road
+春蓬机场	Chumphon Airport
+可口可乐公司	The Coca-Cola Company
+吴越地区	Wu (region)
+谢婷婷	Jennifer Tse
+气声	Breathy voice
+2008年印度艾哈迈德堡炸弹爆炸	2008 Ahmedabad blasts
+Air Force Amy	Air Force Amy
+2008年夏天中国地区性发大水	2008 South China floods
+里昂地区公园列表	Parks in Lyon
+Wikipedia:Transclusion	Wikipedia:Transclusion
+Wikipedia:HotCat	Wikipedia:HotCat
+穹窿山	Qionglong Mountain
+菲兹洛伊花园	Fitzroy Gardens
+Sandringham, Victoria	Sandringham, Victoria
+太平天国	Taiping Heavenly Kingdom
+坚尼地城	Kennedy Town
+塞杜沙里夫机场	Saidu Sharif Airport
+Nathan Wilmot	Nathan Wilmot
+Malcolm Page	Malcolm Page (sailor)
+2008年印度朋伽劳尔炸弹爆炸	2008 Bangalore serial blasts
+黄僧传奇1 (电影)	The Holy Man
+2008年印度古吉拉特邦炸弹爆炸	29 September 2008 western India bombings
+1998年印度Coimbatore恐怖大爆炸	1998 Coimbatore bombings
+阿南莎浦拉湖寺	Ananthapura Lake Temple
+Elise Rechichi	Elise Rechichi
+Tessa Parkinson	Tessa Parkinson
+瓦拉纳西军营火车站	Varanasi Junction railway station
+东南大学	Southeast University
+龙纳度 费拉拉	Leonardos Philaras
+海上花列传	The Sing-song Girls of Shanghai
+Alice Burdeu	Alice Burdeu
+计算数学	Computational mathematics
+纳瑞曼旅馆	Nariman House
+分类:维基百科机器人	Category:All Wikipedia bots
+大陈	Dachen Islands
+崇海大桥	Chonghai Bridge
+周美欣	Lori Chow
+五菱汽车	Wuling Motors
+吴王夫差矛	Spear of Fuchai
+大阪	Osaka (disambiguation)
+评弹	Pingtan (art form)
+Cooliris	Cooliris
+Portal:艺术	Portal:Arts
+分类:美国人	Category:American people
+分类:演员	Category:Actors
+分类:英国人	Category:British people
+分类:法国人	Category:French people
+模板:Tl	Template:Tl
+模板:Userbox	Template:Userbox
+南京理工大学	Nanjing University of Science and Technology
+台州方言	Taizhou dialect
+模板:Wikipedialang	Template:Wikipedia languages
+模板:Itn	Template:In the news
+Wikipedia:问题	Wikipedia:Help desk
+分类:自由软件	Category:Free software
+分类:国家	Category:Countries
+Wikipedia:Changing username	Wikipedia:Changing username
+Wikipedia:管理员	Wikipedia:Administrators
+模板:Sport-stub	Template:Sport-stub
+分类:人物	Category:People
+分类:职业	Category:Occupations
+分类:各行各业个人	Category:People by occupation
+Wikipedia:机器人	Wikipedia:Bots
+分类:货币	Category:Money
+分类:工程學	Category:Engineering
+Wikipedia:100个核心页面	Wikipedia:Vital articles/Level/2
+Wikipedia:AutoWikiBrowser	Wikipedia:AutoWikiBrowser
+分类:医学	Category:Medicine
+分类:政治	Category:Politics
+分类:教育	Category:Education
+分类:光学	Category:Optics
+分类:艺术	Category:Arts
+马来西亚伊斯兰银行	Bank Islam Malaysia
+通菜街	Tung Choi Street
+埃及	Egypt
+Wikipedia:手傀儡	Wikipedia:Sock puppetry
+Wikipedia:Categorization	Wikipedia:Categorization
+澳大利亚搭印度尼西亚个关系	Australia–Indonesia relations
+2008年第二趟印度德里炸弹爆炸	27 September 2008 Delhi blast
+芭堤雅—小小泰国乐园	Mini Siam
+模板:Bot	Template:Bot
+加拿大	Canada
+分类:倍尔奇姆	Category:Belgium
+分类:捷克	Category:Czech Republic
+Wikipedia:版权	Wikipedia:Copyrights
+泰国农业部	Ministry of Agriculture and Cooperatives (Thailand)
+甲那金银行 (泰国)	Kiatnakin Bank
+Wikipedia:关于	Wikipedia:About
+细川澄元	Hosokawa Sumimoto
+文艺春秋 (杂志)	Bungeishunjū (magazine)
+分类:电子游戏	Category:Video games
+分类:游戏	Category:Games
+工业工程	Industrial engineering
+帮助:編輯摘要	Help:Edit summary
+Portal:科学	Portal:Science
+1961年西澳大利亚州大火	1961 Western Australian bushfires
+模板:Flagicon	Template:Flagicon
+分类:欧洲国家	Category:Countries in Europe
+分类:欧洲	Category:Europe
+1993年印度金奈爆炸事件	R. S. S. Chennai bombing
+Wikipedia:Subpages	Wikipedia:Subpages
+Wikipedia:近段辰光个事体	Portal:Current events
+2006年印度瓦拉纳西炸弹爆炸	2006 Varanasi bombings
+2007年马来西亚南部大洪水	2006–07 Southeast Asian floods
+模板:Documentation	Template:Documentation
+2008年马来西亚安打拉邦莎山滑坡事件	2008 Bukit Antarabangsa landslide
+2009年6月20号伊拉克塔扎爆炸	2009 Taza bombing
+Wikipedia:User access levels	Wikipedia:User access levels
+分类:已保护页面	Category:Wikipedia protected pages
+ABC托儿所	ABC Learning
+Wikipedia:聊天频道	Wikipedia:IRC
+分类:维基人	Category:Wikipedians
+Wikipedia:社区门堂	Wikipedia:Community portal
+分类:User by languages	Category:Wikipedians by language
+阿个 (印度电影)	Aag (1994 film)
+帮助:用词指南	Wikipedia:Manual of Style/Words to watch
+成在基	Sung Jae-gi
+Agro Bank Malaysia	Agro Bank Malaysia
+Asia Online	Asia Online
+泰国大使馆搭仔领事馆	Australia–Thailand relations
+模板:Soft redirect	Template:Soft redirect
+模板:Delete	Template:Db
+分类:维基百科版权	Category:Wikipedia copyright
+松锦之战	Battle of Songjin
+鎮海之戰	Battle of Zhenhai
+北贝孔斯菲尔德	Beaconsfield Upper, Victoria
+分类:技术	Category:Technology
+鸟篆	Bird-worm seal script
+香港巴士	Bus services in Hong Kong
+象隆 (马来西亚)	Changlun
+Wat Paknam Bhasicharoen	Wat Paknam Bhasicharoen
+陈乃温	Newin Chidchob
+贴嘉莎芝搭仔席顺通	Thao Thep Kasattri and Thao Sri Sunthon
+宝乍文	Potjaman Na Pombejra
+颂猜·S	Somchai Subpherm
+托迪大师	Thohsaphol Sitiwatjana
+苏琶乃脱 (泰国歌星)	Supanat Chalermchaichareonkij
+湄公河威士忌 (泰国)	Mekhong (spirit)
+北大年机场	Pattani Airport
+他信经济	Thaksinomics
+卫星天线	Parabolic antenna
+分类:言话	Category:Languages
+分类:历法	Category:Calendars
+分类:维基百科	Category:Wikipedia
+分类:各样言话个维基百科	Category:Wikipedias by language
+安打拉邦莎山	Bukit Antarabangsa
+分类:朆索引个页	Category:Noindexed pages
+分类:有无用文件链接个页	Category:Pages with missing files
+Wikipedia:模板消息	Wikipedia:Template messages
+分类:現在正發生個事體	Category:Current events
+分类:欧洲城市	Category:Cities in Europe
+Wikipedia:維基休息	Wikipedia:Wikibreak
+模板:-	Template:-
+卡里倪 (维克多利亚)	Callignee, Victoria
+模板:Navbox	Template:Navbox
+南京朝天宫	Chaotian Palace
+朝阳科技大学	Chaoyang University of Technology
+陈紫函	Chen Zihan
+周骢	Chow Chung
+林敬刚	King Kong Lam
+模板:Persondata	Template:Persondata
+联合航空公司1404号航班	Continental Airlines Flight 1404
+氧气	Dioxygen
+大卫琼斯百货公司	David Jones Limited
+狄宝娜摩亚	Deborah Moore (presenter)
+雪妮	Suet Nei
+星岛日报	Sing Tao Daily
+2009年印度Orissa火车出轨	Jajpur derailment
+慈幼英文学校	Salesian English School (Secondary Section)
+维克多利亚州自然环境保护局	Department of Sustainability and Environment
+Driver公共汽车公司	Driver Group
+迪拜伊斯兰银行	Dubai Islamic Bank
+模板:Fact	Template:Citation needed
+分类:重定向	Category:Wikipedia redirects
+分类:維基百科維護	Category:Wikipedia maintenance
+分类:泰国网球运动员	Category:Thai tennis players
+模板:Error	Template:Error
+模板:((	Template:((
+模板:))	Template:))
+模板:!!	Template:!!
+模板:=	Template:=
+模板:Tnavbar	Template:Navbar
+模板:Code	Template:Code
+模板:0	Template:0
+模板:Unicode	Template:Unicode
+模板:Transclude	Template:Transclude
+模板:Small	Template:Small
+模板:Clear	Template:Clear
+模板:Col-break	Template:Col-break
+模板:Col-begin	Template:Col-begin
+模板:Col-end	Template:Col-end
+模板:Nowrap	Template:Nowrap
+模板:Bots	Template:Bots
+出埃及记 (香港电影)	Exodus (2007 Hong Kong film)
+芳村	Fangcun, Guangzhou
+枫泾镇	Fengjing
+女泰拳手 (真实电视)	Fight Girls
+Wikipedia:必有个页面	Wikipedia:Vital articles
+分类:非洲	Category:Africa
+分类:數字	Category:Numbers
+分类:电子学	Category:Electronics
+分类:书	Category:Books
+模板:Wikisource	Template:Wikisource
+模板:Babel	Template:Babel
+模板:Commons	Template:Commons
+模板:Reflist	Template:Reflist
+第四次东亚峰会	Fourth East Asia Summit
+模板:AFG	Template:AFG
+乃温派	Friends of Newin Group
+高骈	Gao Pian
+Wikipedia:列明來源	Wikipedia:Citing sources
+模板:Stub	Template:Stub
+模板:See also	Template:See also
+模板:User de	Template:User de
+模板:User de-1	Template:User de-1
+模板:User es	Template:User es
+模板:User de-3	Template:User de-3
+模板:User en-3	Template:User en-3
+模板:User en-1	Template:User en-1
+模板:User en-2	Template:User en-2
+模板:User en-4	Template:User en-4
+模板:User en	Template:User en
+模板:User de-2	Template:User de-2
+模板:User es-1	Template:User es-1
+模板:User fa	Template:User fa
+模板:User fr-1	Template:User fr-1
+分类:各国个文化	Category:Culture by nationality
+分类:物质	Category:Matter
+模板:User ja-4	Template:User ja-4
+模板:User sk	Template:User sk
+模板:User fr-2	Template:User fr-2
+模板:User ja	Template:User ja
+模板:User ja-1	Template:User ja-1
+模板:User it-1	Template:User it-1
+模板:User fr	Template:User fr
+搿连乃尔河 (西澳大利亚)	Glenelg River (Western Australia)
+模板:Unsigned	Template:Unsigned
+模板:HRV	Template:HRV
+分类:亚洲	Category:Asia
+分类:智利	Category:Chile
+分类:21世紀	Category:21st century
+分类:User uk	Category:User uk
+分类:南美洲	Category:South America
+分类:User uk-N	Category:User uk-N
+模板:Intricate template	Template:Intricate template
+分类:马来西亚	Category:Malaysia
+分类:食物	Category:Foods
+分类:足球	Category:Association football
+模板:Mod	Template:Mod
+模板:User uk	Template:User uk
+模板:User es-2	Template:User es-2
+模板:WikipediaSister	Template:Wikipedia's sister projects
+模板:USA	Template:USA
+分类:年历	Category:Almanacs
+分类:组织	Category:Organizations
+分类:语言学	Category:Linguistics
+模板:ITA	Template:ITA
+模板:GEO	Template:GEO
+模板:BOL	Template:BOL
+分类:鏈接模板	Category:Link templates
+模板:MEX	Template:MEX
+分类:User fr-1	Category:User fr-1
+模板:Wikiquote	Template:Wikiquote
+模板:Image label	Template:Image label
+模板:Category handler	Template:Category handler
+模板:Category other	Template:Category other
+归有光	Gui Youguang
+模板:Translated page	Template:Translated page
+模板:MAR	Template:MAR
+模板:Ja icon	Template:Ja icon
+模板:Korea-stub	Template:Korea-stub
+模板:PSE	Template:PSE
+模板:Sidebar	Template:Sidebar
+模板:Es icon	Template:Es icon
+模板:Ambox	Template:Ambox
+Wikipedia:Accuracy dispute	Wikipedia:Accuracy dispute
+模板:Update	Template:Update
+模板:SVK	Template:SVK
+模板:TWN	Template:TWN
+模板:EGY	Template:EGY
+模板:Quotation	Template:Quotation
+模板:KGZ	Template:KGZ
+模板:Infobox School	Template:Infobox school
+模板:ISR	Template:ISR
+模板:Nobel Prize in Physics	Template:Nobel Prize in Physics
+模板:Infobox Country	Template:Infobox country
+模板:Column-count	Template:Column-count
+模板:VEN	Template:VEN
+模板:Airline infobox	Template:Infobox airline
+模板:Wide image	Template:Wide image
+模板:UKR	Template:UKR
+模板:Px	Template:Px
+模板:好哉	Template:Done
+模板:Documentation/docname	Template:Documentation/docname
+模板:Audio	Template:Audio
+模板:Flatlist	Template:Flatlist
+模板:PHL	Template:PHL
+模板:ROU	Template:ROU
+模板:BHR	Template:BHR
+分类:欧洲国家足球队	Category:European national association football teams
+模板:Endflatlist	Template:Endflatlist
+模板:TUR	Template:TUR
+模板:Expand section	Template:Expand section
+模板:Tmbox	Template:Tmbox
+模板:清理	Template:Cleanup
+模板:DJI	Template:DJI
+模板:Infobox university	Template:Infobox university
+模板:BRN	Template:BRN
+模板:Wikibooks	Template:Wikibooks
+模板:Hatnote	Template:Hatnote
+模板:Redirect3	Template:Redirect3
+模板:S-after	Template:S-aft
+分类:巴黎	Category:Paris
+分类:User en-4	Category:User en-4
+分类:User en	Category:User en
+分类:User zh	Category:User zh
+分类:User zh-N	Category:User zh-N
+分类:User en-2	Category:User en-2
+模板:Infobox	Template:Infobox
+模板:Right TOC	Template:TOC right
+模板:Main other	Template:Main other
+模板:User zh	Template:User zh
+模板:Template other	Template:Template other
+模板:Legend	Template:Legend
+模板:Cite web	Template:Cite web
+模板:Youtube	Template:YouTube
+模板:Current	Template:Current
+分类:軍事裝備	Category:Military equipment
+模板:Infobox WS	Template:Infobox writing system
+模板:Ombox	Template:Ombox
+分类:女模特	Category:Female models
+模板:IMDb title	Template:IMDb title
+模板:国际足球	Template:International football
+模板:User ru-4	Template:User ru-4
+分类:饮食	Category:Food and drink
+模板:Coor URL	Template:Coor URL
+杭州话语	Hangzhou dialect
+模板:Wiktionary	Template:Wiktionary
+模板:Mbox templates	Template:Mbox templates (small)
+薄拉特	Borat Sagdiyev
+模板:Multi-listen start	Template:Multi-listen start
+模板:Languageicon	Template:Link language
+分类:英国个博物馆	Category:Museums in the United Kingdom
+模板:大韩民国行政区划	Template:Regions and administrative divisions of South Korea
+Wikipedia:Selected anniversaries/October 3	Wikipedia:Selected anniversaries/October 3
+希嘞士维嘞火车线	Healesville railway line
+希斯口脱叉路口 (维克多利亚)	Heathcote Junction, Victoria
+分类:总统	Category:Presidents
+模板:User ru	Template:User ru
+分类:20世紀	Category:20th century
+模板:IPA	Template:IPA
+分类:美洲	Category:Americas
+模板:Otheruses	Template:Other uses
+韩邦庆	Han Bangqing
+分类:各国个人	Category:People by nationality
+模板:User language-N	Template:User blank
+模板:Imbox	Template:Imbox
+模板:Rellink	Template:Rellink
+模板:Did you know	Template:Did you know
+模板:MONTHNAME	Template:MONTHNAME
+Wikipedia:GNU自由文档许可证文本	Wikipedia:Text of the GNU Free Documentation License
+模板:CPV	Template:CPV
+模板:Death date and age	Template:Death date and age
+模板:Infobox Model	Template:Infobox model
+模板:MONTHNUMBER	Template:MONTHNUMBER
+模板:(	Template:(
+分类:人物小作品	Category:People stubs
+模板:Top icon	Template:Top icon
+模板:Namespace detect	Template:Namespace detect
+模板:)	Template:)
+模板:Fmbox	Template:Fmbox
+分类:作家	Category:Writers
+分类:軍事	Category:Military
+模板:Hidden begin	Template:Hidden begin
+模板:Talkback	Template:Talkback
+模板:MYS	Template:MYS
+模板:TJK	Template:TJK
+模板:Infobox Website	Template:Infobox website
+模板:Image label end	Template:Image label end
+模板:Documentation subpage	Template:Documentation subpage
+模板:Winners	Template:Winners
+模板:Ref label	Template:Ref label
+模板:GHA	Template:GHA
+模板:GMB	Template:GMB
+模板:Uncategorized	Template:Uncategorized
+模板:IDN	Template:IDN
+模板:FRO	Template:FRO
+模板:ZAF	Template:ZAF
+模板:POL	Template:POL
+模板:Oldid	Template:Oldid
+模板:URY	Template:URY
+模板:CUB	Template:CUB
+模板:CMR	Template:CMR
+模板:BIH	Template:BIH
+模板:FIN	Template:FIN
+模板:Tlx	Template:Tlx
+模板:CAN	Template:CAN
+模板:Purge	Template:Purge
+模板:Cc-by-3.0	Template:Cc-by-3.0
+模板:DNK	Template:DNK
+模板:Empty category	Template:Empty category
+模板:Infobox Cyrillic	Template:Infobox Cyrillic letter
+模板:Dead link	Template:Dead link
+分类:跨性别	Category:Transgender
+模板:Provinces of China	Template:Province-level divisions of China
+模板:SAU	Template:SAU
+模板:Userpage	Template:User page
+模板:DEU	Template:DEU
+模板:BEN	Template:BEN
+模板:CIS	Template:Commonwealth of Independent States
+模板:SWE	Template:SWE
+模板:Note label	Template:Note label
+模板:Food-stub	Template:Food-stub
+分类:中国个建筑	Category:Chinese architecture
+杨协成	Yeo Hiap Seng
+模板:User	Template:User
+模板:YEM	Template:YEM
+模板:Spoken Wikipedia	Template:Spoken Wikipedia
+吴稚晖	Wu Zhihui
+模板:Lorem ipsum	Template:Lorem ipsum
+美国内华达州卖淫业	Prostitution in Nevada
+模板:User language-4	Template:User blank-4
+分类:中学	Category:High schools and secondary schools
+模板:YearTOC	Template:Year nav
+分类:越南机场	Category:Airports in Vietnam
+模板:Note	Template:Note
+分类:公司	Category:Companies
+模板:Footballbox	Template:Football box
+模板:Renameuser	Template:Renameuser
+模板:CIA World Factbook link	Template:CIA World Factbook link
+模板:Image label small	Template:Image label small
+模板:Iaaf name	Template:IAAF name
+模板:欧洲和海	Template:Europe and seas labelled map
+模板:User language-0	Template:User blank-0
+模板:瑞士城市	Template:Infobox Swiss town
+模板:AddNewSection	Template:AddNewSection
+模板:Japanese	Template:Nihongo
+模板:User fr-3	Template:User fr-3
+模板:UEFA	Template:UEFA European Football Championship
+模板:Infobox Military Unit	Template:Infobox military unit
+模板:美国地图含州名	Template:USA imagemap with state names
+模板:IMDb name	Template:IMDb name
+模板:Ar icon	Template:Ar icon
+模板:ABW	Template:ABW
+分类:突尼斯	Category:Tunisia
+模板:Th	Template:Th icon
+新加坡个印度言话	Indian languages in Singapore
+模板:S-title	Template:S-ttl
+分类:泰国个寺庙	Category:Buddhist temples in Thailand
+模板:JPN	Template:JPN
+分类:韩国电视	Category:Television in South Korea
+模板:Japan	Template:Regions and administrative divisions of Japan
+模板:China-stub	Template:China-stub
+模板:Korea-bio-stub	Template:Korea-bio-stub
+模板:Cmbox	Template:Cmbox
+模板:CSS IPA vowel chart	Template:IPA chart/table vowels
+模板:PAN	Template:PAN
+模板:SOM	Template:SOM
+模板:SWZ	Template:SWZ
+模板:Infobox Spacecraft	Template:Infobox spacecraft
+模板:PAK	Template:PAK
+模板:User nds-1	Template:User nds-1
+模板:S-before	Template:S-bef
+分类:日本行政区划	Category:Subdivisions of Japan
+模板:Mbox	Template:Mbox
+模板:ISL	Template:ISL
+模板:Oppose	Template:Disagree
+模板:COL	Template:COL
+模板:CCK	Template:CCK
+模板:ERI	Template:ERI
+模板:Pagetype	Template:Pagetype
+模板:GAB	Template:GAB
+模板:IRN	Template:IRN
+模板:MLI	Template:MLI
+模板:JOR	Template:JOR
+模板:NPL	Template:NPL
+模板:NAM	Template:NAM
+模板:CAF	Template:CAF
+模板:MKD	Template:MKD
+模板:Exchange rate	Template:Exchange rate
+模板:LKA	Template:LKA
+模板:MWI	Template:MWI
+模板:KAZ	Template:KAZ
+模板:OMN	Template:OMN
+模板:PER	Template:PER
+模板:MOZ	Template:MOZ
+模板:SUR	Template:SUR
+模板:TRI	Template:TTO
+模板:GUY	Template:GUY
+模板:ETH	Template:ETH
+模板:HKG	Template:HKG
+模板:NGA	Template:NGA
+模板:PRK	Template:PRK
+模板:NIC	Template:NIC
+模板:LBR	Template:LBR
+模板:TKM	Template:TKM
+模板:THA	Template:THA
+模板:BFA	Template:BFA
+模板:TCD	Template:TCD
+模板:PRY	Template:PRY
+模板:ECU	Template:ECU
+模板:BTN	Template:BTN
+模板:MDV	Template:MDV
+模板:SLE	Template:SLE
+模板:LTU	Template:LTU
+模板:SGP	Template:SGP
+模板:IND	Template:IND
+模板:MAC	Template:MAC
+模板:User ar-2	Template:User ar-2
+模板:User fr-0	Template:User fr-0
+北京中轴线	Zhongzhou Road
+高德	Josiah Goddard
+苏州地铁4号线	Line 4, Suzhou Rail Transit
+妇好墓	Tomb of Fu Hao
+内画	Inner painting
+沙地言话	Shadi dialect
+木渎镇	Mudu
+衢州话	Quzhou dialect
+千灯镇	Qiandeng
+Mamat Khalid	Mamat Khalid
+柔佛州苏丹姓名录	Sultan of Johor
+马来西亚邮政	Pos Malaysia
+弛声	Slack voice
+江郎山	Mount Jianglang
+沙叶新	Sha Yexin
+江山话	Jiangshan dialect
+天一广场	Tianyi Square
+苏州地铁3号线	Line 3, Suzhou Rail Transit
+沙溪镇	Shaxi, Jiangsu
+康熙來了	Kangxi Lai Le
+卓音工作室	Join Network Studio of NENU
+MK人	Mong Kok culture
+妮萨·高塔丽	Priyanka Kothari
+泰国购物商场一览表	List of shopping malls in Thailand
+Sabrina Houssami	Sabrina Houssami
+麦跨里字典	Macquarie Dictionary
+香港商报	Hong Kong Commercial Daily
+分类:User ja-N	Category:User ja-N
+分类:用戶名字空間模板	Category:User namespace templates
+九头鸟	Nine-headed Bird
+模板:CHE	Template:CHE
+分类:社会阶层	Category:Social classes
+分类:印度电影	Category:Cinema of India
+钱弘佐	Qian Hongzuo
+模板:URL	Template:URL
+模板:Hidden end	Template:Hidden end
+模板:Disambiguation	Template:Disambiguation
+分类:公共交通	Category:Public transport
+分类:中东	Category:Middle East
+模板:Select skin	Template:Select skin
+分类:西亚国家	Category:Western Asian countries
+分类:报纸	Category:Newspapers
+分类:运动场	Category:Stadiums
+模板:Para	Template:Para
+模板:Fb	Template:Fb
+分类:維基百科元模板	Category:Wikipedia metatemplates
+模板:LAO	Template:LAO
+模板:User zh-min-nan-1	Template:User nan-1
+模板:ARE	Template:ARE
+模板:GRC	Template:GRC
+模板:PRT	Template:PRT
+模板:BGD	Template:BGD
+模板:BAR	Template:BRB
+模板:User ksh	Template:User ksh
+模板:User zh-yue-3	Template:User yue-3
+模板:AUS	Template:AUS
+模板:User zh-yue-1	Template:User yue-1
+模板:CZE	Template:CZE
+模板:AZE	Template:AZE
+模板:Infobox Film	Template:Infobox film
+模板:英文名	Template:Lang-en
+分类:維基百科已軟重定向嗰分類	Category:Wikipedia soft redirected categories
+分类:语言标示模板	Category:Language templates
+分类:甜品	Category:Desserts
+分类:新加坡个机场	Category:Airports in Singapore
+模板:Expand language	Template:Expand language
+模板:WAD	Template:WAD
+分类:內部鏈接模板	Category:Internal link templates
+模板:KHM	Template:KHM
+模板:NLD	Template:NLD
+模板:KWT	Template:KWT
+江南贡院	Jiangnan Examination Hall
+江南丝竹	Jiangnan sizhu
+江阴闲话	Jiangyin dialect
+甲子镇 (海口市)	Jiazi, Haikou
+解放街道	Jiefang Subdistrict, Zhoushan
+模板:Resize	Template:Resize
+模板:辅音	Template:IPA consonant chart
+模板:VNM	Template:VNM
+模板:LIE	Template:LIE
+模板:SEN	Template:SEN
+模板:NZL	Template:NZL
+分类:广州	Category:Guangzhou
+模板:MMR	Template:MMR
+分类:吴语	Category:Wu Chinese
+模板:KOR	Template:KOR
+分类:各类电影	Category:Films by genre
+模板:!(	Template:!(
+分类:中国外交官	Category:Chinese diplomats
+模板:NATO	Template:North Atlantic Treaty Organization
+分类:生物	Category:Organisms
+模板:De icon	Template:De icon
+模板:SVN	Template:SVN
+模板:LBN	Template:LBN
+模板:GUF	Template:GUF
+模板:GGY	Template:GGY
+模板:FRA	Template:FRA
+模板:Hang on	Template:Hang on
+模板:Infobox Biography	Template:Infobox person
+分类:蒙古	Category:Mongolia
+模板:InterWiki	Template:InterWiki
+模板:Main Page interwikis	Template:Main Page interwikis
+分类:法国女模特	Category:French female models
+分类:泰国个大学	Category:Universities in Thailand
+分类:澳大利亚个报纸	Category:Newspapers published in Australia
+分类:历年个电影	Category:Films by year
+分类:爱尔兰城市	Category:Cities in the Republic of Ireland
+分类:美国黑人	Category:African-American people
+模板:Dated maintenance category	Template:Dated maintenance category
+模板:Chem-stub	Template:Chem-stub
+模板:Thailand-stub	Template:Thailand-stub
+模板:Britain-stub	Template:UK-stub
+分类:1992年个歌曲	Category:1992 songs
+分类:姊妹计划链接模板	Category:Interwiki link templates
+模板:User la-1	Template:User la-1
+模板:APEC	Template:Asia-Pacific Economic Cooperation
+模板:歐洲行政區劃	Template:Sovereign states of Europe
+分类:模板說明文檔	Category:Template documentation pages
+分类:泰语	Category:Thai language
+分类:User zh-yue	Category:User yue
+分类:User wuu	Category:User wuu
+分类:User sk	Category:User sk
+分类:User fr	Category:User fr
+分类:User ja	Category:User ja
+分类:User la	Category:User la
+分类:User fr-3	Category:User fr-3
+分类:User fr-2	Category:User fr-2
+分类:User ja-2	Category:User ja-2
+分类:User la-2	Category:User la-2
+分类:User wuu-N	Category:User wuu-N
+分类:User ko-N	Category:User ko-N
+分类:User fr-N	Category:User fr-N
+分类:User nl-N	Category:User nl-N
+分类:User ru-N	Category:User ru-N
+1993年湄公河工场大火	Kader Toy Factory fire
+分类:泰国拳击运动员	Category:Thai boxers
+分类:政治经济学	Category:Political economy
+分类:曼谷	Category:Districts of Bangkok
+模板:User zh-yue	Template:User yue
+分类:文字	Category:Writing systems
+分类:维基百科清理	Category:Articles needing cleanup
+分类:岛	Category:Islands
+分类:广平省	Category:Quang Binh Province
+分类:User sk-N	Category:User sk-N
+分类:User de	Category:User de
+分类:User de-2	Category:User de-2
+分类:User de-3	Category:User de-3
+分类:User de-4	Category:User de-4
+分类:User de-N	Category:User de-N
+分类:美国男演员	Category:American male actors
+分类:User en-3	Category:User en-3
+分类:User en-N	Category:User en-N
+分类:User es	Category:User es
+分类:User es-1	Category:User es-1
+分类:User es-2	Category:User es-2
+分类:User es-N	Category:User es-N
+分类:首尔	Category:Seoul
+国王湖西部 (维克多利亚)	Kinglake West, Victoria
+简妮弗 海爱脱	Kingston courthouse shooting
+分类:日本模板	Category:Japan templates
+模板:User la-3	Template:User la-3
+分类:阿德来得	Category:Adelaide
+分类:法国个公园	Category:Parks in France
+分类:各国个公园	Category:Parks by country
+分类:各国个政治	Category:Politics by country
+模板:上海行政区划	Template:Shanghai
+模板:Multiple image	Template:Multiple image
+模板:Colorsample	Template:Color sample
+分类:User it	Category:User it
+分类:User it-1	Category:User it-1
+分类:User ja-1	Category:User ja-1
+分类:User ko	Category:User ko
+分类:美国州	Category:States of the United States
+分类:User ksh	Category:User ksh
+分类:User ksh-N	Category:User ksh-N
+分类:User la-1	Category:User la-1
+分类:User la-3	Category:User la-3
+分类:澳大利亚地理	Category:Geography of Australia
+感谢倷	Thank You
+分类:维基百科讨论	Category:Wikipedia discussion
+分类:火山	Category:Volcanoes
+模板:NOR	Template:NOR
+模板:Translation WIP	Template:Translation WIP
+模板:He icon	Template:He icon
+分类:天灾	Category:Natural hazards
+分类:天气	Category:Weather
+模板:Information	Template:Information
+分类:日本个县	Category:Prefectures of Japan
+分类:法国城市	Category:Cities in France
+模板:BRA	Template:BRA
+分类:澳大利亚女演员	Category:Australian actresses
+分类:User ru-1	Category:User ru-1
+Wikipedia:巴别	Wikipedia:Babel
+模板:High-use	Template:High-use
+水分子	Properties of water
+模板:Humor	Template:Humor
+分类:残疾人	Category:People with disabilities
+分类:北京人	Category:People from Beijing
+分类:化学小作品	Category:Chemistry stubs
+分类:各国个军事	Category:Military by country
+模板:TUN	Template:TUN
+分类:日本地方	Category:Regions of Japan
+分类:海	Category:Seas
+地方政府	Local government
+梁洛文	Lawrence Leung
+分类:李氏朝鲜君主	Category:Joseon rulers
+分类:泰国模板	Category:Thailand templates
+分类:工具书	Category:Reference works
+分类:计算机科学	Category:Computer science
+分类:User nds	Category:User nds
+分类:User nds-1	Category:User nds-1
+模板:LUX	Template:LUX
+模板:Red	Template:Red
+分类:神奈川县	Category:Kanagawa Prefecture
+分类:福岛县	Category:Fukushima Prefecture
+分类:广东省	Category:Guangdong
+分类:安徽	Category:Anhui
+分类:江西省	Category:Jiangxi
+分类:江苏省	Category:Jiangsu
+分类:经济	Category:Economies
+模板:Title without disambig	Template:Title without disambig
+分类:行政区划	Category:Types of country subdivisions
+分类:饮料	Category:Beverages
+何傲儿	Lily Ho
+分类:1980年代出生	Category:1980s births
+分类:社会科学	Category:Social sciences
+分类:办拉路斯	Category:Belarus
+分类:苏州人	Category:People from Suzhou
+分类:苏州交通	Category:Transport in Suzhou
+分类:中国电影	Category:Cinema of China
+分类:澳大利亚教育	Category:Education in Australia
+坤敬那空寺	Phra Mahathat Kaen Nakhon
+分类:非洲国家	Category:Countries in Africa
+分类:各国教育	Category:Education by country
+模板:(((	Template:(((
+模板:)!	Template:)!
+模板:)))	Template:)))
+Wikipedia:AutoWikiBrowser/Typos	Wikipedia:AutoWikiBrowser/Typos
+模板:User ru-2	Template:User ru-2
+分类:科幻片	Category:Science fiction films
+模板:Column-width	Template:Column-width
+分类:User ru	Category:User ru
+分类:User ru-2	Category:User ru-2
+分类:User ru-4	Category:User ru-4
+分类:用戶軟重定向	Category:User soft redirects
+分类:User zh-yue-1	Category:User yue-1
+分类:User zh-yue-3	Category:User yue-3
+分类:User zh-yue-N	Category:User yue-N
+模板:En icon	Template:En icon
+分类:浙江省	Category:Zhejiang
+分类:金球奖获得者	Category:Golden Globe Award winners
+模板:!((	Template:!((
+模板:))!	Template:))!
+分类:港铁车站	Category:MTR stations
+模板:Lang	Template:Lang
+分类:泰国电影	Category:Thai films
+香港街道名录	List of streets and roads in Hong Kong
+分类:社会学	Category:Sociology
+模板:IRL	Template:IRL
+吴越春秋	Spring and Autumn Annals of Wu and Yue
+分类:美国女演员	Category:American actresses
+龙塘镇 (海口市)	Longtang, Hainan
+分类:1981年出生	Category:1981 births
+分类:1986年出生	Category:1986 births
+刘清 (田径运动员)	Liu Qing (athlete)
+柳如是	Liu Rushi
+模板:ALB	Template:ALB
+模板:AND	Template:AND
+模板:ARG	Template:ARG
+模板:ARM	Template:ARM
+模板:Africa-stub	Template:Africa-stub
+分类:美国女模特儿	Category:American female models
+分类:法国海外省	Category:Overseas departments of France
+模板:CopyrightByWikimedia	Template:Non-free Wikimedia logo
+分类:美国慈善家	Category:American philanthropists
+分类:各国个电影	Category:Cinema by country
+Wikipedia:Template sandbox and test cases	Wikipedia:Template sandbox and test cases
+露西 弗来海尔弟	Lucinda Rhodes-Flaherty
+分类:人类	Category:Humans
+分类:分類名字空間模板	Category:Category namespace templates
+模板:Australia-stub	Template:Australia-stub
+模板:Car-stub	Template:Auto-stub
+模板:Auxiliary template common notice	Template:Auxiliary template common notice
+模板:BDI	Template:BDI
+模板:BAH	Template:BHS
+模板:BLR	Template:BLR
+虎窟寺 (甲米府)	Tiger Cave Temple
+模板:When on basepage	Template:When on basepage
+模板:Bhutan stub	Template:Bhutan-stub
+分类:棋类	Category:Abstract strategy games
+模板:CIV	Template:CIV
+模板:CRI	Template:CRI
+模板:CHY	Template:CYP
+分类:泰国交通	Category:Transport in Thailand
+模板:Fr	Template:Fr icon
+分类:文章	Category:Articles
+模板:Ko icon	Template:Ko icon
+分类:法国铁路	Category:Rail transport in France
+分类:維基百科軟重定向	Category:Wikipedia soft redirects
+分类:1951年个电影	Category:1951 films
+烂柯山	Ranka (legend)
+模板:物理学粒子	Template:Particles
+分类:女演员	Category:Actresses
+分类:佛罗里达州	Category:Florida
+慈城镇	Cicheng
+分类:上海个区	Category:Districts of Shanghai
+分类:弗自由媒体	Category:Wikipedia non-free files
+模板:EST	Template:EST
+分类:泰国政党	Category:Political parties in Thailand
+Wikipedia:Lua	Wikipedia:Lua
+分类:大規模殺傷性武器	Category:Weapons of mass destruction
+模板:QAT	Template:QAT
+模板:RUS	Template:RUS
+模板:AUT	Template:AUT
+模板:History-stub	Template:Hist-stub
+太平轮	Taiping (steamer)
+分类:2009年恐怖事件	Category:Terrorist incidents in 2009
+分类:2005年个歌曲	Category:2005 songs
+分类:动作片	Category:Action films
+毛米克	Mick Malthouse
+模板:CHL	Template:CHL
+分类:英语电影	Category:English-language films
+模板:Round8	Template:Round8
+模板:海峡群岛	Template:Channel Islands
+模板:SYR	Template:SYR
+模板:CHN	Template:CHN
+莫愁湖	Mochou Lake
+模板:Switzerland-stub	Template:Switzerland-stub
+莫小棋	Monica Mok
+Laishram Monika Devi	Monika Devi
+模板:Side box	Template:Side box
+分类:世界人口	Category:Demographics by country
+分类:所有页面需要清理	Category:All pages needing cleanup
+模板:IRQ	Template:IRQ
+模板:字单3	Template:Chset-cell3
+模板:字色阿	Template:Chset-color-alpha
+模板:字色数	Template:Chset-color-digit
+模板:字色标	Template:Chset-color-punct
+模板:字色朆	Template:Chset-color-undef
+模板:字左	Template:Chset-left
+模板:Citation/core	Template:Citation/core
+分类:法国交通	Category:Transport in France
+Mudgegonga (维克多利亚)	Mudgegonga, Victoria
+分类:澳大利亚个湖	Category:Lakes of Australia
+分类:各国经济	Category:Economies by country
+分类:各国个报纸	Category:Newspapers by country
+分类:各国个银行	Category:Banks by country
+分类:各国个地震	Category:Earthquakes by country
+分类:韩国政治	Category:Politics of South Korea
+分类:澳大利亚个政治	Category:Politics of Australia
+分类:泰国政治	Category:Politics of Thailand
+分类:越南经济	Category:Economy of Vietnam
+分类:柬埔寨经济	Category:Economy of Cambodia
+分类:朝鲜民主主义人民共和国政治	Category:Politics of North Korea
+分类:泰国经济	Category:Economy of Thailand
+模板:Infobox Language/family-color	Template:Infobox language/family-color
+分类:澳大利亚体育运动	Category:Sport in Australia
+分类:泰国体育	Category:Sport in Thailand
+分类:澳大利亚足球	Category:Soccer in Australia
+分类:河	Category:Rivers
+那班同 (维克多利亚)	Narbethong, Victoria
+模板:User ko	Template:User ko
+模板:User la-2	Template:User la-2
+模板:User ru-1	Template:User ru-1
+模板:User zh-1	Template:User zh-1
+模板:User zh-2	Template:User zh-2
+模板:User zh-3	Template:User zh-3
+模板:User zh-4	Template:User zh-4
+分类:韩国交通	Category:Transport in South Korea
+分类:中国交通	Category:Transport in China
+分类:世界各国个博物馆	Category:Museums by country
+分类:马来西亚经济	Category:Economy of Malaysia
+分类:泰国军事	Category:Military of Thailand
+分类:菲律宾模板	Category:Philippines templates
+模板:Multi-listen end	Template:Multi-listen end
+分类:澳大利亚个交通	Category:Transport in Australia
+分类:蘇聯政治家	Category:Soviet politicians
+分类:日本教育	Category:Education in Japan
+分类:泰国教育	Category:Education in Thailand
+分类:韩国人	Category:South Korean people
+分类:台湾人	Category:Taiwanese people
+Wikipedia:Picture of the day	Wikipedia:Picture of the day
+分类:菲律宾	Category:Philippines
+分类:各行业澳大利亚人	Category:Australian people by occupation
+分类:马来西亚歌手	Category:Malaysian singers
+分类:泰国歌星	Category:Thai singers
+分类:User nl	Category:User nl
+分类:User zh-1	Category:User zh-1
+分类:User zh-4	Category:User zh-4
+分类:User zh-3	Category:User zh-3
+分类:User zh-2	Category:User zh-2
+分类:泰国国王	Category:Thai monarchs
+分类:力学	Category:Mechanics
+分类:香港个报纸	Category:Newspapers published in Hong Kong
+分类:节气	Category:Solar terms
+分类:中国计算机科学家	Category:Chinese computer scientists
+分类:不丹	Category:Bhutan
+分类:澳大利亚跳水运动员	Category:Australian divers
+分类:印度模特	Category:Indian models
+分类:印度科学技术	Category:Science and technology in India
+分类:泰国旅游	Category:Tourism in Thailand
+新年	New Year (disambiguation)
+分类:中国演员	Category:Chinese actors
+分类:泰国演员	Category:Thai actors
+分类:澳大利亚游泳运动员	Category:Australian swimmers
+分类:电视	Category:Television
+分类:中国诗人	Category:Chinese poets
+分类:凯撒奖获得者	Category:César Award winners
+分类:世紀	Category:Centuries
+分类:蘇聯外敎官	Category:Soviet diplomats
+分类:印度演员	Category:Indian actors
+分类:中国田径运动员	Category:Chinese athletes
+分类:澳大利亚脚踏车运动员	Category:Australian cyclists
+分类:泰国运动员	Category:Thai sportspeople
+分类:中国运动员	Category:Chinese sportspeople
+分类:泰国府	Category:Provinces of Thailand
+分类:海滩	Category:Beaches
+分类:泰国个海滩	Category:Beaches of Thailand
+分类:柬埔寨人	Category:Cambodian people
+分类:泰国政治人物	Category:Thai politicians
+分类:香港人	Category:Hong Kong people
+分类:泰国人	Category:Thai people
+分类:泰国华人	Category:Thai people of Chinese descent
+粤语	Yue Chinese
+分类:曼谷街道	Category:Streets in Bangkok
+分类:泰国个公路	Category:Roads in Thailand
+分类:东海	Category:East China Sea
+分类:泰国个湖泊	Category:Lakes of Thailand
+分类:意大利个湖	Category:Lakes of Italy
+分类:光学仪器	Category:Optical devices
+分类:机场	Category:Airports
+分类:泰国机场	Category:Airports in Thailand
+分类:日本个机场	Category:Airports in Japan
+分类:泰国个银行	Category:Banks of Thailand
+分类:化学元素	Category:Chemical elements
+分类:各国演员	Category:Film actors by nationality
+分类:香港演员	Category:Hong Kong actors
+分类:环球小姐	Category:Miss Universe
+分类:不丹总理	Category:Prime Ministers of Bhutan
+分类:澳大利亚总理	Category:Prime Ministers of Australia
+分类:泰国总理	Category:Prime Ministers of Thailand
+分类:地理小作品	Category:Geography stubs
+分类:饮食小作品	Category:Food and drink stubs
+分类:朝鲜	Category:North Korea
+分类:柬埔寨	Category:Cambodia
+分类:澳大利亚人	Category:Australian people
+分类:中国人	Category:Chinese people
+分类:台湾歌手	Category:Taiwanese singers
+分类:韩国演员	Category:South Korean actors
+分类:蘇聯作家	Category:Soviet writers
+分类:中国历史	Category:History of China
+分类:不丹国王	Category:Bhutanese monarchs
+分类:老挝	Category:Laos
+分类:缅甸	Category:Burma
+分类:台湾	Category:Taiwan
+分类:法国演员	Category:French actors
+分类:電影模板	Category:Film templates
+分类:爱尔兰模板	Category:Ireland templates
+分类:伊朗模板	Category:Iran templates
+分类:英国模板	Category:United Kingdom templates
+分类:美国模板	Category:United States templates
+Ophir (新南威尔士)	Ophir, New South Wales
+分类:中国古代朝代	Category:Imperial Chinese dynasties
+欧拉崴•沙江隆	Orawee Sujjanon
+分类:多語言支援模板	Category:Multilingual support templates
+分类:新加坡模板	Category:Singapore templates
+分类:外交模板	Category:Foreign relations templates
+分类:法国模板	Category:France templates
+分类:越南模板	Category:Vietnam templates
+分类:加拿大模板	Category:Canada templates
+分类:马来西亚模板	Category:Malaysia templates
+分类:精密模板	Category:Intricate templates
+分类:維基百科工具模板	Category:Wikipedia utility templates
+分类:模板名字空間模板	Category:Template namespace templates
+分类:香港模板	Category:Hong Kong templates
+分类:泰国个公司	Category:Companies of Thailand
+分类:马来西亚公司	Category:Companies of Malaysia
+分类:常州人	Category:People from Changzhou
+分类:陕西人	Category:People from Shaanxi
+分类:安徽人	Category:People from Anhui
+分类:云南人	Category:People from Yunnan
+分类:江苏人	Category:People from Jiangsu
+分类:浙江人	Category:People from Zhejiang
+分类:上海人	Category:People from Shanghai
+分类:出生	Category:Births by year
+分类:朝鮮人	Category:Joseon Dynasty people
+分类:法国总统	Category:Presidents of France
+分类:亚洲历史	Category:History of Asia
+分类:约旦	Category:Jordan
+分类:大洋洲国家	Category:Countries in Oceania
+分类:鱼类	Category:Fish
+分类:北京	Category:Beijing
+分类:国家足球队	Category:National association football teams
+分类:泰国灾难	Category:Disasters in Thailand
+分类:日本关东地方	Category:Kantō region
+分类:柬埔寨电影	Category:Cambodian films
+分类:剧情片	Category:Drama films
+分类:1971年个电影	Category:1971 films
+分类:2003年个电影	Category:2003 films
+分类:1994年个电影	Category:1994 films
+分类:2004年个电影	Category:2004 films
+分类:2005年个电影	Category:2005 films
+分类:2007年个电影	Category:2007 films
+分类:2008年个电影	Category:2008 films
+分类:香港电影	Category:Cinema of Hong Kong
+分类:法国电影	Category:Cinema of France
+分类:公用领域媒体	Category:Public domain files
+分类:印地语	Category:Hindi
+分类:阿拉伯语	Category:Arabic language
+分类:印度言话	Category:Languages of India
+分类:東南亚言话	Category:Languages of Southeast Asia
+分类:人类学	Category:Anthropology
+分类:世界小姐	Category:Miss World
+分类:抗生素	Category:Antibiotics
+分类:五代十国	Category:Five Dynasties and Ten Kingdoms
+分类:操作系统	Category:Operating systems
+分类:昆士兰州	Category:Queensland
+分类:泰国政府	Category:Government of Thailand
+分类:维克多利亚州	Category:Victoria (Australia)
+分类:电影奖	Category:Film awards
+分类:奥斯卡金像奖	Category:Academy Awards
+分类:金球奖	Category:Golden Globe Awards
+分类:清朝	Category:Qing dynasty
+分类:宋朝	Category:Song dynasty
+分类:明朝	Category:Ming dynasty
+分类:汉朝	Category:Han dynasty
+分类:泰国王室	Category:Thai royalty
+分类:里昂	Category:Lyon
+模板:Incubator	Template:Incubator
+分类:中国文化	Category:Chinese culture
+分类:法国文化	Category:French culture
+分类:越南文化	Category:Vietnamese culture
+分类:韩国文化	Category:South Korean culture
+分类:维基百科指南	Category:Wikipedia how-to
+分类:電子工程	Category:Electronic engineering
+分类:网络语言	Category:Internet slang
+模板:ESP	Template:ESP
+分类:动物	Category:Animals
+分类:泰国航空公司	Category:Airlines of Thailand
+分类:製造品	Category:Manufactured goods
+分类:歌唱比赛	Category:Singing competitions
+分类:泰国政府部门	Category:Government ministries of Thailand
+分类:国际象棋	Category:Chess
+分类:武器	Category:Weapons
+分类:核武器	Category:Nuclear weapons
+分类:马来西亚个银行	Category:Banks of Malaysia
+瀑瑶兰	Beaujolais (province)
+分类:英国女演员	Category:British actresses
+分类:物理量	Category:Physical quantities
+Wikipedia:Soft redirect	Wikipedia:Soft redirect
+分类:温标	Category:Units of temperature
+模板:元素色例	Template:Element color legend/metal–nonmetal range
+羌活	Notopterygium incisum
+分类:汉字	Category:Chinese characters
+分类:小吃	Category:Snack foods
+分类:热力学	Category:Thermodynamics
+分类:气象学	Category:Meteorology
+分类:泰国个公园	Category:Parks in Thailand
+分类:航空事故	Category:Aviation accidents and incidents
+分类:香港	Category:Hong Kong
+分类:菲律宾群岛	Category:Islands of the Philippines
+分类:大西洋岛屿	Category:Islands of the Atlantic Ocean
+分类:上海	Category:Shanghai
+分类:节日	Category:Festivals
+分类:泰国歌曲	Category:Thai songs
+分类:印度城市	Category:Cities and towns in India
+分类:俄罗斯城市	Category:Cities and towns in Russia
+分类:Web 2.0	Category:Web 2.0
+分类:事体	Category:Events
+分类:西亚	Category:Western Asia
+分类:電信	Category:Telecommunications
+分类:流感病毒	Category:Influenza
+分类:交通	Category:Transport
+分类:选美	Category:Beauty pageants
+分类:性行为	Category:Sexual acts
+分类:电视剧	Category:Television series
+分类:北美洲	Category:North America
+分类:歌手	Category:Singers
+分类:亚洲个湖泊	Category:Lakes of Asia
+分类:欧洲个湖泊	Category:Lakes of Europe
+分类:湖泊	Category:Lakes
+分类:大韩民国机场	Category:Airports in South Korea
+分类:围棋棋手	Category:Go players
+模板:Infobox Language	Template:Infobox language
+分类:大洋洲	Category:Oceania
+分类:中国城市	Category:Cities in China
+分类:瀑布	Category:Waterfalls
+分类:芭堤雅	Category:Pattaya
+分类:自然灾害	Category:Natural disasters
+分类:日本九州	Category:Kyushu region
+分类:1998年个电影	Category:1998 films
+分类:2006年个电影	Category:2006 films
+分类:恐怖片	Category:Horror films
+分类:美国电影	Category:Cinema of the United States
+分类:汉语	Category:Chinese language
+分类:泰国言话	Category:Languages of Thailand
+分类:新南威尔士州	Category:New South Wales
+秦时明月	Qin's Moon
+分类:澳大利亚文化	Category:Australian culture
+分类:泰国文化	Category:Thai culture
+分类:越南城市	Category:Cities in Vietnam
+分类:澳大利亚城市	Category:Cities in Australia
+分类:泰国城市	Category:Cities and towns in Thailand
+分类:泰国个岛	Category:Islands of Thailand
+分类:印度文化	Category:Indian culture
+分类:印度尼西亚个岛	Category:Islands of Indonesia
+分类:中东国家	Category:Middle Eastern countries
+分类:拉丁美洲国家	Category:Latin American countries
+分类:澳大利亚旅游	Category:Tourism in Australia
+模块:URL	Module:URL
+分类:维基百科媒体文件	Category:Wikipedia files
+分类:墨尔本个公园	Category:Parks in Melbourne
+分类:中国个公园	Category:Parks in China
+分类:无锡	Category:Wuxi
+分类:银行	Category:Banks
+分类:霍巴特	Category:Hobart
+Wikipedia:模板文檔	Wikipedia:Template documentation
+安藤沙耶香	Sayaka Ando
+分类:維基百科文化	Category:Wikipedia culture
+分类:版权模板	Category:Wikipedia copyright templates
+分类:维基百科媒体文件版权	Category:Wikipedia files by copyright status
+分类:南欧	Category:Southern Europe
+分类:維基百科名字空間模板	Category:Wikipedia templates by namespace
+分类:澳大利亚运动场	Category:Sports venues in Australia
+模板:FULLROOTPAGENAME	Template:FULLROOTPAGENAME
+模板:Incorrect namespace	Template:Incorrect namespace
+模板:Single namespace	Template:Single namespace
+分类:学堂	Category:Schools
+分类:澳大利亚风光	Category:Visitor attractions in Australia
+分类:越南航空	Category:Airlines of Vietnam
+分类:中国地铁	Category:Rapid transit in China
+模板:Geo stub	Template:Geo-stub
+绍兴文理学院	Shaoxing University
+模板:UGA	Template:UGA
+模板:UZB	Template:UZB
+沈星扬	Sinyan Shen
+所罗门 特鲁希奥	Solomon Trujillo
+国会议长 (澳大利亚)	Speaker of the Australian House of Representatives
+圣安德鲁斯 (维克多利亚)	St Andrews, Victoria
+标准-渣打银行 (泰国)	Standard Chartered Thailand
+模板:Comment	Template:Comment
+好男当婚 (电影)	Staying Single When
+史梯勒斯溪谷 (维克多利亚)	Steels Creek, Victoria
+史脫拉斯啘 (维克多利亚)	Strathewen, Victoria
+模板:解剖学治疗学及化学分类系统	Template:Major drug groups
+太平府 (安徽省)	Taiping Prefecture
+分类:香港交通	Category:Transport in Hong Kong
+中国	China (disambiguation)
+模板:Module other	Template:Module other
+华抱山	Wo Bau-Sae
+模板:DMCFACT	Template:DMCFACT
+神話 (電視劇)	The Myth (TV series)
+Portal:数学	Portal:Mathematics
+分类:纪元	Category:Calendar eras
+模板:Greece-stub	Template:Greece-stub
+田令孜	Tian Lingzi
+厕所	Toilet (room)
+分类:吴越国	Category:Wuyue
+分类:User wuu-3	Category:User wuu-3
+大唐雙龍傳 (電視劇)	Twin of Brothers
+乌达抛军用飞机场 (泰国)	U-Tapao Royal Thai Navy Airfield
+分类:新南威尔士州个地方	Category:Towns in New South Wales
+Ventura公共汽车公司	Ventura Bus Lines
+中国（上海）自由贸易试验区	Shanghai Free-Trade Zone
+啘同 (维克多利亚)	Wandong
+王海容	Wang Hairong
+王坦之	Wang Tanzhi
+文种	Wen Zhong (Spring and Autumn)
+分类:朝鲜国家元首	Category:Heads of state of North Korea
+风云：雄霸天下 (2002年电视剧)	Wind and Cloud
+无锡市第一中学	Wuxi No.1 High School
+项怀诚	Xiang Huaicheng
+分类:亚洲国家	Category:Countries in Asia
+分类:美洲国家	Category:Countries in the Americas
+韻鏡	Yunjing
+周立波 (演员)	Zhou Libo (comedian)
+周庄镇	Zhouzhuang (disambiguation)
+模板:Japan stub	Template:Japan-stub
+模板:Mexico-stub	Template:Mexico-stub
+分类:WikEd用戶	Category:Wikipedians who use wikEd
+分类:苏州维基人	Category:Wikipedians in Suzhou
+分类:上海維基人	Category:Wikipedians in Shanghai
+分类:維基百科已軟重定向嗰模板	Category:Wikipedia soft redirected templates
+模板:SSU	Template:Same-sex unions
+模板:Zh-hans icon	Template:Zh-hans icon
+模板:User zh-yue-2	Template:User yue-2
+分类:含有內容嗰已軟重定向分類	Category:Wikipedia non-empty soft redirected categories
+分类:維基百科幽默	Category:Wikipedia humor
+模板:RWA	Template:RWA
+模板:MLT	Template:MLT
+模板:KEN	Template:KEN
+模板:JAM	Template:JAM
+分类:南美洲国家模板	Category:South America templates
+模板:CXR	Template:CXR
+分类:1976年个地震	Category:1976 earthquakes
+模板:Sister project	Template:Sister project
+分类:清理模板	Category:Cleanup templates
+分类:事故	Category:Accidents
+海南	Hainan (disambiguation)
+分类:香港机场	Category:Airports in Hong Kong
+分类:User wuu-2	Category:User wuu-2
+分类:User wuu-1	Category:User wuu-1
+分类:香港个地方	Category:Areas of Hong Kong
+柳岩	Liu Yan (actress)
+分类:亚洲国家模板	Category:Asia country templates
+模板:No redirect	Template:No redirect
+分类:澳大利亚模板	Category:Australia templates
+分类:澳式足球	Category:Australian Football League clubs
+分类:澳大利亚华人	Category:Australian people of Chinese descent
+分类:AutoWikiBrowser	Category:AutoWikiBrowser
+分类:柬埔寨个银行	Category:Banks of Cambodia
+胡也頻	Hu Yepin
+分类:宝莱坞	Category:Bollywood
+分类:大桥	Category:Bridges
+分类:布里司班	Category:Brisbane
+分类:香港巴士	Category:Bus transport in Hong Kong
+分类:柬埔寨个歌手	Category:Cambodian singers
+分类:粤语	Category:Cantonese language
+分类:中美洲国家	Category:Countries in Central America
+分类:泰国中部个地方	Category:Central Thailand geography stubs
+分类:戏曲	Category:Chinese opera
+分类:日期	Category:Dates
+分类:江苏城市	Category:Cities in Jiangsu
+分类:广平省个县	Category:Districts of Quang Binh Province
+分类:地震	Category:Earthquakes
+分类:中国地震	Category:Earthquakes in China
+分类:吴（三国）	Category:Eastern Wu
+分类:香港教育	Category:Education in Hong Kong
+分类:环境	Category:Environment
+分类:欧洲国家模板	Category:Europe country templates
+分类:凯撒奖	Category:César Awards
+分类:泰国个节日	Category:Festivals in Thailand
+分类:维基媒体基金会版权	Category:Files copyrighted by the Wikimedia Foundation
+分类:大洋洲国家模板	Category:Oceania country templates
+模板:IAST	Template:IAST
+分类:中国水灾	Category:Floods in China
+模块:Sidebar	Module:Sidebar
+分类:手册	Category:Handbooks and manuals
+分类:杭州	Category:Hangzhou
+分类:印度个寺庙	Category:Hindu temples in India
+分类:香港文化	Category:Culture of Hong Kong
+分类:日本本州	Category:Honshu
+分类:澳大利亚赛马	Category:Horse racing in Australia
+分类:新竹市	Category:Hsinchu
+分类:印度小作品	Category:India stubs
+分类:印度个电影奖	Category:Indian film awards
+分类:爱尔兰	Category:Ireland
+分类:伊斯兰银行	Category:Islamic banks
+分类:伊斯兰经济	Category:Islamic economics in the world
+模板:India-stub	Template:India-stub
+分类:昆山	Category:Kunshan
+分类:苏州	Category:Suzhou
+帮助:Special characters	Help:Special characters
+分类:中华民国	Category:Republic of China
+模板:Listen	Template:Listen
+分类:谜语	Category:Riddles
+分类:香港河流	Category:Rivers of Hong Kong
+分类:香港个街道	Category:Roads in Hong Kong
+分类:泰国报纸	Category:Newspapers published in Thailand
+分类:北美洲国家模板	Category:North America country templates
+分类:香港个公园	Category:Parks in Hong Kong
+分类:香港中学	Category:Secondary schools in Hong Kong
+分类:性学	Category:Sexology
+模板:MNG	Template:MNG
+分类:无锡人	Category:People from Wuxi
+分类:澳大利亚足球场	Category:Soccer venues in Australia
+分类:相态	Category:Phases of matter
+分类:南澳大利亚州	Category:South Australia
+模板:BEL	Template:BEL
+分类:韩国模板	Category:South Korea templates
+分类:广东人	Category:People from Guangdong
+分类:东南亚国家联盟	Category:Association of Southeast Asian Nations
+分类:法国总统夫人	Category:Spouses of French presidents
+分类:墨尔本	Category:Melbourne
+分类:方向	Category:Orientation (geometry)
+分类:勒翻译个文章	Category:Articles in translation
+分类:電話號碼	Category:Telephone numbers
+分类:電話	Category:Telephony
+分类:温度	Category:Temperature
+分类:缺少使用说明个模板	Category:Template documentation pages without documentation
+分类:印度个恐怖事体	Category:Terrorist incidents in India
+分类:上海交通	Category:Transport in Shanghai
+斋月	Ramadan (calendar month)
+分类:缅甸个台风	Category:Tropical cyclones in Burma
+分类:海啸	Category:Tsunamis
+分类:台风	Category:Typhoons
+分类:悉尼	Category:Sydney
+分类:朝鲜模板	Category:North Korea templates
+分类:热带气旋	Category:Tropical cyclones
+分类:澳大利亚个公园	Category:Parks in Australia
+分类:应用科学	Category:Applied sciences
+分类:清迈	Category:Chiang Mai
+分类:字典	Category:Chinese dictionaries
+分类:維基百科已軟重定向嗰項目頁	Category:Wikipedia soft redirected project pages
+分类:維基百科已軟重定向嗰討論頁	Category:Wikipedia soft redirected talk pages
+分类:泰国个商场	Category:Shopping malls in Thailand
+分类:法国个报纸	Category:Newspapers published in France
+模板:Image label begin	Template:Image label begin
+分类:澳大利亚大学	Category:Universities in Australia
+分类:中国个银行	Category:Banks of China
+分类:中国个报纸	Category:Newspapers published in China
+分类:高分子化学	Category:Polymer chemistry
+分类:日本大学	Category:Universities and colleges in Japan
+分类:宁波	Category:Ningbo
+分类:浙江城市	Category:Cities in Zhejiang
+许嵩	Xu Song (singer)
+甲型流感病毒H7N9亚型	Influenza A virus subtype H7N9
+模板:Babels	Template:Babels
+分类:巴黎高速铁路	Category:Paris RER
+分类:天津	Category:Tianjin
+分类:巴黎交通	Category:Transport in Paris
+分类:非洲国家模板	Category:Africa templates
+模板:HUN	Template:HUN
+模板:Ns has subpages	Template:Ns has subpages
+分类:生活	Category:Personal life
+Wikipedia:生成机器人	Wikipedia:Creating a bot
+分类:90年代个歌曲	Category:1990s songs
+模板:Aero-stub	Template:Aero-stub
+分类:女性	Category:Women
+分类:柬埔寨文化	Category:Cambodian culture
+分类:吴国	Category:Wu (state)
+分类:User en-1	Category:User en-1
+分类:PD-self	Category:User-created public domain files
+分类:User de-1	Category:User de-1
+分类:亚洲个台风	Category:Tropical cyclones in Asia
+分类:法国省份	Category:Departments of France
+分类:工具	Category:Tools
+分类:德国城市	Category:Cities in Germany
+分类:美国演员	Category:American actors
+分类:汉语族维基百科	Category:Chinese-language Wikipedias
+模板:France-stub	Template:France-stub
+分类:珀斯交通	Category:Transport in Perth, Western Australia
+分类:瑞典贵族	Category:Swedish nobility
+分类:电影人	Category:Film people
+分类:人物模板	Category:People and person templates
+分类:古巴拳击运动员	Category:Cuban boxers
+模板:Asbox	Template:Asbox
+模板:Lua	Template:Lua
+模板:勿是吳語	Template:Not English
+Wikipedia:弗要犯常见个错误	Wikipedia:Avoiding common mistakes
+Wikipedia:How to read a taxobox	Wikipedia:How to read a taxobox
+Wikipedia:Media help	Wikipedia:Media help
+模块:Error	Module:Error
+模板:Italy-stub	Template:Italy-stub
+模板:OIC	Template:Organisation of Islamic Cooperation
+模板:Testcases notice	Template:Testcases notice
+模板:HK-bio-stub	Template:HongKong-bio-stub
+刘宗周	Liu Zongzhou
+宗人府	Imperial Clan Court
+模板:Start date	Template:Start date
+姜義錫	Kang We-suck
+农夫山泉	Nongfu Spring
+琉球群岛	Ryukyu Islands
+古剑奇谭 琴心剑魄今何在	Gujian Qitan
+模板:Mbox templates see also	Template:Mbox templates see also
+模板:Bio-stub	Template:Bio-stub
+模板:User wuu	Template:User wuu
+模板:Indonesia stub	Template:Indonesia-stub
+模板:港铁路线及服务	Template:MTR
+模板:Malaysia-stub	Template:Malaysia-stub
+褥子	Cushion
+模板:Wayback	Template:Wayback
+模板:Ireland stub	Template:Ireland-stub
+模板:Larger	Template:Larger
+模板:Philippines-stub	Template:Philippines-stub
+模板:海南省行政区划	Template:Hainan
+朱舜水	Zhu Zhiyu
+杨芳 (清朝将领)	Yang Fang (general)
+Wikipedia:VisualEditor	Wikipedia:VisualEditor
+Wikipedia:AutoWikiBrowser/CheckPage	Wikipedia:AutoWikiBrowser/CheckPage
+Portal:大里昂	Portal:Lyon
+模板:SUBJECTSPACE formatted	Template:SUBJECTSPACE formatted
+胡雪岩	Hu Xueyan
+分类:Audio templates	Category:Audio templates
+朗古里 (维克多利亚)	Long Gully, Victoria
+模板:Element color/Actinides	Template:Element color/Actinoids
+模板:Element color/Alkaline earth metals	Template:Element color/Alkaline earth metals
+模板:Tlg	Template:Tlg
+模板:Documentation/preload-module-testcases	Template:Documentation/preload-module-testcases
+模板:扩充	Template:Expand
+鲍۰ 沙拉信	Pao Sarasin
+模板:IPA notice	Template:IPA notice
+模板:Contains special characters	Template:Contains special characters
+模板:Spoken Wikipedia boilerplate	Template:Spoken Wikipedia boilerplate
+Wikipedia:Spoken articles	Wikipedia:Spoken articles
+Wikipedia:CC-BY-SA-3.0协议文本	Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License
+模板:Multi-listen item	Template:Multi-listen item
+模板:Documentation/template page	Template:Documentation/template page
+模板:Element color/Alkali metals	Template:Element color/Alkali metals
+模板:Element color/Lanthanides	Template:Element color/Lanthanoids
+模板:Element color/Nonmetals	Template:Element color/Nonmetals
+模板:Thailand geo stub	Template:Thailand-geo-stub
+曼谷枪手 2	Bangkok Dangerous (2008 film)
+模板:User zh-yue-0	Template:User yue-0
+模块:StringReplace	Module:StringReplace
+模板:Tla	Template:Tla
+模板:Vtext	Template:Vtext
+元宵	First Full Moon Festival
+模板:Documentation/preload	Template:Documentation/preload
+模板:Markup	Template:Markup
+模板:Infobox Language/genetic2	Template:Infobox language/genetic
+模板:Multiple image/numImgs	Template:Multiple image/numImgs
+维克多利亚乡村救火队 (澳大利亚)	Country Fire Authority
+科廷大学汽车站	Curtin University bus station
+模板:Sinaweibo	Template:Weibo
+模板:Vietnam stub	Template:Vietnam-stub
+模板:Tld	Template:Tld
+模块:Documentation	Module:Documentation
+模板:No documentation	Template:No documentation
+模板:User wuu-1	Template:User wuu-1
+模板:Brackets	Template:Brackets
+模板:HKG stub	Template:HongKong-stub
+模板:Element color/X	Template:Element color/Unknown (white)
+模板:User Shanghai	Template:User Shanghai
+模板:User 苏州	Template:User Suzhou
+模板:Thai bio stub	Template:Thailand-bio-stub
+模板:Documentation/preload-testcases	Template:Documentation/preload-testcases
+模板:Documentation/preload-sandbox	Template:Documentation/preload-sandbox
+模板:TemplateDataHeader	Template:TemplateDataHeader
+模板:Module rating	Template:Module rating
+模板:Reply to	Template:Reply to
+模板:Markup/row	Template:Markup/row
+长风公园	Changfeng Park
+模块:Yesno	Module:Yesno
+模块:Message box	Module:Message box
+模块:Category handler	Module:Category handler
+模块:Message box/configuration	Module:Message box/configuration
+尹賢碩	Yun Hyon-seok
+惡病質	Cachexia
+模块:Unsubst	Module:Unsubst
+虎牌啤酒 (新加坡)	Heineken Asia Pacific
+模块:Arguments	Module:Arguments
+特殊:最近更改	Special:RecentChanges
+模块:TableTools	Module:TableTools
+采矿学	Mining geology
+模块:Documentation/config	Module:Documentation/config
+模块:List	Module:List
+模块:Namespace detect	Module:Namespace detect
+模块:Bananas	Module:Bananas
+模块:HtmlBuilder	Module:HtmlBuilder
+模块:String	Module:String
+模块:InfoboxImage	Module:InfoboxImage
+模块:Navbar	Module:Navbar
+模块:Navbox	Module:Navbox
+模块:Infobox	Module:Infobox
+模块:Pagetype	Module:Pagetype
+李岱春	Li Daichun
+Wikipedia:VisualEditor/TemplateData	Wikipedia:TemplateData
+模块:Namespace detect/data	Module:Namespace detect/data
+模块:Namespace detect/config	Module:Namespace detect/config
+模块:Pagetype/config	Module:Pagetype/config
+模块:Effective protection level	Module:Effective protection level
+模板:Aligned table	Template:Aligned table
+模块:Aligned table	Module:Aligned table
+模块:No globals	Module:No globals
+模块:Hatnote	Module:Hatnote
+模板:TEMPLATENAME	Template:TEMPLATENAME
+模块:Listen	Module:Listen
+模块:Side box	Module:Side box
+模块:File link	Module:File link
+模块:Lua banner	Module:Lua banner
+模板:Braces	Template:Braces
+模板:Thinsp	Template:Thinsp
+模块:Category handler/config	Module:Category handler/config
+模块:Category handler/data	Module:Category handler/data
+模块:Category handler/shared	Module:Category handler/shared
+模块:Category handler/blacklist	Module:Category handler/blacklist
+浙江大學跨學科社會科學研究中心	Interdisciplinary Social Science Research Center, Zhejiang University
+馬來西亞航空17號班機空难	Malaysia Airlines Flight 17
+黃大仙祠 (廣州)	Wong Tai Sin Temple (Guangzhou)
+黃大仙祠	Wong Tai Sin Temple
+模板:User wikEd	User:Cacycle/wikEd userbox
+模板:Documentation/preload-module-doc	Template:Documentation/preload-module-doc
+模板:Wuu icon	Template:Wuu icon
+模块:Protection banner/config	Module:Protection banner/config
+模块:Protection banner	Module:Protection banner
+雨傘運動	2014 Hong Kong protests
+模板:Zh-hant icon	Template:Zh-hant icon
+Wikipedia:Picture of the day/2006年12月	Wikipedia:Picture of the day/December 2006
+Wikipedia:Picture of the day/2006年11月	Wikipedia:Picture of the day/November 2006
+Wikipedia:Picture of the day/2006年10月	Wikipedia:Picture of the day/October 2006
+模板:Feature	Template:Feature
+飞行员	Pilot (aeronautics)

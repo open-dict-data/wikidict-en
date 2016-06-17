@@ -1,0 +1,4433 @@
+افريقا	Africa
+جاپان	Japan
+سوېلي امريکا	South America
+ناروې	Norway
+د آيرلېنډ جمهوريت	Republic of Ireland
+هنگري	Hungary
+اسپانیا	Spain
+د امریکا متحده ایالتونه	United States
+بلجیم	Belgium
+لوگزامبورگ	Luxembourg
+ځمکه	Earth
+ژوند	Life
+انسان	Human
+فېنلانډ	Finland
+سويډن	Sweden
+ډېنمارک	Denmark
+پولنډ	Poland
+لېتوانيا	Lithuania
+اېټاليا	Italy
+سويس	Switzerland
+اتريش	Austria
+يونان	Greece
+تورکيه	Turkey
+بير	Beer
+پرتگال	Portugal
+اروپا	Europe
+آسيا	Asia
+شمالي امريکا	North America
+انټارکټيکا	Antarctica
+ويکيپېډيا	Wikipedia
+هالنډ	Netherlands
+نيويارک (ښار)	New York City
+واشنگټن ډي سي	Washington, D.C.
+برلين	Berlin
+سولگر	Computer
+څوریخ	Zürich
+انټرنټ	Internet
+باراک حسين اوباما	Barack Obama
+لندن	London
+قاهره	Cairo
+مڼه	Apple
+پاريس	Paris
+گووگل	Google
+اتلانتيک سمندر	Atlantic Ocean
+غلی سمندر	Pacific Ocean
+کالېفورنیا	California
+دونۍ	Monday
+جنوري	January
+فبروري	February
+مارچ	March
+مريخ	Mars
+کېنيا	Kenya
+اېتوپیا	Ethiopia
+گانا	Ghana
+اپرېل	April
+مې	May
+جون	June
+جولای	July
+اگسټ	August
+سپټمبر	September
+اکتوبر	October
+نومبر	November
+ډيسمبر	December
+درې نۍ	Tuesday
+شورو	Wednesday
+زيارت	Thursday
+جمعه	Friday
+خالي	Saturday
+يونۍ	Sunday
+زمری	Lion
+فرانسه	France
+سپی	Dog
+بريتانيا	United Kingdom
+پيشو	Cat
+چين د خلکو جمهوريت	China
+فرانسوي ژبه	French language
+اېتنول	Ethanol
+برازیل	Brazil
+روسیه	Russia
+نهنگ	Cetacea
+څلوريځ (مېچپوهنه)	Square
+بوینگ ۷۴۷	Boeing 747
+ويکيمېډيا بنسټ	Wikimedia Foundation
+آلمان	Germany
+بېلاروس	Belarus
+آلماني ژبه	German language
+آيسلېنډ	Iceland
+الله	God
+اېسټونيا	Estonia
+زحل	Saturn
+الوتکه	Airplane
+جگړه	War
+جورج واکر بوش	George W. Bush
+اوکراین	Ukraine
+چېک جمهوريت	Czech Republic
+سلواکيا	Slovakia
+سلووانیا	Slovenia
+مولدوا	Moldova
+رومانیا	Romania
+بلغاریا	Bulgaria
+د مقدونيې ولسمشريزه	Republic of Macedonia
+البانیا	Albania
+کروواسيا	Croatia
+آزربايجان	Azerbaijan
+اندورا	Andorra
+گرجستان	Georgia (country)
+قزاقستان	Kazakhstan
+مالټا	Malta
+مانتېنېگرو	Montenegro
+واټيکان ښار	Vatican City
+سان مارینو	San Marino
+بروکسل	Brussels
+بېلیز	Belize
+باربادوس	Barbados
+اندونيزيا	Indonesia
+ولفگانگ امادیوس موزارت	Wolfgang Amadeus Mozart
+لیودویگ وان بیتهووین	Ludwig van Beethoven
+تورکي ژبه	Turkish language
+سویلي افریقا	South Africa
+الجزاير	Algeria
+اوزبکستان	Uzbekistan
+تاشکند	Tashkent
+اوبه	Water
+تلويزون	Television
+چېلي	Chile
+عيسی	Jesus
+گاليليو گاليلی	Galileo Galilei
+عطارد	Mercury (planet)
+پېښليک	History
+ژبه	Language
+زورواکي	Dictatorship
+مشتري	Jupiter
+میشل باشله	Michelle Bachelet
+ستورپوهنه	Astronomy
+سينگاپور	Singapore
+پوهنه	Science
+تکړښت	Sport
+اډولف هټلر	Adolf Hitler
+فېس بوک	Facebook
+ويکيلېکس	WikiLeaks
+لومړنۍ نړېواله جگړه	World War I
+دويمه نړېواله جگړه	World War II
+گړيال	Clock
+شچېچېن	Szczecin
+شمېرپوهنه	Mathematics
+لاتين ژبه	Latin
+بحرین	Bahrain
+ارمنستان	Armenia
+مېخي ليکدود	Cuneiform
+هیگزبوسون	Higgs boson
+سربيا	Serbia
+سپوږمۍ	Moon
+استنبول	Istanbul
+آسټراليا	Australia
+پنځپوهنه	Physics
+ارجنټاین	Argentina
+مخابرات	Telecommunication
+پيرو	Peru
+ژونپوهنه	Biology
+شمالي کوريا	North Korea
+کمبودیا	Cambodia
+قرآن	Quran
+ډانگسر	Dinosaur
+ژوپوهنه	Zoology
+اسلام	Islam
+ناک	Pear
+بوټپوهنه	Botany
+لېخ والېسا	Lech Wałęsa
+اروپايي اتحاديه	European Union
+WWW	World Wide Web
+شعر	Poetry
+کمپيوټري ويروس	Computer virus
+ليمو	Lemon
+گل	Flower
+ناپليون بوناپارت	Napoleon
+لمر	Sun
+آسمان	Sky
+وېکټور هوگو	Victor Hugo
+اقيانوسيه	Oceania
+لمريز غونډال	Solar System
+هايډروجن	Hydrogen
+انگېلا مېرکل	Angela Merkel
+لوړغږی	Loudspeaker
+ورځ	Day
+شپه	Night
+کال	Year
+پېړۍ	Century
+اوسلو	Oslo
+جنسي اړيکې	Human sexual activity
+دوبۍ	Dubai
+آکسيجن	Oxygen
+سياره	Planet
+سندارا	Music
+مسکو	Moscow
+چاډ	Chad
+الومېنيم	Aluminium
+هند	India
+اوسپنه	Iron
+لوېديځ	West
+گوگړ	Sulfur
+ساموا	Samoa
+ختيځ	East
+وېليم شېکسپيير	William Shakespeare
+نكل	Fable
+مارشال ټاپووان	Marshall Islands
+مغولستان	Mongolia
+سترنج	Chess
+چنگېز خان	Genghis Khan
+آس	Horse
+امسټرډام	Amsterdam
+وسله	Weapon
+ژوي	Animal
+سورينام	Suriname
+گويانا	Guyana
+اېکوادور	Ecuador
+ځمکني توتان	Fragaria
+بوديزم	Buddhism
+بولېویا	Bolivia
+تامبه	Copper
+بوټی	Plant
+سېنټ لوسیا	Saint Lucia
+ليونارډو ډاوېنچي	Leonardo da Vinci
+چڼاس	Fungus
+جمايکا	Jamaica
+گرېنادا	Grenada
+گواتمالا	Guatemala
+هندوراس	Honduras
+ډومنيکان جمهوريت	Dominican Republic
+اهلي خوگ	Domestic pig
+شمالي قطبي سمندر	Arctic Ocean
+هایتي	Haiti
+اېلسلوادور	El Salvador
+ايران	Iran
+عراق	Iraq
+کوسټاریکا	Costa Rica
+اسرائيل	Israel
+پاناما	Panama
+يمن	Yemen
+اردن	Jordan
+نیکاراگوا	Nicaragua
+قرغزستان	Kyrgyzstan
+کوېټ	Kuwait
+لاووس	Laos
+لېبنان	Lebanon
+مالديپ	Maldives
+امريکا لويه وچه	Americas
+ميانمار	Burma
+نيپال	Nepal
+عمان	Oman
+پاکستان	Pakistan
+قطر	Qatar
+سعودي عربستان	Saudi Arabia
+سریلانکا	Sri Lanka
+جوزف سټالين	Joseph Stalin
+سوريه	Syria
+اپلاتون	Plato
+تاجيکستان	Tajikistan
+د چين جمهوريت	Taiwan
+يوټيوب	YouTube
+ارستو	Aristotle
+تايلنډ	Thailand
+اورگاډی	Train
+آرسېنيک	Arsenic
+راډيو	Radio
+تورکمنستان	Turkmenistan
+عربي متحده امارات	United Arab Emirates
+چارلس چاپلين	Charlie Chaplin
+سوېلي کوريا	South Korea
+سمپسنز	The Simpsons
+افغانستان	Afghanistan
+بنگله دېش	Bangladesh
+فرانتس کافکا	Franz Kafka
+مالي	Mali
+سوقرات	Socrates
+آنگولا	Angola
+بوتان	Bhutan
+ټويټر	Twitter
+برونای	Brunei
+تانزانیه	Tanzania
+پاره	Mercury (element)
+فلېپين	Philippines
+د منځنی افريقا ولسمشريزه	Central African Republic
+آيزاک نيوټن	Isaac Newton
+آلبرټ آينشټاين	Albert Einstein
+تونس	Tunisia
+زېمبيا	Zambia
+زېمبابوې	Zimbabwe
+بېجنگ	Beijing
+سوېلي سوډان	South Sudan
+بېنين	Benin
+بوتسوانا	Botswana
+بورکینا فاسو	Burkina Faso
+بروندي	Burundi
+کانگو جمهوريت	Republic of the Congo
+جېبوتي	Djibouti
+پولونيم	Polonium
+باډن ورټمبرگ	Baden-Württemberg
+اریتره	Eritrea
+فيودور ميخايلوويچ داستاېفسکي	Fyodor Dostoyevsky
+گابن	Gabon
+مهاتما گاندي	Mahatma Gandhi
+گامبيا	The Gambia
+عاج ساحل	Ivory Coast
+کامرون	Cameroon
+لايبېريا	Liberia
+لېبيا	Libya
+مادغاسکر	Madagascar
+مالاوي	Malawi
+موریتانيا	Mauritania
+ماوریتوس	Mauritius
+مراکش	Morocco
+موزمبيق	Mozambique
+نېمبیا	Namibia
+نایجېر	Niger
+نايجېريا	Nigeria
+راونډا	Rwanda
+سېنېگال	Senegal
+سیشل	Seychelles
+سېرالیون	Sierra Leone
+سومالیا	Somalia
+سوډان	Sudan
+سوازيلانډ	Swaziland
+شنه زرغونه	Rainbow
+استقلاب	Metabolism
+ملگري ملتونه	United Nations
+دانتې الیگيري	Dante Alighieri
+ځمکپېژندنه	Geology
+ځمکپوهنه	Geography
+زړه	Heart
+ماغزه	Brain
+پراگ	Prague
+شين	Blue
+سپين زر	Silver
+يورانيم	Uranium
+پلوتونيم	Plutonium
+ممبای	Mumbai
+گوا	Goa
+مهاراشترا	Maharashtra
+زارلاند	Saarland
+براندنبورگ	Brandenburg
+برېمن (ايالت)	Bremen (state)
+بيت المقدس	Jerusalem
+هندي سمندر	Indian Ocean
+کلراډو	Colorado
+ژمی	Winter
+پسرلی	Spring (season)
+دوبی	Summer
+منی	Autumn
+اسامه بن لادن	Osama bin Laden
+اوپرا	Opera
+کلکته	Kolkata
+ډېلي	Delhi
+بند پایان	Arthropod
+اسلام آباد	Islamabad
+پيسې	Money
+خوځندکې	Insect
+ولادمير ايليچ لېنين	Vladimir Lenin
+نېكولو مكياوېلې	Niccolò Machiavelli
+مايکروسافټ وېنډوز	Microsoft Windows
+مانيلا	Manila
+توکيو	Tokyo
+استانه	Astana
+بغداد	Baghdad
+هندي ژبه	Hindi
+اوردو ژبه	Urdu
+واليبال	Volleyball
+وين	Vienna
+ډبلن	Dublin
+بوډاپسټ	Budapest
+د مسيح حقيقي کليسا	True Jesus Church
+انگرېزي ژبه	English language
+بانگکوک	Bangkok
+کوالالامپور	Kuala Lumpur
+ديپلوماسي	Diplomacy
+کيېف	Kiev
+كونسكوولا	Końskowola
+2012	2012
+2013	2013
+خواړه	Food
+اېلېکټرون	Electron
+رغاويز اوښتون	Industrial Revolution
+د روم ټولواکمني	Roman Empire
+مايکروسافټ	Microsoft
+پروټون	Proton
+کوروف	Kurów
+کيميا	Chemistry
+نيوټرون	Neutron
+صنعا	Sana'a
+آرنولد شوارزنېگر	Arnold Schwarzenegger
+فوټبال	Association football
+آيفون	IPhone
+مايکل جېکسن	Michael Jackson
+انتوان دي سينت اکسيوپيري	Antoine de Saint-Exupéry
+سور	Red
+هوا	Atmosphere of Earth
+پېرى	Jinn
+ربات	Rabat
+الجزيره	Algiers
+ترابلس	Tripoli
+تهران	Tehran
+جکارتا	Jakarta
+انقره	Ankara
+رياض	Riyadh
+فوټ	Foot (unit)
+وېشنيزه:د ويکيپېډيا کينډۍ	Category:Wikipedia templates
+د مشق	Damascus
+لوم	Lomé
+دوها	Doha
+دودوما	Dodoma
+ښوونځی	School
+پوهنتون	University
+د پوهنغونډ په اړه	Wikipedia:Introduction
+آسټراليا (لويه وچه)	Australia (continent)
+ورونپاسی	Laptop
+الجبر	Algebra
+دونگ هوی هوايي ډگر	Dong Hoi Airport
+آر دړه	Motherboard
+كوريتيبا	Curitiba
+پنجاب (پاکستان)	Punjab, Pakistan
+وېشنيزه:د افغانستان پېښليک	Category:History of Afghanistan
+توماس شېن کانېري	Sean Connery
+كنفيوشيوس	Confucius
+کوربن بليو	Corbin Bleu
+وېشنيزه:شمېرپوهنه	Category:Mathematics
+کينډۍ:د هېواد مالومات ایران	Template:Country data Iran
+وېشنيزه:د ایران تاریخ	Category:History of Iran
+امريکايي ډالر	United States dollar
+عيسويت	Christianity
+لويه وچه	Continent
+مرغه	Bird
+پلازمېنه	Capital city
+کينډۍ:اسلام	Template:Islam
+مياشت (موده)	Month
+مصطفی کمال اتاتورک	Mustafa Kemal Atatürk
+کينډۍ:تانبه	Template:Portal
+هوانگ شيان فان	Huang Xianfan
+د فلسفې ليکلړ	Glossary of philosophy
+بقراط	Hippocrates
+الماس	Diamond
+پوهنغونډ	Encyclopedia
+RAM	Random-access memory
+لومړی مخ	Main Page
+کانډنسر	Capacitor
+باسکټبال	Basketball
+کرېکټ	Cricket
+اوراسيا	Eurasia
+د هېتیانو واکمنۍ	Hittites
+وينه لږی	Anemia
+کېپ ټاون	Cape Town
+قراقرم	Karakoram
+هندوکش	Hindu Kush
+ميترو	Rapid transit
+کنځری	Cotoneaster
+پيکاسو	Pablo Picasso
+بس	Bus
+ټرام	Tram
+بابل	Babylon
+آنتون پاولوف چيخوف	Anton Chekhov
+چارلېز ډيکېنز	Charles Dickens
+سپارتا	Sparta
+موينجو دېړو	Mohenjo-daro
+سمرقند	Samarkand
+بخارا	Bukhara
+چې گوارا	Che Guevara
+کابل	Kabul
+گوېټه	Johann Wolfgang von Goethe
+مهبل	Vagina
+فلسفه	Philosophy
+د مقدس ویټوس کليسا	St. Vitus Cathedral
+چای	Tea
+کمونيزم	Communism
+انارشيزم	Anarchism
+پانگولي	Capitalism
+لېبراليزم	Liberalism
+فاشېزم	Fascism
+ولسپالنه	Nationalism
+حافظ شېرازي	Hafez
+هېوادپالنه	Patriotism
+هیواد	Country
+ولس	Nation
+هيلري کلنټن	Hillary Rodham Clinton
+د برتانيې موزيم	British Museum
+ژان ژاک روسو	Jean-Jacques Rousseau
+هومر	Homer
+الكساندر هومبولدت	Alexander von Humboldt
+کوارک	Quark
+اېډوارډ ټېللر	Edward Teller
+تور زېړی	Hepatitis B
+اتيزم	Atheism
+نيلز بوهر	Niels Bohr
+ژونکيميا	Biochemistry
+ژونپنځپوهنه	Biophysics
+چاپېريالپوهنه	Ecology
+بارسلونا فوټبال کلب	FC Barcelona
+واگ	Politics
+ووبپوهنه	Histology
+عربي ټولنه	Arab League
+ولسواکي	Democracy
+نجيب محفوظ	Naguib Mahfouz
+د سره صليب او سرې مياشتې نړيوال غورځنگ	International Red Cross and Red Crescent Movement
+نړيوالتوب	Globalization
+ناټو	NATO
+جين	Gene
+حکومت	Government
+نوبل جايزه	Nobel Prize
+چېن شي هوانگ	Qin Shi Huang
+منځنی ختيځ	Middle East
+رنځپوهنه	Pathology
+رابندرانات ټاگور	Rabindranath Tagore
+لېو نيكولايوويچ تولستوى	Leo Tolstoy
+مارک ټوېن	Mark Twain
+ايډيالوژي	Ideology
+ادا لولېس	Ada Lovelace
+مارکسيزم	Marxism
+ولسمشريزه	Republic
+دولت	State (polity)
+گوند	Political party
+بډمنټن	Badminton
+يوري الکسويچ گاگارين	Yuri Gagarin
+ابن بطوطه	Ibn Battuta
+اباسين (سيند)	Indus River
+فرانز جوزیف هایدن	Joseph Haydn
+غوږ	Ear
+سترگه	Eye
+سندره	Song
+اوښ	Camel
+تی لرونکی ځناوران	Mammal
+مېږی	Ant
+مارگريت تاچر	Margaret Thatcher
+ډي آکسي رايبونيوکليک اسيد	DNA
+ژباړه	Translation
+ښامار	Dragon
+مور	Mother
+پلار	Father
+لېږدچارې	Transport
+روسي ژبه	Russian language
+ولادمير پوتين	Vladimir Putin
+حقوق	Law
+اساسي قانون	Constitution
+د بشري حقونو نړېواله اعلاميه	Universal Declaration of Human Rights
+د روغتيا نړيوال سازمان	World Health Organization
+د سوداگرۍ نړيوال سازمان	World Trade Organization
+پرېولنځی	Toilet
+طبيعت	Nature
+سادرملنه	Psychiatry
+ژونکه	Cell (biology)
+وينه	Blood
+هډوانه	Skeleton
+سږي	Lung
+ساييز غونډال	Respiratory system
+رومانيايي ژبه	Romanian language
+بلغاريايي ژبه	Bulgarian language
+ښوونپوهنه	Didactic method
+روزنپوهنه	Pedagogy
+يمال	Avalanche
+رېږدله	Earthquake
+طبيعي پوهنې	Natural science
+ابن سينا بلخي	Avicenna
+وېنسټون چرچل	Winston Churchill
+نېلسن مانډېلا	Nelson Mandela
+انزايم	Enzyme
+امينو اسيد	Amino acid
+ورېځ	Cloud
+سولپوهنه	Logic
+مېچپوهنه	Geometry
+وټپوهنه	Economics
+پانگه (وټپوهنه)	Capital (economics)
+ارز	Currency
+رغاوه	Industry
+ورکړېنه	Tax
+ژبپوهنه	Linguistics
+يوناني ابېڅې	Greek alphabet
+ادبپوهنه	Literature
+وېشنيزه:فرانسه	Category:France
+ناول	Novel
+سره گيدړه	Red fox
+اوستراوا	Ostrava
+کوروش ۲	Cyrus the Great
+ټولنه	Society
+تمدن	Civilization
+زده کړه	Education
+هوگو چاوېز	Hugo Chávez
+واده	Marriage
+وگړنيز حقوق	Human rights
+توکمپالنه	Racism
+گوډ تېمور	Timur
+عمر بن خطاب	Umar
+پوځ	Military
+سلیمان ۱	Suleiman the Magnificent
+قهوه	Coffee
+د آمو سيند	Amu Darya
+شيدې	Milk
+ارغنداب رود	Arghandab River
+غر	Mountain
+هري رود	Hari River, Afghanistan
+هلمند رود	Helmand River
+توكبنسټ	Database
+کابل سيند	Kabul River
+د افغانستان ملي پوليس	Afghan National Police
+صلاح الدين ايوبي	Saladin
+اشوک	Ashoka
+جلال الدين محمد اکبر	Akbar
+هانگ کانگ	Hong Kong
+کراچۍ	Karachi
+د ريال مادريد فوټبال کلب	Real Madrid C.F.
+سيول	Seoul
+شانگهای	Shanghai
+د ماد واکمني	Medes
+اقليدس	Euclid
+بايټ	Byte
+محمد بن موسی خوارزمي	Muḥammad ibn Mūsā al-Khwārizmī
+ناروېژي ژبه	Norwegian language
+نوم چومسكي	Noam Chomsky
+چيکی ژبه	Czech language
+کارل مارکس	Karl Marx
+موسی	Moses
+پوهه	Knowledge
+هندويزم	Hinduism
+اټوم	Atom
+يوناني ژبه	Greek language
+چليز غونډال	Operating system
+تاج محل	Taj Mahal
+بنسټپالنه	Fundamentalism
+برېښليک	Email
+پاړسي ژبه	Persian language
+مذهب	Religion
+اېمپاير سټېټ ودانۍ	Empire State Building
+سېگمونډ فرايډ	Sigmund Freud
+جاينيزم	Jainism
+گيورگ ويلهېلم فرېدرېش هېگل	Georg Wilhelm Friedrich Hegel
+باکو	Baku
+تاجکي ژبه	Tajik language
+اوزبکي ژبه	Uzbek language
+تورکمني ژبه	Turkmen language
+يهوديت	Judaism
+آزربايجاني ژبه	Azerbaijani language
+ابن خلدون	Ibn Khaldun
+امانوېل کانت	Immanuel Kant
+سکيزم	Sikhism
+فرېدرېک وېلهېلم نېتشي	Friedrich Nietzsche
+بشکیک	Bishkek
+دوشنبه	Dushanbe
+اينه	Liver
+پښتورگی	Kidney
+ادم سمېت	Adam Smith
+احساس	Emotion
+ساپوهنه	Psychology
+آند	Thought
+مهاوېرا	Mahavira
+سمندر	Ocean
+ملکه وېکټوريا	Queen Victoria
+محمد	Muhammad
+اخلاق	Ethics
+پوهنپوهنه	Epistemology
+سچين رمېش ټنډولکر	Sachin Tendulkar
+عبدالکلام	A. P. J. Abdul Kalam
+بي بي سي	BBC
+شاهرخ خان	Shah Rukh Khan
+سلمان خان	Salman Khan
+محمد الغزالي	Al-Ghazali
+عامر خان	Aamir Khan
+اميتاببچن	Amitabh Bachchan
+شيعه	Shia Islam
+گېډه	Abdomen
+زرتشتيت	Zoroastrianism
+تصوف	Sufism
+ژبه (اناتومي)	Tongue
+پانکراس	Pancreas
+غاړه	Neck
+کمزوره شوي یورانیم	Depleted uranium
+هولي	Holi
+زړه پوهنه	Cardiology
+ډېوېډ بکهم	David Beckham
+کيم جونگ ايل	Kim Jong-il
+وېشنيزه:وېنزوېلا	Category:Venezuela
+روبېرت موگابي	Robert Mugabe
+خاپوړن	Reptile
+کوتره	Columbidae
+باکټريا	Bacteria
+ونه	Tree
+دوه ژوندوي	Amphibian
+اوښتون	Revolution
+انگور	Grape
+گبين	Honey
+کچالو	Potato
+سابه	Vegetable
+ټکنالوجي	Technology
+انجينري	Engineering
+خبريالي	Journalism
+ورځپاڼه	Newspaper
+غږلېږدی	Telephone
+هڅوب	Culture
+سانسکریت ژبه	Sanskrit
+د زړه او رگونو غونډال	Circulatory system
+د پارکېنسون ناروغي	Parkinson's disease
+گارډيان	The Guardian
+انډيپېنډنټ	The Independent
+درملگري	Medicine
+مقننه قوه	Legislature
+مالگه	Salt
+مايکروسافټ آفېس	Microsoft Office
+وېشنيزه:رومانیا	Category:Romania
+کيمياوي توکی	Chemical element
+ابن باجه	Avempace
+هورمون	Hormone
+اپارتايد	Apartheid
+لوبه	Game
+جودو	Judo
+مقناطيس	Magnet
+فلم	Film
+ساهيالي	Animation
+کرنه	Agriculture
+غږ	Sound
+نانو تکنالوژي	Nanotechnology
+ښيښه	Glass
+وخت	Time
+ليکپاڼه	Paper
+کازمېکي وړانگې	Cosmic ray
+جوار	Maize
+انځورکښنه	Painting
+تشیالیونی	Astronaut
+انځوراخيستنه	Photography
+برېښنايي ټېکنالوژي	Electronics
+فريکونسي	Frequency
+خوړنځی	Restaurant
+د لودیانو ټولواکمني	Lodi dynasty
+لاهور	Lahore
+د خپلواکو هېوادونو لړليک	List of sovereign states
+ابوريحان بيروني	Abū Rayḥān al-Bīrūnī
+څېړۍ	Oak
+سرطان	Cancer
+کولرا	Cholera
+غنم	Wheat
+ناروغي	Disease
+گرېگوري کليز	Gregorian calendar
+نیکوتین	Nicotine
+روغتيا	Health
+ملاريا	Malaria
+انټيبايوټيک	Antibiotics
+پنسلين	Penicillin
+نېمونيا	Pneumonia
+گوزڼ	Poliomyelitis
+اېډز	HIV/AIDS
+نری رنځ	Tuberculosis
+ډايبېټېز مېلېټوز	Diabetes mellitus
+صليبي جگړې	Crusades
+منځنۍ پېړۍ	Middle Ages
+عثماني پېر	Ottoman Empire
+د کورنيو توليداتو ټوليز ارزښت	Gross domestic product
+برېښنا	Electricity
+یان آموس کمېنسکي	John Amos Comenius
+اټومي برېښناکوټ	Nuclear power
+د بړاس ماشين	Steam engine
+توره (وسله)	Sword
+هستوي وسلې	Nuclear weapon
+شوبله	Tank
+هرمان ون رومپوې	Herman Van Rompuy
+غرني توت	Blueberry
+تورتوت	Blackberry
+ناريال	Coconut
+انار	Pomegranate
+مالټه	Orange (fruit)
+A New Etymological Vocabulary of Pashto	Kiwifruit
+گراڅ	Graz
+ډېبټ کارډ	Debit card
+انجلينا جولي	Angelina Jolie
+عربي ژبه	Arabic language
+کانډوم	Condom
+تيرانوسور	Tyrannosaurus
+تریسراتوپس	Triceratops
+ستگوسور	Stegosaurus
+کارکارودونتوسور	Carcharodontosaurus
+وچکښ	Pencil
+برنو	Brno
+هوجينتاو	Hu Jintao
+د شوروي سوسياليستي جمهوريتونو اتحاد	Soviet Union
+انځورۍ	Still camera
+اېچ آی وي	HIV
+يومکی	Scapula
+ځاني سولگر	Personal computer
+بروس لي	Bruce Lee
+هايپوتايرايډيزم	Hypothyroidism
+نړۍ	World
+د روم جمهوريت	Roman Republic
+ټریلوبیټ	Trilobite
+گردکه	Circle
+گرځنده غږلېږدی	Mobile phone
+اوښمرغه	Ostrich
+ويټامين اې	Vitamin A
+بغ	Heron
+پيونگيانگ	Pyongyang
+د لور موندنې نړيوال غونډال	Global Positioning System
+د هېوادونو لړليک د کورنيو توليداتو د ټوليز ارزښت له مخې	List of countries by GDP (nominal)
+جگتورن	Captain (armed forces)
+سمندري غڼې	Sea spider
+لړم	Scorpion
+ما اينگ جيو	Ma Ying-jeou
+سمندري لړمان	Eurypterid
+انټرنټ لټوونکی ماشين	Search engine (computing)
+بخارست	Bucharest
+لوور	Louvre
+تیرانا	Tirana
+ويکټوريا بېکهم	Victoria Beckham
+درېڅنډی	Triangle
+سټيف جوبز	Steve Jobs
+معمر القذافي	Muammar Gaddafi
+پړانگ	Tiger
+لومړی خوان کارلوس	Juan Carlos I of Spain
+مېچې	Vermicelli
+لمسنالۍ	Touchpad
+سامسونگ	Samsung
+سولگرپوهنه	Computer science
+ټولنپوهنه	Sociology
+گاگره	Concrete
+جغرافي کوراډينېټونو سيستم	Geographic coordinate system
+پڼې	Shoe
+بهايي	Bahá'í Faith
+بانک	Bank
+د وينا ازادي	Freedom of speech
+اډېل	Adele
+د نش ميزان	Nash equilibrium
+هوږه	Garlic
+وگړپوهنه	Anthropology
+بادرنگ	Cucumber
+ارنېست مېلر هېمېنگوې	Ernest Hemingway
+عشق آباد	Ashgabat
+ټاپو	Island
+تور (رنگ)	Black
+پياز	Onion
+رسمي ژبه	Official language
+لرغونپوهنه	Archaeology
+بالکان	Balkans
+سلاوي ژبې	Slavic languages
+سر	Head
+ولسي لاره	National anthem
+تماسي عدسيه	Contact lens
+الفرېډ نوبل	Alfred Nobel
+ږمنځ	Comb
+لیلا داونز	Lila Downs
+موسم	Season
+راولپنډۍ ولسوالۍ	Rawalpindi District
+ډبرين سکاره	Coal
+يارمخچۍ	Greater short-toed lark
+نينورشک	Nynorsk
+بوکمول	Bokmål
+کونگ	Owl
+شمزۍ لرونکي ژوي	Vertebrate
+نړېوال تشيال تمځای	International Space Station
+ISO 3166-1	ISO 3166-1
+کجوره	Date palm
+څټک	Hammer
+اروپايي کاغۍ	Eurasian magpie
+چابکۍ	Cockroach
+كوچنى شاهزاده	The Little Prince
+شمالي باز	Northern goshawk
+غضروفی کبان	Chondrichthyes
+ځنگلي سار	Common buzzard
+سيلاني کارغه	Rook (bird)
+لويديځي کاغۍ	Western jackdaw
+شودپۍ	White wagtail
+اېشېريکيا کولي	Escherichia coli
+توتکۍ	Barn swallow
+گنگو	Saffron
+ترکاڼک	Woodpecker
+شامتوره	Common starling
+کوشانيان	Kushan Empire
+کومکۍ	Common wood pigeon
+جوک	Common linnet
+آتروپين	Atropine
+شين شارک	Blue shark
+اورني سمندر	Fire salamander
+سپوږمکۍ	Satellite
+شينغاړی	Bluethroat
+تورياڼۍ	Swift
+لونگ	Clove
+زيره	Caraway
+وژونکی نهنگ	Killer whale
+سپېرکونده	Crested lark
+منځنۍ آسيا	Central Asia
+شمالي افريقا	North Africa
+مرکزي افريقا	Central Africa
+ختيځه اروپا	Eastern Europe
+لوېديځه اروپا	Western Europe
+افريقايي اوراسيا	Afro-Eurasia
+د فلسفې تاريخ	History of philosophy
+زي نړیواله جگړه (فلم)	World War Z (film)
+مړز	Common quail
+مروری	Matricaria chamomilla
+چې زېټ ۸۰۵ برېن توپک	CZ-805 BREN
+کمول (مارغه)	Stork
+اوبدانه	Textile
+توکي	Good (economics)
+سپوږميز ليږديز کليز	Islamic calendar
+ميلوش زېمان	Miloš Zeman
+اېف-۱۵	McDonnell Douglas F-15 Eagle
+ليوکېمي	Leukemia
+پارسیمن	Persimmon
+ديموکراتيک گوند ( د امريکا متحده ایالتونه)	Democratic Party (United States)
+ټيکاله	Lark
+شاتو مچی	Western honey bee
+شړشم	Mustard plant
+خاورين چينجی	Lumbricus terrestris
+ولسمشر	President
+باشه	Peregrine falcon
+رودولف کلاوزيوس	Rudolf Clausius
+تورغوږی	Caracal
+ډېل	Dell
+زايلومېټازولين	Xylometazoline
+شمېرنی	Calculator
+ايډمونډ شارپ	Edmund Sharpe
+شاه محمود هوتک	Mahmud Hotak
+امير عبدالرحمان خان	Abdur Rahman Khan
+ټکټکی	Wryneck
+د عربستان ټاپووزمه	Arabian Peninsula
+امير دوست محمد خان	Dost Mohammad Barakzai
+بېریف بې-۲۰۰	Beriev Be-200
+پهلوي ژبه	Middle Persian
+وری	Aries (astrology)
+بردسکن ولسوالۍ	Bardaskan County
+جېهلم ولسوالۍ	Jhelum District
+ملاله يوسفزۍ	Malala Yousafzai
+جومات	Mosque
+بلوڅی ژبه	Balochi language
+د کتاب نړيواله کره شمېره	International Standard Book Number
+د کندهار نړيوال هوايي ډگر	Kandahar International Airport
+د مغولو پاچايي	Mughal Empire
+گړدود	Dialect
+ایرانی ژبی	Iranian languages
+هېما مالېني	Hema Malini
+لاس	Hand
+خلکو شمېر	Population
+د پاکستان ژبې	Languages of Pakistan
+پاڼه	Leaf
+لوبگر	Actor
+هاليووډ	Hollywood
+محمد حسنی مبارک	Hosni Mubarak
+دينپوهنه	Theology
+پابلو نرودا	Pablo Neruda
+زیوس	Zeus
+موساد	Mossad
+یغنابی ژبه	Yaghnobi language
+انجيل	Gospel
+الېکسانډر گراهام بېل	Alexander Graham Bell
+ستورپېژندنه	Astrology
+ساز	Musical instrument
+ويټني هيوسټن	Whitney Houston
+سابون	Soap
+موشوفتسی	Mošovce
+شکيرا	Shakira
+محمود احمدي نژاد	Mahmoud Ahmadinejad
+كېښكلى ټيكلى (CD)	Compact disc
+چورلکه	Helicopter
+القاعده	Al-Qaeda
+محمد فاتح	Mehmed the Conqueror
+اناستاسيا	Anastacia
+فرات	Euphrates
+البېرټ کامو	Albert Camus
+د فارس خليج	Persian Gulf
+قطب نما	Compass
+ټولنيزې پوهنې	Social science
+ټاپووزمه	Peninsula
+نوی کال	New Year
+اېف-۱۴	Grumman F-14 Tomcat
+ويټامين	Vitamin
+تورات	Torah
+كرم	Cabbage
+متل	Proverb
+هينداره	Mirror
+لرغونې پاړسي	Old Persian
+عربان	Arabs
+براډ پېت	Brad Pitt
+کړکۍ	Window
+اکدي ژبه	Akkadian language
+څارندوی	Police
+ولسي جرگه	Parliament
+اوساکا	Osaka
+د کېمبرېج پوهنتون	University of Cambridge
+اجرايي قوه	Executive (government)
+تعمید غسل	Baptism
+ډډون	Inflation
+سابندي	Asthma
+عمر خيام	Omar Khayyám
+وله	Willow
+محمد علي کلي	Muhammad Ali
+خاوره	Soil
+اينځر	Common fig
+ليکوال	Writer
+د توهوکو سونامي او رېږدله ۲۰۱۱	2011 Tōhoku earthquake and tsunami
+واتسلاف هاول	Václav Havel
+د ورېښم لار	Silk Road
+جېن آسټن	Jane Austen
+کوردي ژبه	Kurdish languages
+زرۍ	Millennium
+علمی نوم	Binomial nomenclature
+هنرېک ايبسن	Henrik Ibsen
+ماموت	Mammoth
+څلورڅنډی	Quadrilateral
+د سرکوزي والگی	Swine influenza
+اوزون	Ozone
+جذام	Leprosy
+مخ (اناتومي)	Face
+خپلواکي	Independence
+ښوون	Olive
+سليمان	Solomon
+یاهو!	Yahoo!
+کرښه (مېچپوهنه)	Line (geometry)
+فرعون	Pharaoh
+کلاشېنکوف اې کې ۴۷	AK-47
+څپه	Wave
+د وینې سره کرویات	Red blood cell
+سند	Sindh
+فرانسېس بیکن	Francis Bacon
+معمولي مندته	Prunus armeniaca
+نيکول کېډمېن	Nicole Kidman
+هايکو	Haiku
+عثمان بن عفان	Uthman
+وگړشمېرنه	Demography
+ځمکواکي	Feudalism
+اوبړۍ	Algae
+نتالي پورټمېن	Natalie Portman
+هېرټا مولر	Herta Müller
+مکډونالډز	McDonald's
+يوکوهوما	Yokohama
+گړپوهنه	Morphology (linguistics)
+ويليم فاکنر	William Faulkner
+هندواڼه	Watermelon
+پخلی	Cooking
+بادي ژرنده	Windmill
+د حماس اسلامي غورځنگ	Hamas
+آيت الله روح الله خميني	Ruhollah Khomeini
+ليزر	Laser
+تبه	Fever
+تيد	Teide
+کوچنی وټه	Microeconomics
+رجب طيب اردوغان	Recep Tayyip Erdoğan
+خزدکپوهنه	Entomology
+تبر	Axe
+علي بن ابي طالب	Ali
+گورجی سپی	Setter
+لویه وټه	Macroeconomics
+انسولين	Insulin
+بازارموندنه	Marketing
+سرشمېرنه	Census
+ابن رشد	Averroes
+لسيزه	Decade
+بادام	Almond
+څښاک	Drink
+نيانډرټال	Neanderthal
+الهي کمېډي	Divine Comedy
+ووب	Tissue (biology)
+امير شېر علي خان	Sher Ali Khan
+پروېز مشرف	Pervez Musharraf
+لوط	Lot (biblical person)
+دهاډرونو ستر تعجیل کوونکي ماشین	Large Hadron Collider
+يحيی	John the Baptist
+دیلما روسف	Dilma Rousseff
+ساندرا بللاک	Sandra Bullock
+جراحي	Surgery
+بياتي	Scissors
+نفرتيتي	Nefertiti
+لمونځ	Prayer
+سکايپ	Skype
+غږپوهنه	Phonology
+هارولډ پينټر	Harold Pinter
+د حزب الله اسلامی غورځنگ	Hezbollah
+باو	Syphilis
+د آشور واکمني	Assyria
+ودانۍ	Building
+سوني	Sony
+باريس ولاديميروويچ پاسترناک	Boris Pasternak
+کونستانتين اېدواردوويچ تسيولکوفسکي	Konstantin Tsiolkovsky
+سينما	Movie theater
+بودجه	Budget
+څپواټن	Wavelength
+داوود	David
+کنگل هاکي	Ice hockey
+کوردستان	Kurdistan
+د موس مقياس	Mohs scale of mineral hardness
+بواسيرونه	Hemorrhoid
+سلواغه (مياشت)	Bahman
+ليندۍ (مياشت)	Azar
+مرغومی (مياشت)	Dey (month)
+کب (مياشت)	Esfand
+هېنريک سېنکېويچ	Henryk Sienkiewicz
+ککرۍ پتنگ	Acherontia atropos
+كوكايين	Cocaine
+فینیکیان	Phoenicia
+شهادت	Shahada
+تله (مياشت)	Mehr (month)
+د بابل ځوړند بڼ	Hanging Gardens of Babylon
+حاکميت	Sovereignty
+خديجه بنت خويلد	Khadija bint Khuwaylid
+ام سلمه هند بنت ابي اميه	Umm Salama
+نیلي نهنگ	Blue whale
+څېړنه	Research
+سولي پرودممه	Sully Prudhomme
+اوبپوهنه	Hydrology
+بوکر	Cone
+د مورنۍ ژبې نړيواله ورځ	International Mother Language Day
+سهيونېزم	Zionism
+د طالبانو اسلامي غورځنگ	Taliban
+اناکزیمېنډر	Anaximander
+کورکمن	Turmeric
+د مسلمانانو د شمېر له مخې د هېوادونو لړليک	Islam by country
+ځنگلي پيشو	Jungle cat
+عبدالله گل	Abdullah Gül
+ختيځپوهنه	Orientalism
+کرېشنا	Krishna
+ساباوري	Animism
+ليکچه	Notebook
+مالیه	Finance
+وچکالي	Drought
+تور مرچ	Black pepper
+ياقوت	Ruby
+کشمير	Kashmir
+ټولپوښتنه	Referendum
+كپېړ	Crocodylidae
+مولانا جلال الدين محمد بلخي	Rumi
+کارغه	Corvus (genus)
+پلزن	Plzeň
+توکمپوهنه	Ethnology
+مټ	Arm
+زمرد	Emerald
+وحشي پيشو	Wildcat
+شکرخوره	Hummingbird
+فدراسيون	Federation
+شونډکيز چرگ	Turkey (bird)
+انسلم	Anselm of Canterbury
+حامد کرزی	Hamid Karzai
+یان هوس	Jan Hus
+کورني آلو	Prunus domestica
+اندرس بېرينگ برېويک	Anders Behring Breivik
+شينټاغی	Roller
+احمد سلمان رشدي	Salman Rushdie
+افسانه	Legend
+داریوش ۱	Darius I
+توت	Morus (plant)
+لسبېله ولسوالۍ	Lasbela District
+اېنټروپي	Entropy
+ټوبه ټيک سېنگ ولسوالۍ	Toba Tek Singh District
+گجرات ولسوالۍ	Gujrat District
+هرات	Herat
+کودتا	Coup d'état
+کندهار	Kandahar
+غشی	Arrow
+غږتاندی	Microphone
+امجد خان	Amjad Khan
+ابن عربي	Ibn Arabi
+وری (مياشت)	Farvardin
+توراڼه	Black drongo
+اپيم	Opium
+وږی (مياشت)	Shahrivar
+اوسيريس	Osiris
+ازاد بازار	Free market
+اوکاړه ولسوالۍ	Okara District
+احمد شاه دراني	Ahmad Shah Durrani
+اسراييل لرغونتون	Israel Museum
+جي اس ام	GSM
+غويی (مياشت)	Ordibehesht
+زمری (مياشت)	Mordad
+غبرگولی (مياشت)	Khordad
+اېشواريه رای	Aishwarya Rai Bachchan
+چنگاښ (مياشت)	Tir (month)
+نوغپوهنه	Genealogy
+مېلټون فرايډمېن	Milton Friedman
+بانکنوټ	Banknote
+نړيواله جنايي محکمه	International Criminal Court
+رادار	Radar
+د اسلامي همکاريو سازمان	Organisation of Islamic Cooperation
+سياسي وټه	Political economy
+د بابل واکمني	Babylonia
+جبران خليل جبران	Kahlil Gibran
+خټکی	Honeydew (melon)
+روبي وېليمز	Robbie Williams
+د سږو سرطان	Lung cancer
+مهايانا	Mahayana
+امريتسر	Amritsar
+اس ـ ۳۰۰	S-300 (missile)
+مير تشيال تمځی	Mir
+خانيوال ولسوالۍ	Khanewal District
+لنډه کيسه	Short story
+د لبنان جگړه ۲۰۰۶	2006 Lebanon War
+گرځندويي	Tourism
+شاعر	Poet
+بادي توربین	Wind turbine
+یوسېفینه پرویس	Josefine Preuß
+يو گونديز حکومت	Single-party state
+مصري ژبه	Egyptian language
+هارون	Aaron
+ایبولا ناروغۍ	Ebola virus disease
+ژونځمکپوهنه	Biogeography
+غونډ	Regiment
+سور كانگرو	Red kangaroo
+هارپي	Harpy eagle
+ابسيډين	Obsidian
+وېشنيزه:حکومت	Category:Government
+د کيلو کلاس اوبتل	Kilo-class submarine
+سپايس گرلز	Spice Girls
+مېزپاسی سولگر	Desktop computer
+پاراستامول	Paracetamol
+عبدالله بن عبدالعزیز آل سعود	Abdullah of Saudi Arabia
+سيد على خامنه‌اى	Ali Khamenei
+امام علي رحمانوف	Emomalii Rahmon
+اودو فوګت	Udo Voigt
+اسلام کريموف	Islam Karimov
+راجا پروېز اشرف	Raja Pervaiz Ashraf
+گيودو ويسترويلي	Guido Westerwelle
+پښتو ژبه	Pashto language
+عرب سمندرگی	Arabian Sea
+گرمټ	Drill
+دیو جانس کلبی	Diogenes of Sinope
+کورنت توغندی	9M133 Kornet
+هېرويين	Heroin
+کوفین	Caffeine
+اندروجن	Androgen
+سيمټيکس	Semtex
+راوړنې	Import
+ببرک کارمل	Babrak Karmal
+حفيظ الله امين	Hafizullah Amin
+يوسف عبدالله القرضاوي	Yusuf al-Qaradawi
+تريخی	Gallbladder
+انتوني هوپکينز	Anthony Hopkins
+مرکزي بانک	Central bank
+جيپور	Jaipur
+سيبري پړانگ	Siberian tiger
+القلويد	Alkaloid
+آدم	Adam
+ترور	Aunt
+یوسيف ۲	Joseph II, Holy Roman Emperor
+تره	Uncle
+ويلهلم لودويگ گايگر	Wilhelm Geiger
+کریستوف والڅ	Christoph Waltz
+ډورن بورېس اندرېويچ	Johannes Albrecht Bernhard Dorn
+رنگين دادفر سپنتا	Rangin Dadfar Spanta
+عبدالاحد مومند	Abdul Ahad Mohmand
+ښاري انجنيري	Civil engineering
+وړانگپوهنه	Radiology
+اليگارشي	Oligarchy
+زړه گراف	Electrocardiography
+د افغانستان رپی	Flag of Afghanistan
+ايسيس	Isis
+ځوانکې	Acne vulgaris
+اېترنټ	Ethernet
+چکوتره	Pomelo
+بشري پوهنې	Humanities
+ټپوس	Black kite
+نهنگی شارک	Whale shark
+بېنډۍ	Okra
+د سلطان احمد جومات	Sultan Ahmed Mosque
+اټومي بټۍ	Nuclear reactor
+مايکروسافټ اوټلوک	Microsoft Outlook
+بنگالي پړانگ	Bengal tiger
+مالداري	Animal husbandry
+معمولي کپر (کب)	Common carp
+اولوموڅ	Olomouc
+مورفين	Morphine
+د صرافی ماشین	Automated teller machine
+نخود	Chickpea
+نوح	Noah
+والټ وايټمېن	Walt Whitman
+غاښۍ	Fork
+چوپسټېک	Chopsticks
+د خوړو او کرهڼې سازمان	Food and Agriculture Organization
+براشوف	Brașov
+زنه	Chin
+قطبي گيدړ	Arctic fox
+سياستوال	Politician
+شپږڅنډی	Hexagon
+د افغانستان جگړه (۱۹۷۹-۱۹۸۹)	Soviet war in Afghanistan
+ختيځ هند کمپنۍ	East India Company
+الكساندر نيكولاېويچ رومانوف	Alexander II of Russia
+اسکلېپيوس	Asclepius
+ژان اېف کوستو	Jacques Cousteau
+وزير (حکومت)	Minister (government)
+گرو نانک	Guru Nanak
+کانپوهنه	Mineralogy
+شېنگن تړون	Schengen Agreement
+سابه خوړونکي	Vegetarianism
+امپيدوکلېس	Empedocles
+اوېستا	Avesta
+ستر جنرال	General officer
+خټک	Khattak
+شاه جهان	Shah Jahan
+شېر شاه سوري	Sher Shah Suri
+خوشحال خان خټک	Khushal Khattak
+د الله نومونه	Names of God in Islam
+د ساسانيانو واکمني	Sasanian Empire
+هوروس	Horus
+د افغانستان د کرېکټ ملي لوبډله	Afghanistan national cricket team
+پولنډبال	Polandball
+راټکو مېلادېچ	Ratko Mladić
+انځورگري	Drawing
+پرېژه	Divorce
+باليووډ	Bollywood
+اېف – ۱۶	General Dynamics F-16 Fighting Falcon
+عبدالله کلا ولسوالۍ	Killa Abdullah District
+کلوژ-ناپوکا	Cluj-Napoca
+مرزا حسين علي بهاالله	Bahá'u'lláh
+نېغ انسان	Homo erectus
+ماهر انسان	Homo habilis
+هاډرون	Hadron
+سوسن	Lily of the valley
+اينو	Ainu people
+تسپود	Inflammation
+بايوم	Biome
+لروين	Binoculars
+گبين مچۍ	Honey bee
+آوسټرالوپیتهېکوس	Australopithecus
+نړېواله جگړه	World war
+روي شنکر	Ravi Shankar
+چندرۍ	Humulus lupulus
+کرښی	Ruler
+قضايي قوه	Judiciary
+ماگنوس کارلسن	Magnus Carlsen
+مرزا اسد الله خان غالب	Ghalib
+جگجيت سېنگ	Jagjit Singh
+خاښۍ	Pitchfork
+ايالت	Federated state
+کندوز	Kunduz
+د افغانستان د ښارونو لړليک	List of cities in Afghanistan
+انجه	Asafoetida
+مارشال	Marshal
+انټيکولينرجيک	Anticholinergic
+مالي کړکېچ	Financial crisis
+هزاره گان	Hazara people
+کريم خليلي	Karim Khalili
+سليكان ډای اکسايډ	Silicon dioxide
+کورکورکه	Spotted dove
+د وېلسن ناروغي	Wilson's disease
+ابن قيم الجوزي	Ibn Qayyim Al-Jawziyya
+د پاني پت جگړه	Battle of Panipat
+الكساندر الكساندروويچ رومانوف	Alexander III of Russia
+بلخ ولايت	Balkh Province
+مشهد	Mashhad
+رنځورپالنه	Nursing
+پاکپتن ولسوالۍ	Pakpattan District
+ټولنیزه ولسواکي	Social democracy
+د ستنې طب	Acupuncture
+سفارت	Ambassador
+کجير	Vulture
+عقيق	Agate
+اپلاتون او دولت	The Republic (Plato)
+ارستوکراسي	Aristocracy
+پوځي څارگره اداره (د چېک جمهوريت)	Military Intelligence (Czech Republic)
+زکات	Zakat
+ميرمشاه	Miramshah
+گيورگې ژوکوف	Georgy Zhukov
+د اوبو چينه	Spring (hydrology)
+بڼ پالنه	Gardening
+وېليم جېمز	William James
+غوڅندۍ	Saw
+سورلنډی	Jackal
+د موسم بدلون	Climate change
+واټن	Distance
+د افغاني تلويزونونو لړليک	Television in Afghanistan
+کوباني	Kobanî
+پراگماتيزم	Pragmatism
+وړکتون	Kindergarten
+ابن ميمون	Maimonides
+شين یاقوت	Sapphire
+پينځڅنډی	Pentagon
+ټوټالېټر	Totalitarianism
+کوچيان	Nomad
+درملپوهنه	Pharmacology
+د زیات شوي ارزښت ورکړېنه	Value-added tax
+خټنه	Viscosity
+لوي سپين شارک	Great white shark
+د جمشید پلاز	Persepolis
+انتراکس	Anthrax
+خشايارشا	Xerxes I
+مزار شريف	Mazar-i-Sharif
+مېگ ۲۹	Mikoyan MiG-29
+د ذرو تعجيل کوونکي ماشين	Particle accelerator
+ډیمېټروډون	Dimetrodon
+سپاینوسور	Spinosaurus
+بېیپیاوساوروس	Beipiaosaurus
+خلافت	Caliphate
+معمولي آلوبالو	Prunus cerasus
+زغوپرواژی	Pesticide
+ډومنيک ډي وېلپين	Dominique de Villepin
+د قم ولايت	Qom Province
+گڼرسنۍ	Multimedia
+کوروند	Corundum
+سریښ	Adhesive
+والي	Governor
+توکمکښنه	Ethnography
+کرما په هندويزم کې	Karma
+آيورويدا	Ayurveda
+د جال تړونونه	Communications protocol
+جوليوس روبرټ اوپنهايمر	J. Robert Oppenheimer
+باختر	Bactria
+هېروگليف	Egyptian hieroglyphs
+ولاديمير ولاديميروويچ ماياکوفسکي	Vladimir Mayakovsky
+د هند پېښليک	History of India
+مستعمره	Colony
+ملخوزه	Fenugreek
+اخوان المسلمون	Muslim Brotherhood
+الياس	Elijah
+طاعون	Plague (disease)
+د سېټريک اسيد څرخ	Citric acid cycle
+دهرما	Dharma
+ټاسماني شيطان	Tasmanian devil
+توپاز	Topaz
+۹×۱۹ مرمی	9×19mm Parabellum
+براخاوخېنیوس	Brachauchenius
+آندروختونوس اوسترالیس	Androctonus australis
+قادريه	Qadiriyya
+د ايران ولسوالۍ	Counties of Iran
+سردار محمد هاشم خان	Mohammad Hashim Khan
+ابد	Eternity
+عبدالعلي مزاري	Abdul Ali Mazari
+میرمېسیا پیلوسولا	Jack jumper ant
+زابل ولايت	Zabul Province
+زکريا	Zechariah (priest)
+مسراشمیت مې-۲۶۲	Messerschmitt Me 262
+ظاهر هويدا	Zahir Howaida
+ازاد شعر	Free verse
+شگموښی	Sandpaper
+ايليوشين-۷۶	Ilyushin Il-76
+فرایشتات	Freistadt
+زينب بنت خزيمه	Zaynab bint Khuzayma
+زينب بنت جحش	Zaynab bint Jahsh
+هربرټ سپېنسر	Herbert Spencer
+زلمی رسول	Zalmai Rassoul
+زلمی خليلزاد	Zalmay Khalilzad
+شاه زمان خان	Zaman Shah Durrani
+سارک	South Asian Association for Regional Cooperation
+يوسف	Joseph (patriarch)
+د لويديځ سلاوي ژبې	West Slavic languages
+اروپايي صنوبر	Picea abies
+شين صنوبر	Blue spruce
+چمبل	Viola (plant)
+پولي ونيل کلورايډ	Polyvinyl chloride
+نانگه	Redcurrant
+قبطيان	Copts
+نارنج	Bitter orange
+اناناس	Ananas
+کاجول	Kajol
+ايگلا	9K38 Igla
+ځنگلي مېږی	Formica rufa
+مېگ ۳۱	Mikoyan MiG-31
+پښيميسل اوتاکار ۲	Ottokar II of Bohemia
+رودلف ۲ هابسبورگ	Rudolf II, Holy Roman Emperor
+ميانې	Dhu al-Qi'dah
+عبد العزيز بن عبدالرحمن بن فيصل آل سعود	Ibn Saud
+دېوالي	Bankruptcy
+بوغمه	Edema
+محمد ظاهر شاه	Mohammed Zahir Shah
+ډگر جنرال	Lieutenant general
+بريد جنرال	Brigadier general
+سيف الله کلا ولسوالۍ	Killa Saifullah District
+البرخت فون والدشتاین	Albrecht von Wallenstein
+امير امان الله خان	Amanullah Khan
+محمود طرزي	Mahmud Tarzi
+سکندر مرزا	Iskander Mirza
+عمران خان	Imran Khan
+یان لوگزامبورگ	John of Bohemia
+روهتاس	Rohtas Fort
+جيارډيا لامبليا	Giardia lamblia
+ميل می ۸	Mil Mi-8
+مېسرشمېت بي اف ۱۰۹	Messerschmitt Bf 109
+مسراشمیت بي اف ۱۱۰	Messerschmitt Bf 110
+یوزي	Uzi
+ريچارډ هولبروک	Richard Holbrooke
+ميل می ۲۴	Mil Mi-24
+ايساف	International Security Assistance Force
+ټې-۷۲	T-72
+یونکرس یو ۸۸	Junkers Ju 88
+کارل ۴	Charles IV, Holy Roman Emperor
+مېگ ۲۳	Mikoyan-Gurevich MiG-23
+ارهنډه	Castor oil plant
+اېرو ال-۳۹ الباتروس	Aero L-39 Albatros
+نېښ لرونکي بوټي	Urtica dioica
+ټېنوفووير	Tenofovir
+د آلمان ملي دموکراتیک گوند	National Democratic Party of Germany
+رشقه	Alfalfa
+لتا منگېشکر	Lata Mangeshkar
+سره غوړیانه	Lilium martagon
+ادميرال پتنگ	Vanessa atalanta
+فيض آباد (بدخشان)	Fayzabad, Badakhshan
+ځريځه	Safflower
+د افغانستان اداري وېشنې	Subdivisions of Afghanistan
+محمد رفيع	Mohammed Rafi
+تورن جنرال	Major general
+گزک بوټي	Plantago lanceolata
+ال – ۴۱۰	Let L-410 Turbolet
+تبو	Tabu (actress)
+ډمپل کپاډيا	Dimple Kapadia
+غوماشی	Anopheles
+د افغانستان ولايتونه	Provinces of Afghanistan
+تاووس پتنگ	Aglais io
+جوهي چاولا	Juhi Chawla
+پريانکا چوپړا	Priyanka Chopra
+ويديا بالان	Vidya Balan
+لاکهيډ مارتين آر کيو ۱۷۰ سېنټينل	Lockheed Martin RQ-170 Sentinel
+ناصر الدين شاه قاجار	Naser al-Din Shah Qajar
+سپما گڼون	Savings account
+د اس وې ډې دراگونوف ټوپک	Dragunov sniper rifle
+یرژي پوديېبراد	George of Poděbrady
+وټه	Economy
+د ځمکې گړۍ	Earth Hour
+رام	Rama
+محمد علی جناح	Muhammad Ali Jinnah
+وچکۍ تبه (محرقه)	Typhus
+اتره	Torso
+توت خوره	Finch
+شاتوت	Morus nigra
+سنځله	Elaeagnus
+ښاريتوب	Urbanization
+غونجېدنه (وټپوهنه)	Deflation
+خپلپالنه	Nepotism
+باور کارټ	Credit card
+پامير	Pamir Mountains
+وېلنی	Mentha longifolia
+سيسۍ	Lagopus
+سرطانپوهنه	Oncology
+گلايکوليسېز	Glycolysis
+شکودا فابيا	Škoda Fabia
+گایوس واليریوس کاتولوس	Catullus
+بلوچستان (پاکستان)	Balochistan, Pakistan
+غالۍ	Carpet
+موزيکپوهنه	Musicology
+ليندۍ	Capricorn (astrology)
+ابسه	Abscess
+گانډۍ	Beehive
+کدو	Pumpkin
+د کرمان ولايت	Kerman Province
+بدخشان ولايت	Badakhshan Province
+لیکاڼۍ	Pen
+اتڅنډی	Octagon
+مچ	Housefly
+داريفېناسين	Darifenacin
+وړانديز (وټپوهنه)	Supply and demand
+پارلماني حکومت	Parliamentary system
+برغټ	Pallas's cat
+چمپا	Magnolia champaca
+عبدالقدير	Abdul Qadir (Afghan leader)
+محمد محقق	Mohammad Mohaqiq
+نگوس	Stereotype
+تېمور شاه دراني	Timur Shah Durrani
+نورستان ولايت	Nuristan Province
+محمد قسيم فهيم	Mohammed Fahim
+ډولومیت	Dolomite
+جابر بن حیان	Jābir ibn Hayyān
+بورقه	Burqa
+کرايووا	Craiova
+کورکوری	European turtle dove
+روحانيت	Spirituality
+انافلاکسي	Anaphylaxis
+د اسلام انبیاء	Prophets in Islam
+لاسپېله	Glove
+محمد زکريا رازي	Muhammad ibn Zakariya al-Razi
+مېترونيدازول	Metronidazole
+گرافېن	Graphene
+رنځېږن	Pathogen
+ليکپاکټ	Envelope
+کانفدراسيون	Confederation
+ټي اېن ټي	Trinitrotoluene
+چېکيان	Czechs
+بغلان ولايت	Baghlan Province
+ابټ آباد	Abbottabad
+يزد ولايت	Yazd Province
+قم	Qom
+توماس اېډورډ لارېنس	T. E. Lawrence
+بيولوژيکي وسلې	Biological warfare
+ټېغکه	Shrike
+عباس ۱	Abbas I of Persia
+باميان ولايت	Bamyan Province
+ای اچ ۶۴ آباچی	Boeing AH-64 Apache
+لمرگلی	Helianthus annuus
+د سهېلي خراسان ولايت	South Khorasan Province
+پېښه	Accident
+کرمان	Kerman
+احمديت	Ahmadiyya
+د اگرې کلا	Agra Fort
+د مذهب خپلواكي	Freedom of religion
+تيتر	Guineafowl
+ځانگړواله	Individualism
+بادغيس ولايت	Badghis Province
+قبة الصخرة جومات	Dome of the Rock
+اشرف غني احمدزی	Ashraf Ghani Ahmadzai
+رېبز	Broom
+ټوپولف ټو-۱۵۴	Tupolev Tu-154
+نړیواله پېغله	Miss World
+آټوکراسي	Autocracy
+خواړه ساتنه	Food preservation
+مارگريت ميتچېل	Margaret Mitchell
+آرگېنين	Arginine
+سوخوی سو ٢٧	Sukhoi Su-27
+ام۱ آبرامس	M1 Abrams
+غزني	Ghazni
+وختتېری	Entertainment
+کندهار ولايت	Kandahar Province
+کاپيسا ولايت	Kapisa Province
+هلمند ولايت	Helmand Province
+فارياب ولايت	Faryab Province
+محراب	Mihrab
+د الازهر پوهنتون	Al-Azhar University
+بوتل پزی څوڅ	Common bottlenose dolphin
+اوسېلوسکوپ	Oscilloscope
+توحيد	Tawhid
+بي-٥٢ سټراټوفورټرېس	Boeing B-52 Stratofortress
+کوډيين	Codeine
+قبله	Qibla
+فتح علي شاه قاجار	Fath-Ali Shah Qajar
+بېديانۍ پيشو	Sand cat
+تانبه:تاریخ	Portal:History
+واتسلاف ۱	Wenceslaus I of Bohemia
+اتڼ	Attan
+د اسلام پنځه بنسټونه	Five Pillars of Islam
+زوی	Son
+سکاره	Charcoal
+شنقار	Gyrfalcon
+د ژونکې تيوري	Cell theory
+فولېرېن	Fullerene
+نېکروسېز	Necrosis
+د واشنگټن څلی	Washington Monument
+آنتونوف-۲۲۵	Antonov An-225 Mriya
+وييپوهنه	Lexicology
+ننگرهار ولايت	Nangarhar Province
+درونکښ	Crane (machine)
+روژه	Sawm
+کاني اوبه	Mineral water
+نولۍ	Ferret
+لگښت ساتنې تگلاره	Protectionism
+آنتیستنس	Antisthenes
+مرکزي حکومت	Unitary state
+د پاکستان په شمال لویدیځ کې جگړه	War in North-West Pakistan
+اسماني کتابونه او صحيفې	Religious text
+ژبساپوهنه	Psycholinguistics
+اوبزمکپوهنه	Hydrogeology
+د مزلو د اړتیاوو د مرتبو سلسله	Maslow's hierarchy of needs
+د بازار وټه	Market economy
+اپیکوریزم	Epicureanism
+اورمازده	Ahura Mazda
+درملنه	Therapy
+اريايان	Aryan
+يعقوب کندي	Al-Kindi
+گورجېس	Gorgias
+سياسي فلسفه	Political philosophy
+جوهر دوداییف	Dzhokhar Dudayev
+ايوب	Job (biblical figure)
+د افغانستان ولسي لاره	Afghan National Anthem
+ستورمزلي	Space exploration
+اېکونومېسټ	The Economist
+تورگوت اوزال	Turgut Özal
+نورتورپ گرومان بي ۲ سپېريټ	Northrop Grumman B-2 Spirit
+لمريز لېږديز کليز	Iranian calendars
+فراه ولايت	Farah Province
+غزني ولايت	Ghazni Province
+راشدين خليفه گان	Rashidun
+وړانگدرملنه	Radiation therapy
+کوټه	Room
+شاپ	Suppository
+پوهنځی	Faculty (division)
+نکوټي يانا ټیبېکم	Nicotiana tabacum
+بلوچستان	Balochistan
+سيد حسن نصرالله	Hassan Nasrallah
+دايکندي ولايت	Daykundi Province
+پنجشېر ولايت	Panjshir Province
+زړه نابری	Heart failure
+ټوپولف ټو-۹۵	Tupolev Tu-95
+د جانسي راني	Rani Lakshmibai
+بلخ	Balkh
+امونيم نايټرېټ	Ammonium nitrate
+آسيايي زمري	Asiatic lion
+کامبوجيه ۲	Cambyses II
+سرپل ولايت	Sar-e Pol Province
+پکتيا ولايت	Paktia Province
+خوارزم	Khwarezm
+بهرونه	Export
+ايټا جېمز	Etta James
+كنسرټ	Concert
+هرات ولايت	Herat Province
+سمنگان ولايت	Samangan Province
+نيمروز ولايت	Nimruz Province
+روزگان ولايت	Urozgan Province
+جوزجان ولايت	Jozjan Province
+ميدان وردگ ولايت	Maidan Wardak Province
+کورکوړۍ	Bee-eater
+شننيزه فلسفه	Analytic philosophy
+سېموېل کولټ	Samuel Colt
+جلالکوټ	Jalalabad
+خيبر پښتونخوا	Khyber Pakhtunkhwa
+سينوسايټس	Sinusitis
+موکشا	Moksha
+اسماعيل	Ishmael
+نسخوږی	Abdominal pain
+زينت امان	Zeenat Aman
+لسڅنډی	Decagon
+چينايي فلسفه	Chinese philosophy
+بوينگ بي ۲۹	Boeing B-29 Superfortress
+کرينه کپور	Kareena Kapoor Khan
+بوينگ بي ۱۷ فلاينگ فورټرېس	Boeing B-17 Flying Fortress
+اسيډوسېز	Acidosis
+واسلين	Vaseline
+اوبي ژرنده	Watermill
+فلېپيني عقاب	Philippine eagle
+لغمان ولايت	Laghman Province
+پيېرې لويېس ناپولېيون کيوانارې	Pierre Louis Napoleon Cavagnari
+مولتان	Multan
+کوټه (ښار)	Quetta
+پکتيکا ولايت	Paktika Province
+خوست ولايت	Khost Province
+کيفيت	Quality (business)
+جلال الدين حقاني	Jalaluddin Haqqani
+د لوی اختر مياشت	Dhu al-Hijjah
+بريدمن	Leutnant
+علي اکبر هاشمي رفسنجاني	Akbar Hashemi Rafsanjani
+ايمن الظواهري	Ayman al-Zawahiri
+غور ولايت	Ghor Province
+تخار ولايت	Takhar Province
+کندوز ولايت	Kunduz Province
+د پاکستان د خلکو گوند	Pakistan Peoples Party
+د اتریش د خلک ګوند	Austrian People's Party
+ايبوپروفېن	Ibuprofen
+کارسک گيدړ	Corsac fox
+ابهيشېک بچچن	Abhishek Bachchan
+سالنډي	Dyspnea
+کونړ ولايت	Kunar Province
+پروان ولايت	Parwan Province
+آيت	Ayah
+موسی خان احمدزی	Musa Khan Ahmadzai
+قول اردو	Corps
+ايمفيسېما	Emphysema
+احمد ياسين	Ahmed Yassin
+برهان الدين رباني	Burhanuddin Rabbani
+پريټي زېنتا	Preity Zinta
+صحابه	Sahabah
+سمایلوډون	Smilodon
+مېرمن	Wife
+اوڅنډی	Heptagon
+د افغانستان پېښليک	History of Afghanistan
+کابل ولايت	Kabul Province
+ټېډ	TED (conference)
+آندری کاراطايف	Andrey Korotayev
+سلطان محمود غزنوي	Mahmud of Ghazni
+د زړه ارېتميا	Cardiac arrhythmia
+پینټریټ	Pentaerythritol tetranitrate
+اسلامي هنر	Islamic art
+اسلامپالنه	Islamism
+پوښتنه	Question
+هیکسوجن	RDX
+ميناتو	Minato, Tokyo
+وزيرستان	Waziristan
+اوښلن لوگی	Tear gas
+کوستا کونکورديا	Costa Concordia
+ابو حنيفه (امام اعظم)	Abū Ḥanīfa
+مرکاوا شوبله	Merkava
+جوهر	Essence
+ټوپولف ټو-۱۶۰	Tupolev Tu-160
+شيطاني آيات	The Satanic Verses
+خيبر دره	Khyber Pass
+شاپور ۱	Shapur I
+سيلدينافيل	Sildenafil
+تکبیر	Takbir
+مالي کال	Fiscal year
+سوخوی سو-۲۵	Sukhoi Su-25
+پرولاکټين	Prolactin
+ټانگتوره	Datura
+تیسفون	Ctesiphon
+ډېلي ټيليگراف	The Daily Telegraph
+سټرېپټومايسين	Streptomycin
+هندي څمڅه منگور	Indian cobra
+ټې-۹۰	T-90
+نادر شاه افشار	Nader Shah
+د بوټي هورمون	Plant hormone
+مقطعات	Muqatta'at
+ټېټراسايکلين	Tetracycline
+اسلامي فلسفه	Islamic philosophy
+سبسيډي	Subsidy
+د پراگ کلا	Prague Castle
+آنتونوف-۱۲۴	Antonov An-124 Ruslan
+هود	Hud (prophet)
+خړانکه	Pipit
+ملا محمد عمر	Mohammed Omar
+فريد الدين عطار	Attar of Nishapur
+د خدای پاک مياشت	Rajab
+کړنی سېک	Action potential
+امام احمد بن حنبل	Ahmad ibn Hanbal
+سوخوی پک فا	Sukhoi PAK FA
+احمد ظاهر	Ahmad Zahir
+علي احمد جلالي	Ali Ahmad Jalali
+کابل بانک	New Kabul Bank
+ابو الکلام آزاد	Abul Kalam Azad
+شاهرخ افشار	Shahrukh Afshar
+ام کيو-۱ پرېډاټور	General Atomics MQ-1 Predator
+زېباک ولسوالۍ	Zebak District
+کوږوږ	Zigzag
+زيډووډين	Zidovudine
+محمد يونس خالص	Mohammad Yunus Khalis
+بديع الزمان سعيد نورسي	Said Nursî
+گلروزنه	Floriculture
+افغانۍ	Afghan afghani
+مېگ ۲۵	Mikoyan-Gurevich MiG-25
+د سږو اوندنه خنډيزه ناروغي	Chronic obstructive pulmonary disease
+احمد شاه مسعود	Ahmad Shah Massoud
+داسو میراژ- ۲۰۰۰	Dassault Mirage 2000
+نهڅنډی	Nonagon
+آزاد کشمير	Azad Kashmir
+اوبسپی	Otter
+چينايي دوديزه درملگري	Traditional Chinese medicine
+گېلگېت بالتستان	Gilgit–Baltistan
+افغان ټيليکام	Afghan Telecom
+بلوڅان	Baloch people
+ټراک	Garden warbler
+کېټ وېنسلېټ	Kate Winslet
+نيوموتوراکس	Pneumothorax
+اورو لانکاسټر	Avro Lancaster
+رمضان بشردوست	Ramazan Bashardost
+لرغونې فلسفه	Ancient philosophy
+زين العابدين بن علي	Zine El Abidine Ben Ali
+غرزي	Ghilji
+يوني ماشين	Ion thruster
+نېټه	Calendar date
+ایزو ۹۰۰۰	ISO 9000
+اليسع	Elisha
+معمولي څوڅ	Short-beaked common dolphin
+ترچ مير	Tirich Mir
+مطبوعاتي اعلاميه	Press release
+محمد نجيب الله	Mohammad Najibullah
+قونسلگري	Consul (representative)
+غوز	Walnut
+زنځيري غوڅندۍ	Chainsaw
+فدرالي قبايلي سيمې	Federally Administered Tribal Areas
+گونگه ښارو	Waxwing
+د مذهب فلسفه	Philosophy of religion
+ډايازيپم	Diazepam
+سوخوی سو-۲۴	Sukhoi Su-24
+کورټيکوسټېرويډ	Corticosteroid
+غوږور ښاپېرک	Brown long-eared bat
+چندړ	Santalum album
+سيد قطب	Sayyid Qutb
+بوکو حرام	Boko Haram
+السلام عليکم	As-salamu alaykum
+خسرو پرويز	Khosrau II
+اېنډوسکوپي	Endoscopy
+مېړه	Husband
+طبله	Tabla
+غونډل	Tarantula
+گندهارا	Gandhara
+کوډېکس	Codex
+يان ژيژکا	Jan Žižka
+يوم	Spade
+ستره لوبه	The Great Game
+لاجورد	Lapis lazuli
+مقتدی الصدر	Muqtada al-Sadr
+چت	Floor
+يزيد بن معاويه	Yazid I
+آلانين	Alanine
+احمد ضيا مسعود	Ahmad Zia Massoud
+ښکلي هنرونه	Fine art
+افدرين	Ephedrine
+ای اچ ۱ کبرا	Bell AH-1 Cobra
+سورة الفاتحة	Al-Fatiha
+سورة البقرة	Al-Baqara
+سورة آل عمران	Al Imran
+سورة النساء	An-Nisa
+سورة المائدة	Al-Ma'ida
+سورة الأنعام	Al-An'am
+سورة الأعراف	Al-A'raf
+سورة الأنفال	Al-Anfal
+سورة التوبة	At-Tawba
+سورة يونس	Yunus (sura)
+سورة هود	Hud (sura)
+سورة يوسف	Yusuf (sura)
+سورة الرعد	Ar-Ra'd
+سورة إبراهيم	Ibrahim (sura)
+سورة الحجر	Al-Hijr
+جنگسالار	Warlord
+سورة النحل	An-Nahl
+د سږو امبولي	Pulmonary embolism
+ښي لاسی او کيڼ لاسی ترافيک	Right- and left-hand traffic
+سورة الاسراء	Al-Isra
+سورة الكهف	Al-Kahf
+سورة مريم	Maryam (sura)
+سورة طه	Ta-Ha
+سورة الأنبياء	Al-Anbiya
+سورة الحج	Al-Hajj
+سورة المؤمنون	Al-Mu'minoon
+سورة النور	An-Nur
+برات	Sha'aban
+سورة الفرقان	Al-Furqan
+سورة الشعراء	Ash-Shu'ara
+سورة النمل	An-Naml
+سورة القصص	Al-Qasas
+سورة العنکبوت	Al-Ankabut
+سورة الروم	Ar-Rum
+De Havilland Mosquito	De Havilland Mosquito
+کجکي ولسوالۍ	Kajaki District
+کيشپ	Turtle
+شکودا اوکټاويا	Škoda Octavia
+سټېنگر FIM-92	FIM-92 Stinger
+سورة لقمان	Luqman (sura)
+دماغي مړينه	Brain death
+مخ (چاپي رسنۍ)	Page
+د وټيزو همکاريو سازمان	Economic Cooperation Organization
+هېوادپال	Patriot
+شوننېزم	Chauvinism
+امريکا غږ	Voice of America
+درې بعدي چاپگر	3D printing
+سورة السجدة	As-Sajda
+سورة الاحزاب	Al-Ahzab
+سورة سبأ	Saba (sura)
+سورة فاطر	Fatir
+سورة يس	Ya Sin
+مامولکه	Wagtail
+سورة الصافات	As-Saaffat
+سورة ص	Sad (sura)
+سورة الزمر	Az-Zumar
+سورة غافر	Ghafir
+حسن البنا	Hassan al-Banna
+سورة فصلت	Fussilat
+سورة الشورى	Ash-Shura
+سورة الزخرف	Az-Zukhruf
+سورة الدخان	Ad-Dukhan
+سورة الجاثية	Al-Jathiya
+سورة الأحقاف	Al-Ahqaf
+سورة محمد	Muhammad (sura)
+سورة الفتح	Al-Fath
+سورة الحجرات	Al-Hujurat
+سورة ق	Qaf (sura)
+سورة الذاريات	Adh-Dhariyat
+ډېل کارنېگي	Dale Carnegie
+سورة الطور	At-Tur
+سورة النجم	An-Najm
+روح الله نېکپا	Rohullah Nikpai
+سورة القمر	Al-Qamar
+سورة الرحمن	Ar-Rahman
+سورة الواقعة	Al-Waqi'a
+گڼون	Account
+سورة الحديد	Al-Hadid
+سورة المجادلة	Al-Mujadila
+سورة الحشر	Al-Hashr
+سورة الممتحنة	Al-Mumtahina
+سورة الجمعة	Al-Jumua
+سورة المنافقون	Al-Munafiqun
+سورة التغابن	At-Taghabun
+سورة الطلاق	At-Talaq
+سورة الملک	Al-Mulk
+سورة القلم	Al-Qalam
+سورة الحاقة	Al-Haaqqa
+سورة المعارج	Al-Maarij
+مېتی	Pickaxe
+مادهوري ډکشټ	Madhuri Dixit
+سورة نوح	Nuh (sura)
+سورة الجن	Al-Jinn
+سورة المزمل	Al-Muzzammil
+جامنو	Syzygium cumini
+سورة المدثر	Al-Muddathir
+سورة القيامة	Al-Qiyama
+سورة الإنسان	Al-Insan
+سورة المرسلات	Al-Mursalat
+سورة النبأ	An-Naba
+سورة النازعات	An-Naziat
+سورة عبس	Abasa
+سورة التكوير	At-Takwir
+سورة الانفطار	Al-Infitar
+سورة المطففين	Al-Mutaffifin
+سورة الانشقاق	Al-Inshiqaq
+سورة البروج	Al-Burooj
+سورة الطارق	At-Tariq
+سورة الأعلى	Al-Ala
+سورة الغاشية	Al-Ghashiyah
+سورة الفجر	Al-Fajr (sura)
+سورة البلد	Al-Balad
+سورة الشمس	Ash-Shams
+سورة الليل	Al-Lail
+سورة الضحى	Ad-Dhuha
+سورة الشرح	Al-Inshirah
+د ماغزو تومور	Brain tumor
+سورة التين	At-Tin
+د پاني پت دوهمه جگړه	Second Battle of Panipat
+د افغان-انگرېز دويمه جگړه	Second Anglo-Afghan War
+سورة العلق	Al-Alaq
+سورة القدر	Al-Qadr (sura)
+سورة البينة	Al-Bayyina
+سورة الزلزلة	Az-Zalzala
+سورة العاديات	Al-Adiyat
+سار	Long-legged buzzard
+سورة القارعة	Al-Qaria
+سورة التکاثر	At-Takathur
+سورة العصر	Al-Asr
+سورة الهمزة	Al-Humaza
+اکشې کمار	Akshay Kumar
+سورة الفيل	Al-Fil
+سورة قريش	Quraysh (sura)
+سورة الماعون	Al-Ma'un
+سورة الکوثر	Al-Kawthar
+سورة الکافرون	Al-Kafirun
+سورة النصر	An-Nasr
+مکه معظمه	Makkah Region
+سورة المسد	Al-Masadd
+سورة الإخلاص	Al-Ikhlas
+سورة الفلق	Al-Falaq
+سپين توت	Morinda citrifolia
+سورة الناس	Al-Nas
+سورت	Surah
+د هند کمونیست گوند (مارکسیست)	Communist Party of India (Marxist)
+مکي سورتونه	Meccan surah
+مدني سورتونه	Medinan surah
+حديث	Hadith
+شاپور ۲	Shapur II
+حج	Hajj
+رسول	Apostle (Islam)
+سورة الصف	As-Saff
+سورة التحريم	At-Tahrim
+ټې-۸۰	T-80
+ان هيداوې	Anne Hathaway (Shakespeare's wife)
+لونيک	Lunaria annua
+امام بخاري	Muhammad al-Bukhari
+ميل مي - ۲۸	Mil Mi-28
+مخطت	Highlight
+ديکلوفيناک	Diclofenac
+سوخوی سو ۳۵	Sukhoi Su-35
+پيچکاري	Injection (medicine)
+جبل سراج ولسوالۍ	Jabal Saraj District
+سنگين ولسوالۍ	Sangin District
+د غزنويانو ټولواکمني	Ghaznavids
+څلوريزه	Ruba'i
+اواران ولسوالۍ	Awaran District
+بارخان ولسوالۍ	Barkhan District
+ابن طفيل	Ibn Tufail
+آسي ژرنده	Horse mill
+ملالۍ جويا	Malalai Joya
+فيفا	FIFA
+پښتو ادب	Pashto literature and poetry
+سوشميتا سېن	Sushmita Sen
+ليلا علي	Laila Ali
+هېنري مورټېمر ډيورنډ	Mortimer Durand
+عبدالبصير سالنگي	Abdul Basir Salangi
+رابعه بصري	Rabia Basri
+بېنزيل پېنيسيلين	Benzylpenicillin
+ريشي کپور	Rishi Kapoor
+۳۹×۷،۶۲ مرمی	7.62×39mm
+د گندمک تړون	Treaty of Gandamak
+ږدن	Millet
+پسابند ولسوالۍ	Pasaband District
+سيما ثمر	Sima Samar
+ماريه قبطيه	Maria al-Qibtiyya
+حفصه بنت عمر بن خطاب	Hafsa bint Umar
+اميشا پټېل	Ameesha Patel
+صفيه بنت حيي بن اخطب	Safiyya bint Huyayy
+حاد مايلوييد ليوکېمي	Acute myeloid leukemia
+حاد کرونري ساينډروم	Acute coronary syndrome
+د کارلشتین کلا	Karlštejn
+بلنځه	Haloxylon
+اروپايي اوښاره	European mantis
+امير محمد افضل خان	Mohammad Afzal Khan
+پلسيوسور	Plesiosauria
+کاموف کا ٥٠	Kamov Ka-50
+گڼ پوهيال	Polymath
+شري دېوي	Sridevi
+د سپاه پاسداران انقلاب اسلامی ځواک	Army of the Guardians of the Islamic Revolution
+آنتونوف-۱۲	Antonov An-12
+نوشاخ	Noshaq
+خبري غونډه	News conference
+ايليوشين-۹۶	Ilyushin Il-96
+خټگري	Masonry
+بسم الله الرحمن الرحيم	Basmala
+دويمه خور	Rabi' al-thani
+کلورامفينيکول	Chloramphenicol
+انټر سرويس انټېلېجنس (ISI)	Inter-Services Intelligence
+د چېک پوځ	Military of the Czech Republic
+کيچ ولسوالۍ	Kech District
+چاغي ولسوالۍ	Chaghi District
+اېسټروجن	Estrogen
+مینگاجیک ولسوالۍ	Mingajik District
+ټاټرا کا ټي – ۸	Tatra KT8D5
+HACCP	Hazard analysis and critical control points
+کوف آب ولسوالۍ	Kuf Ab District
+غزل	Ghazal
+سوابۍ ولسوالۍ	Swabi District
+شهاب الدين سهروردي	Shahab al-Din Yahya ibn Habash Suhrawardi
+مېگانېورا	Meganeura
+محمد اسماعيل خان	Ismail Khan
+دېره اسماعيل خان ولسوالۍ	Dera Ismail Khan District
+د پاکستان د انصاف غورځنگ	Pakistan Tehreek-e-Insaf
+عبدالله بن عمر البيضاوي	Baidawi
+اېرېسوس موراویکوس	Eresus moravicus
+شهنواز تڼی	Shahnawaz Tanai
+د ډيورنډ کرښه	Durand Line
+چنگو	Lapwing
+يعقوب	Jacob
+لارا دتا	Lara Dutta
+الجاحظ	Al-Jahiz
+امام شافعي	Al-Shafi‘i
+سيد جمال الدين افغاني	Jamal ad-Din al-Afghani
+خرېزانتېما توغندی	9M123 Khrizantema
+نصرت فتح علي خان	Nusrat Fateh Ali Khan
+نور محمد ترکی	Nur Muhammad Taraki
+عافيه صديقي	Aafia Siddiqui
+اباکاوير	Abacavir
+سادات	Sayyid
+د راديوايزوټوپونو ترموبريښنایی جنريټر	Radioisotope thermoelectric generator
+آلانين ټرانس امينېز	Alanine transaminase
+ايبټ اباد ولسوالۍ	Abbottabad District
+ختيځي مچۍ	Apis cerana
+ختيځه فلسفه	Eastern philosophy
+اروپایی زرغون څرموښکۍ	European green lizard
+عبدالقادر گيلاني	Abdul-Qadir Gilani
+عبدالله عزام	Abdullah Yusuf Azzam
+لور	Daughter
+عبدالکريم سروش	Abdolkarim Soroush
+ميمنه ولسوالۍ	Maymana
+الشباب	Al-Shabaab (militant group)
+سردار محمد داود خان	Mohammed Daoud Khan
+ماخۍ	Alhagi
+عبدالقدير خان	Abdul Qadeer Khan
+سلطان قطب الدين ايبک	Qutbu l-Din Aibak
+پلازموډيم وايوېکس	Plasmodium vivax
+بيټالکټمېز	Beta-lactamase
+د قدس ځواک	Quds Force
+پلازموډيم فالسيپارم	Plasmodium falciparum
+امام مالک بن انس	Malik ibn Anas
+نورالدين عبدالرحمن جامي هروي	Jami
+عمران خان (لوبگر)	Imran Khan (actor)
+رودکي	Rudaki
+خان عبدالغفار خان	Khan Abdul Ghaffar Khan
+غزی	Stilt
+عبدالجبار نعيمي	Abdul Jabbar Naeemi
+عبدالرحيم وردگ	Abdul Rahim Wardak
+عبدالرحمان مومند	Rahman Baba
+عبدالرشيد غازي	Abdul Rashid Ghazi
+عبدالصبور فريد کوهستاني	Abdul Sabur Farid Kohistani
+خان عبدالولي خان	Khan Abdul Wali Khan
+شريفي عبدالظاهر	Abdul Zahir (Afghan Prime Minister)
+عبدالله عبدالله	Abdullah Abdullah
+عبدالله يکتا	Abdullah Yaqta
+جرمېن جېکسن	Jermaine Jackson
+ابن حزم اندلسي	Ibn Hazm
+والېري ولاديميروويچ پولياکوف	Valeri Polyakov
+گلبدين حکمتيار	Gulbuddin Hekmatyar
+احمد شاه قاجار	Ahmad Shah Qajar
+عبدالرحمن السديس	Abdul Rahman Al-Sudais
+ژولرغونپوهنه	Zooarchaeology
+مېلبورن پوهنتون	University of Melbourne
+داسو میراژ اف‌۱	Dassault Mirage F1
+دېو انند	Dev Anand
+آر پي جي-۷	RPG-7
+آغا محمد خان قاجار	Mohammad Khan Qajar
+صالح	Saleh
+گڼونکی	Accountant
+د ۲ کا ۱۲ کوب راکټی سیستم	2K12 Kub
+کنکه لېږندويه انسېفلايټس	Tick-borne encephalitis
+د افغانستان جگړه (۲۰۰۱)	Operation Enduring Freedom
+اس-۲۰۰	S-200 (missile)
+قانوني لاسوندونه	Legal transaction
+ويي جوړښت	Word formation
+تايروکسين	Triiodothyronine
+ادريس	Idris (prophet)
+د سولې نړيواله ورځ	International Day of Peace
+ډاکتر کبير ستوری	Kabir Stori
+روماتولوجي	Rheumatology
+ناصر خسرو	Nasir Khusraw
+شپې ليد سترگۍ	Night vision device
+د بهرنيو اړيکو او څارگرۍ اداره	Office of Foreign Relations and Information
+پادشاهی جومات	Badshahi Mosque
+عبدالرشيد دوستم	Abdul Rashid Dostum
+ذوالکفل	Dhul-Kifl
+کريم خان زند	Karim Khan
+رنجيت سېنگ	Ranjit Singh
+فخر الدين رازي	Fakhr ad-Din ar-Razi
+اپورتونېزم	Opportunism
+شمي کپور	Shammi Kapoor
+امير حبيب الله خان	Habibullah Khan
+کمال الدين بهزاد	Kamāl ud-Dīn Behzād
+بيت الله محسود	Baitullah Mehsud
+ابوبکر	Abu Bakr
+ابو مسلم خراساني	Abu Muslim
+جيورج ايډېن	George Eden, 1st Earl of Auckland
+سلطان علاوالدين غلجی	Alauddin Khilji
+کاشي	Ceramic glaze
+تفسير	Tafsir
+گوگل	Mediastinum
+راجپوت	Rajput
+آیت الله سيستاني	Ali al-Sistani
+نصرت پارسا	Nasrat Parsa
+صليبي غڼه	Araneus diadematus
+ناوې	Bride
+چورليځ	Axis
+محمد علي شاه قاجار	Mohammad Ali Shah Qajar
+فرانسېس يسېدرو اېجورت	Francis Ysidro Edgeworth
+محمد نادر شاه	Mohammed Nadir Shah
+آنتونوف-۱۴۰	Antonov An-140
+سلمان ابن عبدالعزیز آل سعود	Salman of Saudi Arabia
+مردیان ولسوالۍ	Mardyan District
+پټه لرونکی ژگاگ	Striped skunk
+سليووويټز	Slivovitz
+ابو الاعلى مودودي	Abul A'la Maududi
+عروض	Arabic prosody
+اردشیر پاپاکان	Ardashir I
+هېماټويوريا	Hematuria
+د سوریانو ټولواکمني	Sur Empire
+جده	Jeddah
+د چين نړيواله راډيو	China Radio International
+الېکسانډر برنېس	Alexander Burnes
+هندي فلسفه	Indian philosophy
+دليپ کمار	Dilip Kumar
+سونيل دت	Sunil Dutt
+د ايران هوايي ځواک	Islamic Republic of Iran Air Force
+دهرمندر	Dharmendra
+ملا دادالله اخوند	Dadullah
+محمد صادق فطرت ناشناس	Nashenas
+شاه محمود خان	Shah Mahmud Khan
+جليل ځلاند	Jalil Zaland
+شېر زمان طايزي	Sher Zaman Taizi
+لوييس سلوتين	Louis Slotin
+شاهد اپریدی	Shahid Afridi
+صبغت الله مجددي	Sibghatullah Mojaddedi
+آر کیو - ۱۱ ړاوېن	AeroVironment RQ-11 Raven
+ال-۱۵۹ الکا	Aero L-159 Alca
+ابراهيم لودي	Ibrahim Lodi
+ولاديمير الېکساندروويچ کريوچکوف	Vladimir Kryuchkov
+لمن لگښت	Marginal cost
+افغان	Afghan (ethnonym)
+افغان بېسيم	Afghan Wireless
+افغان ملي پوځ	Afghan National Army
+د افغانستان د فوټبال فدراسيون	Afghanistan Football Federation
+کارلوی واری	Karlovy Vary
+اپريدي	Afridi
+خواجه عمري ولسوالۍ	Khwaja Umari District
+خاد	KHAD
+اهل بيت	Ahl al-Bayt
+خوست	Khost
+چخانسور ولسوالۍ	Chakhansur District
+آفتاب احمد خان شېرپاو	Aftab Ahmad Sherpao
+سوات ولسوالۍ	Swat District
+يحياخېل ولسوالۍ	Yahyakhel District
+د هخامنشیانو ټولواکمني	Achaemenid Empire
+لوکوموټيف ۳۸۰	ČD Class 380
+شکودا ټي – ۱۵	Škoda 15 T
+شکودا سوپرب	Škoda Superb
+شاه ولي الله	Shah Waliullah
+مهدي حسن	Mehdi Hassan
+معیاري ژبه	Standard language
+احمد شاه احمدزی	Ahmad Shah Ahmadzai
+احمد ولي	Ahmad Wali
+احمد ولي کرزی	Ahmed Wali Karzai
+سايکلوفوسفمايډ	Cyclophosphamide
+ایندومټاسین	Indometacin
+هېکزامېتيلين ټرايپرآکسيډايامين	Hexamethylene triperoxide diamine
+سورلان	Wolfhound
+سپېرکۍ	Ajwain
+ټي اېي ټي بي	TATB
+اېنالاپريل	Enalapril
+سپيرونولکټون	Spironolactone
+مېبېندازول	Mebendazole
+امپرېناوير	Amprenavir
+هېموسېدرين	Hemosiderin
+اوکټوجن	HMX
+اوميپرازول	Omeprazole
+بودېسونايد	Budesonide
+فېنواکسيمېتيل پېنيسيلين	Phenoxymethylpenicillin
+کلوکساسيلين	Cloxacillin
+ديجوکسين	Digoxin
+ډاپسون	Dapsone
+ډيلټيازيم	Diltiazem
+مېټوټرکسات	Methotrexate
+دوكسيسايكلين	Doxycycline
+جنټامايسين	Gentamicin
+لوپيناوير	Lopinavir
+امټريسيټابين	Emtricitabine
+ډيډانوسين	Didanosine
+ريټوناوير	Ritonavir
+لاميووډين	Lamivudine
+ساکويناوير	Saquinavir
+رانيتيدين	Ranitidine
+نېلفيناوير	Nelfinavir
+سټاووډين	Stavudine
+وانکومايسين	Vancomycin
+سالمېټېرول	Salmeterol
+یوریا نايټريټ	Urea nitrate
+الاقصی جومات	Al-Aqsa Mosque
+انډيناوير	Indinavir
+د افغانستان اسلامي امارت	Islamic Emirate of Afghanistan
+مسجد الحرام	Masjid al-Haram
+ده يک ولسوالۍ	Dih Yak District
+الخالد شوبله	Al-Khalid tank
+منبر	Minbar
+ولادېمير افاناسېويچ لياخوف	Vladimir Lyakhov
+اماسټيگوټ	Amastigote
+اسلامي بانکوالی	Islamic banking
+شاه شجاع	Shah Shujah Durrani
+سوخوی سو ٣٧	Sukhoi Su-37
+حبيبه سهرابي	Habiba Sarobi
+کرېشما کپور	Karisma Kapoor
+ملکه رضيه	Razia Sultana
+رېکها	Rekha
+شرميلا تاگور	Sharmila Tagore
+اناهيتا راتبزاد	Anahita Ratebzad
+حميرا بېگم	Humaira Begum
+ريحانه بنت زيد قرظي	Rayhana bint Zayd
+مينا کماري	Meena Kumari
+سارا مونيت	Sarah Monette
+وحيده رحمان	Waheeda Rehman
+شبانه اعظمي	Shabana Azmi
+حميده برمکي	Hamida Barmaki
+مينا کشور کمال	Meena Keshwar Kamal
+ديا مرزا	Dia Mirza
+آلماني چابکۍ	German cockroach
+لخدر ابراهيمي	Lakhdar Brahimi
+فرېدرېک بارټ	Fredrik Barth
+غياث الدين کيخسرو بن کيقباد	Kaykhusraw II
+رحيم شاه	Raheem Shah
+هنري کوربان	Henry Corbin
+مظفر الدين شاه قاجار	Mozaffar ad-Din Shah Qajar
+جهان آرا بېگم	Jahanara Begum
+د درانيانو ټولواکمني	Durrani Empire
+گردېز	Gardez
+ملټيپل ميولوما	Multiple myeloma
+بوينگ بي ۴۷ سټراټوجېټ	Boeing B-47 Stratojet
+اسکاريس لومبريکويډېس	Ascaris lumbricoides
+رابعه بلخي	Rabia Balkhi
+سونو نېگم	Sonu Nigam
+ابن زهر	Ibn Zuhr
+امير عنايت الله خان	Inayatullah Khan
+ويليم مونټگمري وات	William Montgomery Watt
+سعد محسني	Saad Mohseni
+حبيب الله کلکاني	Habibullāh Kalakāni
+لومړۍ خور	Rabi' al-awwal
+لښکرگاه	Lashkar Gah
+تالقان	Taloqan
+نادعلي ولسوالۍ	Nad Ali District
+امرالله صالح	Amrullah Saleh
+دوشکا (د الوتکو ويشتونکي ماشيندار)	DShK
+بيشاپور	Bishapur
+ابن مسكويه	Ebn Meskavayh
+شريعت	Sharia
+اوزبکان	Uzbeks
+ازمېښتون	Laboratory
+جيروسكوپ	Gyroscope
+تاجکيان	Tajik people
+سني اسلام	Sunni Islam
+آزربايجاني منات	Azerbaijani manat
+بې پيلوټه الوتکه	Unmanned aerial vehicle
+محمد اقبال	Muhammad Iqbal
+فقه	Fiqh
+چنگېز ايتمانوف	Chinghiz Aitmatov
+مۍ	Mung bean
+د باميانو بودايي پژۍ	Buddhas of Bamiyan
+تورکمنان	Turkmen people
+نړیوال سازمان	International organization
+د ژبې فلسفه	Philosophy of language
+شانگهای د همکاريو سازمان	Shanghai Cooperation Organisation
+کلبيان	Cynicism (philosophy)
+د آزادۍ راډيو	Radio Free Europe/Radio Liberty
+اورنگزیب عالمگیر	Aurangzeb
+راني موکېرجي	Rani Mukerji
+مسجد نبوي	Al-Masjid al-Nabawi
+اسلاموفوبيا	Islamophobia
+ازبکستاني سوم	Uzbekistani som
+صفره	Safar
+ابن تيميه	Ibn Taymiyyah
+د سجیل توغندی	Sejjil
+د نور توغندۍ	Noor (missile)
+افغان پاسپورټ	Afghan passport
+ماتريديه	Maturidi
+بولندوی	Lieutenant colonel
+د افغانستان ولسوالۍ	Districts of Afghanistan
+مېټامتريال	Metamaterial
+الوتکه (فلم)	Airplane!
+توبه	Repentance
+ختيځي کيکه	Oriental rat flea
+اسد الله خالد	Asadullah Khalid
+د شاه فیصل جومات	Faisal Mosque
+د اوبو ښاپېرک	Daubenton's bat
+نېفروټېک ساينډروم	Nephrotic syndrome
+ادريس شاه	Idries Shah
+انځور خبريالي	Photojournalism
+د افغانستان د لارښودانو لړليک	List of monarchs of Afghanistan
+ارغستان ولسوالۍ	Arghistan District
+کوهسان ولسوالۍ	Kohsan District
+هډه	Hadda, Afghanistan
+سنتره	Tangerine
+نخاعي شريان	Vertebral artery
+تومانچه مادل ۵۲	CZ 52
+هريپور (پاکستان)	Haripur, Pakistan
+د الماني ژبې گرامر	German grammar
+ISO 22000	ISO 22000
+صلی الله عليه وسلم	Peace be upon him (Islam)
+هنگامه	Hangama
+کليوفيس	Cleophis
+اشاعره	Ash'ari
+ټريپانوسوما	Trypanosoma
+عبدالرب رسول سياف	Abdul Rasul Sayyaf
+د ميوند جگړه	Battle of Maiwand
+ماشین گڼ ماډل ۵۹	Uk vz. 59
+پېښور ولسوالۍ	Peshawar District
+څاڅکي	Eye drop
+محمد اکرم خاکرېزوال	Mohammad Akram (general)
+توريالی وېسا	Toryalai Wesa
+خواجه عبدالله انصاري	Khwaja Abdullah Ansari
+محمد داود داود	Mohammed Daud Daud
+پريتويراج چوهان	Prithviraj Chauhan
+سمېع يوسف	Sami Yusuf
+محمد شاه قاجار	Mohammad Shah Qajar
+فيض احمد	Faiz Ahmad
+ميرويس هوتک	Mirwais Hotak
+مقبول فدا حسین	M. F. Husain
+محمد عالم خان	Mohammed Alim Khan
+شاه اشرف هوتک	Ashraf Hotak
+ډانگ لکۍ	Asian paradise flycatcher
+پروټينيوريا	Proteinuria
+بوللـه	Qasida
+پښتو ابېڅي	Pashto alphabet
+رضوي خراسان ولايت	Razavi Khorasan Province
+بفر سټېټ	Buffer state
+کونډه	Carabiner
+تومانچه مادل ٧٥	CZ 75
+سپين بولدک	Spin Boldak
+سکن ایگل	Boeing Insitu ScanEagle
+جعفر اباد ولسوالۍ	Jafarabad District
+څارنوال	Prosecutor
+ټرانس امينېشن	Transamination
+گلومېرولونېفرايټس	Glomerulonephritis
+د پاني پت لومړۍ جگړه	First Battle of Panipat
+بوکان	Bukan
+پوپلزي	Popalzai
+آنتونوف-۱۴۸	Antonov An-148
+کلات ولسوالۍ (بلوچستان)	Kalat District
+ابهيدا	Abhidharma
+امير ډنډ	Band-e Amir National Park
+امير محمد يعقوب خان	Mohammad Yaqub Khan
+پرتلیزه ژبپوهنه	Contrastive analysis
+ټوپولف ټو-۳۳۴	Tupolev Tu-334
+ډئيزم	Deism
+دگماتېزم	Dogma
+گلسر	Red-fronted serin
+اوبدرملنه	Hydrotherapy
+برېښنامېچ	Electricity meter
+ښځه په اسلام کې	Women in Islam
+ملي گټې	National interest
+د هوتکيانو ټولواکمني	Hotak dynasty
+جان گرين	John Green (author)
+عبدالحق	Abdul Haq (Afghan leader)
+د تودوخې د لېږد وړتیا	Heat transfer coefficient
+سامويل الېکسانډر کينير وېلسن	Samuel Alexander Kinnier Wilson
+اسلامي تاريخ	History of Islam
+سيد يوسف مېړنی	Sayed Yousuf Mirranay
+امام جومات	Imam Mosque Isfahan
+کتيتر	Catheter
+آريانا افغان هوايي شرکت	Ariana Afghan Airlines
+آريانا تلويزيون	Ariana TV
+د چېک د جمهوریت هوایي ځواک	Czech Air Force
+سوداگري (فلم)	Trade (film)
+معتزله	Mu`tazila
+شهاب ۳	Shahab-3
+اسحاق	Isaac
+بانکي گڼون	Bank account
+د کوچني اختر مياشت	Shawwal
+اسد آباد	Asadabad, Afghanistan
+ويکيپېډيا:ډ-ځ-پ/ښوونځي	Wikipedia:FAQ/Schools
+ټاټرا ۱۴۸	Tatra 148
+زو – ۲۳ – ۲	ZU-23-2
+د بون تړون	Bonn Agreement (Afghanistan)
+ټاټرا ۸۱۵	Tatra 815
+اېف ۱ لاسي بم	F1 grenade (Russia)
+ارسلا رحماني	Arsala Rahmani Daulat
+ټاټرا ۸۱۳	Tatra 813
+د اسيايي هېوادونو لړليک	List of sovereign states and dependent territories in Asia
+د افغانستان ملي لرغونتون	National Museum of Afghanistan
+اجاره	Lease
+د اشراق فلسفه	Illuminationism
+اسد الله سروري	Assadullah Sarwari
+عينک د تامبې کان	Mes Aynak
+خلخال ولسوالۍ	Khalkhal County
+درملپېژندنه	Pharmacodynamics
+ريگويدا	Rigveda
+کوهستان ولسوالۍ (پښتونخوا)	Kohistan District, Pakistan
+باز محمد احمدي	Baz Mohammad Ahmadi
+تارو	Partridge
+شاه محمود سدوزى	Mahmud Shah Durrani
+محمد حسن شرق	Mohammad Hasan Sharq
+سلېمان لايق	Sulaiman Layeq
+حسن الهضيبي	Hassan al-Hudaybi
+طيبه لښکر	Lashkar-e-Taiba
+سيد محمد حسين طباطبايي	Muhammad Husayn Tabataba'i
+نورستانيان	Nuristani people
+لاله سری	Red-necked falcon
+چنجری	Francolin
+خليل الله خليلي	Khalilullah Khalili
+استاد اولمير	Awalmir
+محمد حسين سراهنگ	Mohammad Hussain Sarahang
+فرهاد دريا	Farhad Darya
+نجراب ولسوالۍ	Nijrab District
+محمد نور احمد اعتمادي	Mohammad Nur Ahmad Etemadi
+د غشی زهر آبي چونگښه	Blue poison dart frog
+جي اېف ۱۷ تهنډر	CAC/PAC JF-17 Thunder
+حامد کرزی نړيوال هوايي ډگر	Hamid Karzai International Airport
+وزلوبه	Buzkashi
+آية الکرسي	Al-Baqara 255
+تپندۍ	Trowel
+معمولي وامبټ	Common wombat
+هېلېنيستي فلسفه	Hellenistic philosophy
+کورکورۍ	Pin-tailed sandgrouse
+هندو هېوادونه	Hinduism by country
+تور-ام۱	Tor missile system
+عطا محمد نور	Atta Muhammad Nur
+عتيق الله لودين	Atiqullah Ludin
+ملاله ميوندواله	Malalai of Maiwand
+جان محمد خان	Jan Mohammad Khan
+بوټځمکپوهنه	Phytogeography
+امام حسين جومات	Imam Husayn Shrine
+لېیوروس قوینقوېستریاتوس	Deathstalker
+د روژومبرک کلا	Rožmberk Castle
+د افغانستان ملي راډيو تلويزون	Radio Television Afghanistan
+ساييز غږونه	Respiratory sounds
+تجويد	Tajwid
+پنجوايي ولسوالۍ	Panjwayi District
+ملتون	Company
+اسلامي ساينس	Science in the medieval Islamic world
+باغران ولسوالۍ	Baghran District
+گرمسېر ولسوالۍ	Garmsir District
+ظهير الدين محمد بابر	Babur
+نورگل ولسوالۍ	Nurgal District
+بر کونړ ولسوالۍ	Bar Kunar District
+وټه پور ولسوالۍ	Watapur District
+چپه دره ولسوالۍ	Chapa Dara District
+نړنگ او باډل ولسوالۍ	Narang Aw Badil District
+بدر منير	Badar Munir
+ډيلوکسنايډ فورواېټ	Diloxanide furoate
+پاکستان مسلم لیگ ن	Pakistan Muslim League (N)
+بگرامي ولسوالۍ (پروان)	Bagram District
+ږيره ور خوگ	Bornean bearded pig
+برزخ	Barzakh
+درېيځ (مېچپوهنه)	Cube
+آتريال فېبرېلېشن	Atrial fibrillation
+هډپوهنه	Osteology
+نيوروبورېليوسېز	Neuroborreliosis
+څلورمه خور	Jumada al-Thani
+مسلکونه	Occupation
+ارواپالنه	Spiritualism
+چاپېريال ساتنه	Environmental protection
+ماشيندار مادل ٦١	Škorpion vz. 61
+جنت	Jannah
+فيزيکي کتنه	Physical examination
+يهودي فلسفه	Jewish philosophy
+اومان	Ephedra (plant)
+امام علي آرام ځاي	Imam Ali Mosque
+ټاټرا ټې – ۳	Tatra T3
+لوېديځه فلسفه	Western philosophy
+مندر	Hindu temple
+لويه جرگه	Loya jirga
+اسلامي زده کړې	Islamic studies
+رقم جوړؤنکي وسایل	Digitizing
+2G	2G
+آئیسو 639-3	ISO 639-3
+د زړه عضلاتي اعتلال	Cardiomyopathy
+نيوروفېبروماټوسېز	Neurofibromatosis
+درېيمه خور	Jumada al-awwal
+ټوپک مادل ٥٨	Vz. 58
+کومييز سرطان	Laryngeal cancer
+پېرودونکی	Customer
+تېزپر	Pratincole
+د استخباراتو امنيتي اداره	Security Information Service
+عيسوي فلسفه	Christian philosophy
+زوم	Bridegroom
+تورړۍ	Black wheatear
+د سږو بوغمه	Pulmonary edema
+آی خانم	Ai-Khanoum
+وییزېرمه	Glossary
+معاصره فلسفه	Modern philosophy
+د ناروغيو لړليک	Lists of diseases
+يوناني درمل	Herbalism
+د مهدي پوځ	Peace Brigades (Iraq)
+پاکستان مسلم لیگ ق	Pakistan Muslim League (Q)
+بسم الله خان محمدي	Bismillah Khan Mohammadi
+ليکتوکي	Stationery
+د اکولا اوبتل	Akula-class submarine
+د بازار جوړښت	Market structure
+چترال ولسوالۍ	Chitral District
+سمونتيا	Reform
+ډانا مادل ۷۷ لیري ویشتونکي توپ	152mm SpGH DANA
+دارالامان ماڼۍ	Darul Aman Palace
+گل آغا شېرزی	Gul Agha Sherzai
+توردلی	Saxicola
+د رېږدلې انجنيري	Earthquake engineering
+د انجيلونو لړليك	List of Gospels
+ماليکولي ننوونی	Molecular sieve
+مونټ سټوارټ الفنسټن	Mountstuart Elphinstone
+برېښنایي مرمري سکيټ کب	Marbled electric ray
+تور نس لرونکي ستن	Black-tailed skimmer
+نورزي	Nurzai
+هېماټوپويسز	Haematopoiesis
+ملنگيان	Salvia aegyptiaca
+هندو (ورځپاڼه)	The Hindu
+گجرات	Gujrat City
+سجده	Sujud
+ذاکر نايک	Zakir Naik
+اسلامي وييپانگه	Glossary of Islam
+ميدان ښار ولسوالۍ	Maidan Shar
+جهنگ ولسوالۍ	Jhang District
+د سيستان او بلوچستان ولايت	Sistan and Baluchestan Province
+اورشلیمی کنيسه	Jubilee Synagogue
+ټټر	Thorax (insect anatomy)
+سني ډيول	Sunny Deol
+د افغانستان اسلامي حزب	Hezbi Islami
+د علیت برهان	Cosmological argument
+درواز بالا ولسوالۍ	Darwazi Bala District
+ايراني هڅوب	Culture of Iran
+بژېونوف صومعه	Břevnov Monastery
+دولت آباد ولسوالۍ	Dawlatabad District
+سپين باز	White hawk
+ستراهوف صومعه	Strahov Monastery
+محمد اسلم وطنجار	Mohammad Aslam Watanjar
+افغانايټ	Afghanite
+هندو خدايان	Hindu deities
+سلطان علي کشتمند	Sultan Ali Keshtmand
+سردار محمد اکبر خان	Wazir Akbar Khan
+اېلډرېډ پاټېنجر	Eldred Pottinger
+سونيل شيټي	Sunil Shetty
+غازي محمد ايوب خان	Ghazi Ayub Khan
+سردار نصرالله خان	Nasrullah Khan (Afghanistan)
+سهېل خان	Sohail Khan
+ډانا ټايرون روهراباکر	Dana Rohrabacher
+د افغانستان د تاريخ پېښليک	Timeline of Afghan history
+اېکزېما	Eczema
+د افغان-انگرېز لومړۍ جگړه	First Anglo-Afghan War
+مردان	Mardan
+لرغونې يوناني فلسفه	Ancient Greek philosophy
+بودايي فلسفه	Buddhist philosophy
+يشناټکی	Boiling point
+د فارس ولايت	Fars Province
+غزاله جاوېد	Ghazala Javed
+د تاج ښیښه	Crown glass (window)
+د نړۍ برحاله هېوادمشران	List of current heads of state and government
+پارون	Parun
+مستونگ ولسوالۍ	Mastung District
+پاړاچنار	Parachinar
+انار دره ولسوالۍ	Anar Dara District
+هالي بېري	Halle Berry
+خنجان ولسوالۍ	Khinjan District
+غبرگه ښیښه	Insulated glazing
+1G	1G
+د روسيې دولتي کتابتون	Russian State Library
+ابو الفتح الشهرستاني	Al-Shahrastani
+اندخوی ولسوالۍ	Andkhoy
+د بوټي ژونکه	Plant cell
+فېروز خان	Feroz Khan
+د استخباراتو پرانيستى سرچينه	Open-source intelligence
+چک ولسوالۍ	Chaki Wardak District
+اږبکه	Purple martin
+چاردره ولسوالۍ	Char Dara District
+چارلېس مېسن	Charles Masson
+چوهان	Chauhan
+د بلخ پوهنتون	Balkh University
+اسيا پېسفيک	Asia-Pacific
+ووبرنځپوهنه	Histopathology
+يوڅنډی	Monogon
+د لوگر ولايت د بيارغونې ډله	Provincial Reconstruction Team
+چوره ولسوالۍ	Chora District
+گڼيال رسنۍ	Digital media
+لادا اوبتل	Lada-class submarine
+دولت خان لودي	Daulat Khan Lodi
+پېښور	Peshawar
+کرک ولسوالۍ	Karak District
+واشېر ولسوالۍ	Washir District
+آر پي جي – ۲۹	RPG-29
+څېړنيزه خبريالي	Investigative journalism
+جرمنۍ غومبسه	Vespula germanica
+مير اکبر خيبر	Mir Akbar Khyber
+زهوب	Exudate
+اوندن برونشيت	Chronic bronchitis
+حدود	Hudud
+د افغانستان ولسمشر	President of Afghanistan
+د افغانستان د علومو اکاډمي	Academy of Sciences of Afghanistan
+فرعوني مېږی	Pharaoh ant
+طلا تپه	Tillya Tepe
+د مخترعینو لړليک	List of inventors
+اداينه	Payment
+د افغانستان حکومت	Politics of Afghanistan
+د افغانستان بانک	Da Afghanistan Bank
+خروشتي	Kharosthi
+دهراود ولسوالۍ	Deh Rahwod District
+جل وهنه	Heat illness
+جرگه	Jirga
+خدايگوټی	Yazata
+ډومبک	Chat (bird)
+هندو ليکنې	Hindu texts
+مشرانو جرگه	House of Elders (Afghanistan)
+اپولینارېزم	Apollinarism
+د بابر توغندی	Babur (cruise missile)
+ونډه (وټپوهنه)	Stock
+دوتنه	File
+لافايټ جنگي بېړۍ	La Fayette-class frigate
+بانکي کارټ	ATM card
+گڼيه	Mortgage loan
+ناپروکسين	Naproxen
+شکوڼ	Porcupine
+ويکيپېډيا:نړيواله غږيزه ابېڅې	Help:IPA
+الينگار ولسوالۍ	Alingar District
+مهترلام ولسوالۍ	Mihtarlam District
+قرغيو ولسوالۍ	Qarghayi District
+نوی اتلانتېس	New Atlantis
+تعبیه شوی چاودیدونکی وسیله	Improvised explosive device
+کوهاټ ولسوالۍ	Kohat District
+د پاني پت دريمه جگړه	Third Battle of Panipat
+د افغان-انگرېز درېمه جگړه	Third Anglo-Afghan War
+رسم	Rasm
+کرج ولسوالۍ	Karaj County
+تورغاړي ـ اوږدمښوکي مارغه	Black-bellied hummingbird
+مشگين شهر ولسوالۍ	Meshgin Shahr County
+نظرآباد ولسوالۍ	Nazarabad County
+نمين ولسوالۍ	Namin County
+گرمي ولسوالۍ	Germi County
+ساوجبلاغ ولسوالۍ	Savojbolagh County
+د پارس‌ آباد ولسوالۍ	Parsabad County
+کوثر ولسوالۍ	Kowsar County
+بېله سوار ولسوالۍ	Bileh Savar County
+اردبيل ولسوالۍ	Ardabil County
+بېړۍ ژرنده	Ship mill
+نير ولسوالۍ	Nir County
+د هرات جامع جومات	Jama Masjid of Herat
+د هندي فلمونو د نارينه لوبگرانو لړليک	List of Indian film actors
+سولگریز جال	Computer network
+ځنگلي خزدکه	Anoplotrupes stercorosus
+امام صيب ولسوالۍ	Imam Sahib District
+محمد هاشم ميوندوال	Mohammad Hashim Maiwandwal
+افغان پيکا	Afghan pika
+پر اسلام نيوکه	Criticism of Islam
+قارون	Korah
+اسلامي هڅوب	Islamic culture
+توره بوړه	Tora Bora
+اسلامي وټه	Islamic economic jurisprudence
+کابل پوهنتون	Kabul University
+موسکيټ	P-270 Moskit
+ویرا غیر فعال څارونکی سیستم	VERA passive sensor
+د کاربن ډای اکسایډ ليزر	Carbon dioxide laser
+محمد حنيف بکتاش	Hanif Baktash
+د اصفهان ولايت	Isfahan Province
+ويکيپېډيا:وييپانگه	Wikipedia:Glossary
+مرتضی مطهري	Morteza Motahhari
+محمد يوسف	Mohammad Yusuf (prime minister)
+تگاب ولسوالۍ (کاپيسا)	Tagab District, Kapisa
+فضل حق خالقيار	Fazal Haq Khaliqyar
+محمد موسى شفيق	Mohammad Musa Shafiq
+وېليم حې مېکناټن	William Hay Macnaghten
+محمد عمر (افغان والي)	Mohammad Omar (Afghan governor)
+جمال الدين بدر	Jamaluddin Badr
+وېشنيزه:د امريکا متحده ايالات	Category:United States
+وېشنيزه:روسيه	Category:Russia
+وېشنيزه:کاناډا	Category:Canada
+وېشنيزه:برطانيه	Category:United Kingdom
+وېشنيزه:چين	Category:China
+وېشنيزه:هندوستان	Category:India
+وېشنيزه:سعودي عربستان	Category:Saudi Arabia
+وېشنيزه:ايران	Category:Iran
+پښتونولي	Pashtunwali
+هانډلې پېج ټايپ او	Handley Page Type O
+لامبوځنه ښیښه	Float glass
+ابدالي	Durrani
+د مقدس جورج کلیسا	St. George's Basilica, Prague
+الکوزي	Alakozai
+وېشنيزه:افغانستان	Category:Afghanistan
+وېشنيزه:الجېريا	Category:Algeria
+ام – ۵۳/۵۹	M53/59 Praga
+وېشنيزه:عراق	Category:Iraq
+وېشنيزه:نېدرلانډ/هالېنډ	Category:Netherlands
+وېشنيزه:نايجېريا	Category:Nigeria
+وېشنيزه:پاکستان	Category:Pakistan
+وېشنيزه:د روم امپراطوری	Category:Roman Empire
+وېشنيزه:مارغان	Category:Birds
+وېشنيزه:بوټي	Category:Plants
+وېشنيزه:ژونپوهنه	Category:Biology
+وېشنيزه:پېښليک	Category:History
+وېشنيزه:ځمکپوهنه	Category:Geography
+وېشنيزه:ټولنه	Category:Society
+وېشنيزه:مذهب	Category:Religion
+وېشنيزه:ورزښت	Category:Sports
+وېشنيزه:اروپايي اتحاديه	Category:European Union
+وېشنيزه:ټوليزې رسنۍ	Category:Mass media
+وېشنيزه:ژبه	Category:Language
+وېشنيزه:ځمکه	Category:Earth
+وېشنيزه:تشيال	Category:Space
+مړاپ زره پوښ گاډي	MRAP
+لړم (مياشت)	Aban (month)
+ټېمېلين اټومي برېښناکوټ	Temelín Nuclear Power Station
+طلوع تلويزيون	Tolo TV
+مثنوي	Masnavi (poetic form)
+پټه خزانه	Pata Khazana
+د قرآن مخينه	History of the Quran
+بر دير ولسوالۍ	Upper Dir District
+غوريان ولسوالۍ	Ghurian District
+غلام محمد فرهاد	Ghulam Mohammad Farhad
+رڼايي سپڼسيزې اړيكې	Fiber-optic communication
+د بشري حقونو نړېواله اسلامي اعلاميه	Cairo Declaration on Human Rights in Islam
+د الضرار ټانک	Al-Zarrar
+خواږه مرچ	Bell pepper
+گوند مشر	Party leader
+حبيب منگل	Habib Mangal
+شايفنكم	Shayfeencom
+نوښار ولسوالۍ	Nowshera District
+محمد نبي عيسی خېل	Mohammad Nabi
+Henriette Confurius	Henriette Confurius
+بشير احمد بلور	Bashir Ahmad Bilour
+چاودونکي شکل لرونکي مردک	Explosively formed penetrator
+دولت احمدزی	Dawlat Ahmadzai
+شاهپور ځدراڼ	Shapoor Zadran
+محمد اصغر ستانکزی	Asghar Stanikzai
+حسن بانو غضنفر	Husn Banu Ghazanfar
+د پاکستان هوايي ځواک	Pakistan Air Force
+رباب	Rubab (instrument)
+شهاب الدين محمد غوري	Muhammad of Ghor
+چاربورجک ولسوالۍ	Chahar Burjak District
+زرغون ښار ولسوالۍ	Zarghun Shar District
+کوټ ولسوالۍ	Kot District
+تېروه ولسوالۍ	Terwa District
+بټي کوټ ولسوالۍ	Bati Kot District
+يوسف خېل ولسوالۍ	Yusufkhel District
+سرحوزه ولسوالۍ	Sar Hawza District
+وازه خوا ولسوالۍ	Waza Khwa District
+دای چوپان ولسوالۍ	Dey Chopan District
+سرپل	Sar-e Pol city
+شينواري ولسوالۍ	Shinwari District
+شېخ علي ولسوالۍ	Shekh Ali District
+سرخ پارسا ولسوالۍ	Surkhi Parsa District
+نېکه ولسوالۍ	Nika District
+برمل ولسوالۍ	Barmal District
+غوربند ولسوالۍ	Ghorband District
+کوه صافي ولسوالۍ	Kohi Safi District
+ورمامی ولسوالۍ	Wor Mamay District
+زېروک ولسوالۍ	Ziruk District
+گيان ولسوالۍ	Gayan District
+قلات ولسوالۍ	Qalat District
+نوبهار ولسوالۍ	Naw Bahar District
+مټه خان ولسوالۍ	Mata Khan District
+شاه جوی ولسوالۍ	Shah Joy District
+اچين ولسوالۍ	Achin District
+گومل ولسوالۍ	Gomal District
+اومنا ولسوالۍ	Omna District
+توپک ماډل ۵۲	Vz. 52 rifle
+فريده مهوش	Mahwash
+الېکساندر ګاولند	Alexander Gauland
+استالف ولسوالۍ	Istalif District
+مصطفى سباعي	Mustafa al-Siba'i
+جلريز ولسوالۍ	Jalrez District
+جواد غازيار	Jawad Ghaziyar
+له پلوما	La Paloma
+پښتونستان	Pashtunistan
+سهيلا صديقي	Suhaila Seddiqi
+کجکي برېښناکوټ	Kajaki Dam
+کامدېش ولسوالۍ	Kamdesh District
+اورمکۍ	Moth
+خروټي	Kharoti
+کينډۍ:/بکس-پايليک	Template:Box-footer
+وټیزه ولسواکي	Economic democracy
+ابراهيم	Abraham in Islam
+افغانستان د اسلام د راتگ نه مخکې	Pre-Islamic period of Afghanistan
+نړيواله ټولنه	International community
+ملهم	Balsam
+کاربون نانو نل	Carbon nanotube
+کوران و منجان ولسوالۍ	Kuran wa Munjan District
+محصول	Product
+پزوونی	Blood lancet
+تحريف	Tahrif
+بکوا ولسوالۍ	Bakwa District
+د کابل طبي پوهنتون	Kabul Medical University
+د افغانستان هوايي ځواک	Afghan Air Force
+رکوع	Ruku
+د جاپان لپاره د افغان سفيرانو لړليک	List of Afghan ambassadors to Japan
+شواک ولسوالۍ	Shwak District
+د ۰۵۲ بي جنگي بېړۍ	Type 052B destroyer
+منډول ولسوالۍ	Mandol District
+محمد آغې ولسوالۍ	Mohammad Agha District
+خانقا ولسوالۍ	Khaniqa District
+بابر بڼ	Gardens of Babur
+حاد برونشيت	Acute bronchitis
+ارغنداب ولسوالۍ (کندهار)	Arghandab District
+خبريال	Journalist
+مير غلام محمد غبار	Ghulam Mohammad Ghobar
+محمد افبال عزيزي	Mohammad Iqbal Azizi
+محمد اسحاق الکو	Mohammad Ishaq Aloko
+سوده بنت زمعه	Sawda bint Zamʿa
+کيشکره	Nutcracker (bird)
+د حسن او حسين مياشت	Muharram
+د ملي دفاع پوهنتون	National Defense University
+د افغانستان وټه	Economy of Afghanistan
+وېشنيزه:فلسفه	Category:Philosophy
+وېشنيزه:عيسويت	Category:Christianity
+وېشنيزه:اسلام	Category:Islam
+وېشنيزه:يهوديت	Category:Judaism
+پارت	Parthian Empire
+جزء	Juz'
+اخوان الصفا	Brethren of Purity
+ويکيپېډيا:د پټنتيا تګلاره	Privacy policy
+تاکتيک	Tactic (method)
+روينا ټنډون	Raveena Tandon
+سروبي ولسوالۍ	Surobi District (Kabul)
+ملا صدرا	Mulla Sadra
+محمد نبي محمدي	Mohammad Nabi Mohammadi
+خمس	Khums
+عبدالحکيم منيب	Abdul Hakim Munib
+توپک مادل ۲۴	Vz. 24
+نوروز منگل	Nawroz Mangal
+لکي مروت ولسوالۍ	Lakki Marwat District
+بونير ولسوالۍ	Buner District
+شريا گوشل	Shreya Ghoshal
+رهبانيت	Religious order
+گوادر ولسوالۍ	Gwadar District
+اميرالمومنين	Amir al-Mu'minin
+هنسېکا موټواني	Hansika Motwani
+گوربت	Eagle
+په اسلام کې د خدای تصور	God in Islam
+د افغانستان ولسي جرگه	House of the People (Afghanistan)
+رستاق ولسوالۍ	Rustaq District
+علي آباد ولسوالۍ	Ali Abad District
+رمله بنت ابي سفيان	Ramla bint Abi Sufyan
+تخنيکي خبريالي	Technology journalism
+چسکی کروملوف (ماڼۍ)	Český Krumlov Castle
+سلطان معزالدين کيقباد	Muiz ud din Qaiqabad
+شهيدې حساس ولسوالۍ	Shahidi Hassas District
+اسلام شاه سوري	Islam Shah Suri
+سيد آباد ولسوالۍ	Saydabad District
+شمولزی ولسوالۍ	Shamulzayi District
+وايگل ولسوالۍ	Waygal District
+شينکی ولسوالۍ	Shinkay District
+کشک کهنه ولسوالۍ	Kushki Kuhna District
+ميزان ولسوالۍ	Mizan District
+اورگون ولسوالۍ	Urgon District
+اټغار ولسوالۍ	Atghar District
+خوښی ولسوالۍ	Khoshi District
+سرپل ولسوالۍ	Sar-e Pol District
+نمک آب ولسوالۍ	Namak Ab District
+دشت قلعه ولسوالۍ	Dashti Qala District
+څرخ ولسوالۍ	Charkh District
+سياد ولسوالۍ	Sayyad District
+هزار سموچ ولسوالۍ	Hazar Sumuch District
+بلخاب ولسوالۍ	Balkhab District
+ازره ولسوالۍ	Azra District
+خروار ولسوالۍ	Kharwar District
+کلفگان ولسوالۍ	Kalafgan District
+سوزمه کلا ولسوالۍ	Sozma Qala District
+خواجه غر ولسوالۍ	Khwaja Ghar District
+خاص روزگان ولسوالۍ	Khas Urozgan District
+قش تپه ولسوالۍ	Qush Tepa District
+مندوزي ولسوالۍ	Mandozayi District
+سبري ولسوالۍ	Sabari District
+ځاځي ميدان ولسوالۍ	Zazi Maidan District
+سپېره ولسوالۍ	Spera District
+خوست (متون) ولسوالۍ	Khost (Matun) District
+تېره زي ولسوالۍ	Tirazayi District
+گوربز ولسوالۍ	Gurbuz District
+چرگ	Rooster
+واما ولسوالۍ	Wama District
+پچير او آگام ولسوالۍ	Pachir Aw Agam District
+غنیخېل ولسوالۍ	Shinwar District
+گوشته ولسوالۍ	Goshta District
+دور بابا ولسوالۍ	Dur Baba District
+رودات ولسوالۍ	Rodat District
+شېرزاد ولسوالۍ	Sherzad District
+لالپوره ولسوالۍ	Lal Pur District
+نازيان ولسوالۍ	Nazyan District
+کندوز ولسوالۍ	Kunduz District
+سرکاڼو ولسوالۍ	Sirkanay District
+مومند دره ولسوالۍ	Momand Dara District
+ارچي ولسوالۍ	Archi District
+خان آباد ولسوالۍ	Khan Abad District
+بهسود ولسوالۍ (ننگرهار)	Bihsud District
+کيتی ولسوالۍ	Kiti District
+غازي آباد ولسوالۍ (کونړ)	Ghaziabad District, Kunar
+سردار شاه ولي خان	Sardar Shah Wali Khan
+اسلام او عيسويت	Christianity and Islam
+سراج الدين حقاني	Sirajuddin Haqqani
+ساتنه	Protection
+ترينکوټ ولسوالۍ	Tarinkot District
+ځاځي ولسوالۍ	Zazi District
+زرمت ولسوالۍ	Zurmat District
+شېرخان فرنود	Sherkhan Farnood
+ډیسکوساوریسکوس	Discosauriscus
+وړانگه	Ray
+مولتان ولسوالۍ	Multan District
+پشين ولسوالۍ	Pishin District
+فيصل آباد ولسوالۍ	Faisalabad District
+حافظ آباد ولسوالۍ	Hafizabad District
+گوجرانواله ولسوالۍ	Gujranwala District
+بهاولپور ولسوالۍ	Bahawalpur District
+لوره لايي ولسوالۍ	Loralai District
+بولان ولسوالۍ	Kachi District
+ژوب ولسوالۍ	Zhob District
+اټک ولسوالۍ	Attock District
+بابېړی	Relapse
+راډيويي خپرونې	Radio programming
+تگاب ولسوالۍ (بدخشان)	Tagab District, Badakhshan
+بکتر شکن	HJ-8
+ایلیا ابو ماضي	Elia Abu Madi
+زيارت ولسوالۍ	Ziarat District
+نصير اباد ولسوالۍ	Nasirabad District
+دېره غازي خان ولسوالۍ	Dera Ghazi Khan District
+موسی خېل ولسوالۍ (بلوچستان)	Musakhel District, Pakistan
+چکوال ولسوالۍ	Chakwal District
+بهکر ولسوالۍ	Bhakkar District
+لاهور ولسوالۍ	Lahore District
+کوټه ولسوالۍ	Quetta District
+ډېره بگټي ولسوالۍ	Dera Bugti District
+سيالکوټ ولسوالۍ	Sialkot District
+کوهلو ولسوالۍ	Kohlu District
+پنجاب ولسوالۍ	Panjab District
+کهمرد ولسوالۍ	Kahmard District
+خراسان	Greater Khorasan
+لر دير ولسوالۍ	Lower Dir District
+مانسهره ولسوالۍ	Mansehra District
+کابل پوليتخنيک پوهنتون	Polytechnical University of Kabul
+اندراب ولسوالۍ	Andarab District
+مردان ولسوالۍ	Mardan District
+د پاکستان ولسوالۍ	List of districts of Pakistan
+چارسده ولسوالۍ	Charsadda District, Pakistan
+هنگو ولسوالۍ	Hangu District, Pakistan
+شنگله ولسوالۍ	Shangla District
+بالا بلوک ولسوالۍ	Bala Buluk District
+بوښوتنيکا	Bochotnica
+الاسمای	Al-Asma'i
+د خښتي پل جومات	Pul-e Khishti Mosque
+اناپلازموسېز	Anaplasmosis
+فراه ولسوالۍ	Farah City District
+لال او سرجنگل ولسوالۍ	La‘l wa Sar Jangal District
+ابي بن خلف	Ubay ibn Khalaf
+شېراني ولسوالۍ	Sherani District
+قيف غاښ لرونکي ژوي	Yanoconodon
+ساهيوال ولسوالۍ	Sahiwal District
+راجنپور ولسوالۍ	Rajanpur District
+ويهاړي ولسوالۍ	Vehari District
+ليه ولسوالۍ	Layyah District
+نارووال ولسوالۍ	Narowal District
+منډي بهاوالدين ولسوالۍ	Mandi Bahauddin District
+ميانوالي ولسوالۍ	Mianwali District
+تولید (سوداگري)	Product (business)
+نوشکي ولسوالۍ	Nushki District
+پنجگور ولسوالۍ	Panjgur District
+د عراق او شام اسلامي دولت	Islamic State of Iraq and the Levant
+د جوند ولسوالۍ	Jawand District
+قاديس ولسوالۍ	Qadis District
+مرغاب ولسوالۍ	Murghab District
+غورماچ ولسوالۍ	Ghormach District
+دېشو ولسوالۍ	Dishu District
+نوزاد ولسوالۍ	Nawzad District
+لښکرگاه ولسوالۍ	Lashkargah District
+سنگين	Sangin
+يونس	Jonah
+چاه آب ولسوالۍ	Chah Ab District
+عبدالروف بېنوا	Abdul Rauf Benawa
+وټيز څېړندود	Economic methodology
+د افغانستان ژبې	Languages of Afghanistan
+داستان	Dastan
+ورس ولسوالۍ	Waras District
+يکاولنگ ولسوالۍ	Yakawlang District
+شېبر ولسوالۍ	Shibar District
+سبي ولسوالۍ	Sibi District
+بادخورک	Kestrel
+سيغان ولسوالۍ	Sayghan District
+د فيلسوفانو لړليک	Lists of philosophers
+محمد دين زاخېل	Mohammad Din Zakhil
+لودهران ولسوالۍ	Lodhran District
+ننکانه صاحب ولسوالۍ	Nankana Sahib District
+چنيوټ ولسوالۍ	Chiniot District
+شېخپوره ولسوالۍ	Sheikhupura District
+قصور ولسوالۍ	Kasur District
+واخان ولسوالۍ	Wakhan District
+افغانستان ته د اسلام راتگ	Islamic conquest of Afghanistan
+ویدانتا	Vedanta
+د کيميا فلسفه	Philosophy of chemistry
+اسلام او يهوديت	Islamic–Jewish relations
+فک دي پوليس	Fuck tha Police
+کشک ولسوالۍ	Kushk District
+شېب کوه ولسوالۍ	Shib Koh District
+گلستان ولسوالۍ	Gulistan District
+پر چمن ولسوالۍ	Pur Chaman District
+پشت رود ولسوالۍ	Pusht Rod District
+لاش او جواين ولسوالۍ	Lash Wa Juwayn District
+د افغانستان بنسټيزه کړنلاره	Constitution of Afghanistan
+پښتانه	Pashtun people
+آبکمري ولسوالۍ	Ab Kamari District
+باميان ولسوالۍ	Bamyan District
+لکي مروت	Lakki Marwat
+رانا سنگا	Rana Sanga
+كاردان پوهنتون	Kardan University
+سکندر لودي	Sikandar Lodi
+د پاکستان د هوايي ډگرونو لړليک	List of airports in Pakistan
+سيد کرم ولسوالۍ	Sayid Karam District
+تايواره ولسوالۍ	Taywara District
+لیس ډوسېټ	Lyse Doucet
+شرن	Sharana, Afghanistan
+د هرات پوهنتون	Herat University
+ابو الفضل محمد بيهقي	Abu'l-Fadl Bayhaqi
+خوشاب ولسوالۍ	Khushab District
+پانډور زره پوښ موټر	Pandur II
+مرزا اسلم بېگ	Mirza Aslam Beg
+د افغانستان د اوسنيو واليانو لړليک	List of current provincial governors in Afghanistan
+کارخ ولسوالۍ	Karukh District
+خاش رود ولسوالۍ	Khash Rod District
+کنگ ولسوالۍ	Kang District
+خانېشين ولسوالۍ	Khanashin District
+زرنج ولسوالۍ	Zaranj District
+جهل مگسي ولسوالۍ	Jhal Magsi District
+شفيق مريد	Shafiq Mureed
+افغانان (آسټراليا)	Afghan (Australia)
+رحيميار خان ولسوالۍ	Rahim Yar Khan District
+خضدار ولسوالۍ	Khuzdar District
+دنیايي زده کړه	Secular education
+خواجه دو کوه ولسوالۍ	Khwaja du koh District
+مولوي	Mawlawi (Islamic title)
+گرېگ مورټنسن	Greg Mortenson
+بايزيد انصاري	Pir Roshan
+مخابرات په افغانستان کې	Communications in Afghanistan
+پېچ دره ولسوالۍ	Dara-I-Pech District
+دانگام ولسوالۍ	Dangam District
+اسد آباد ولسوالۍ	Asadabad District
+ناړۍ ولسوالۍ	Nari District
+څوکۍ ولسوالۍ	Chawkay District
+مروره ولسوالۍ	Marawara District
+خاص کونړ ولسوالۍ	Khas Kunar District
+ميوند ولسوالۍ	Maywand District
+شاه ولي کوټ ولسوالۍ	Shah Wali Kot District
+ارغنجخواه ولسوالۍ	Arghanj Khwa District
+خاش ولسوالۍ	Khash District
+تېشکان ولسوالۍ	Tishkan District
+اشکاشم ولسوالۍ	Ishkashim District
+يمگان ولسوالۍ	Yamgan District
+ارگو ولسوالۍ	Argo District
+درايم ولسوالۍ	Darayim District
+راغ ولسوالۍ	Raghistan District
+ياوان ولسوالۍ	Yawan District
+خاکرېز ولسوالۍ	Khakrez District
+جورم ولسوالۍ	Jurm District
+وردوج ولسوالۍ	Wurduj District
+د افغانستان د هوايي ډگرونو لړليک	List of airports in Afghanistan
+شهرستان ولسوالۍ	Shahristan District
+گيزاب ولسوالۍ	Gizab District
+ناور ولسوالۍ	Nawur District
+خواهان ولسوالۍ	Khwahan District
+ژړۍ ولسوالۍ	Zhari District
+خاکجبار ولسوالۍ	Khaki Jabbar District
+رشيدان ولسوالۍ	Rashidan District
+يفتال سفله ولسوالۍ	Yaftali Sufla District
+سپين بولدک ولسوالۍ	Spin Boldak District
+شورابک ولسوالۍ	Shorabak District
+چهار آسياب ولسوالۍ	Char Asiab District
+کندهار ولسوالۍ	Kandahar District
+شولگره ولسوالۍ	Sholgara District
+ناوه ولسوالۍ	Nawa District
+درواز ولسوالۍ	Darwaz district
+نېش ولسوالۍ	Nesh District
+اجرستان ولسوالۍ	Ajristan District
+ډنډ او پټان ولسوالۍ	Dand Aw Patan District
+سيير بهادرزاده	Siyar Bahadurzada
+زنده جان ولسوالۍ	Zendeh Jan District
+خاک سفېد ولسوالۍ	Khaki Safed District
+مقر ولسوالۍ (بادغيس)	Muqur District, Badghis
+قلعه نو ولسوالۍ	Qala i Naw District
+گزره ولسوالۍ	Guzara District
+دولتيار ولسوالۍ	Dawlat Yar District
+دولاينه ولسوالۍ	Du Layna District
+اوبې ولسوالۍ	Obe District
+ادرسکن ولسوالۍ	Adraskan District
+گلران ولسوالۍ	Gulran District
+موسی کلا ولسوالۍ	Musa Qala District
+پښتون زرغون ولسوالۍ	Pashtun Zarghun District
+فارسي ولسوالۍ	Farsi District
+قلعه کاه ولسوالۍ	Qala i Kah District
+شين ډنډ ولسوالۍ	Shindand District
+چامبېلي	Jasminum grandiflorum
+شهرک ولسوالۍ	Shahrak District
+پراناف مېستري	Pranav Mistry
+مهرانا پراتاپ	Maharana Pratap
+قاضي حسين احمد	Qazi Hussain Ahmad
+جاغوري ولسوالۍ	Jaghori District
+ساغر ولسوالۍ	Saghar District
+تولک ولسوالۍ	Tulak District
+چغچران ولسوالۍ	Chaghcharan District
+تهافت الفلاسفه	The Incoherence of the Philosophers
+ديا خان	Deeyah Khan
+بهلول لودي	Bahlul Lodi
+خوست او فرنگ ولسوالۍ	Khost wa Fereng District
+نكاح	Marriage in Islam
+قرآن لوستل	Quran reading
+رسنۍ	Mean
+عبدالصمد روحاني	Abdul Samad Rohani
+آلاسای ولسوالۍ	Alasay District
+کريم صادق	Karim Sadiq
+آينه تلويزيون	Ayna TV
+قلا زال ولسوالۍ	Qalay-I-Zal District
+کشم ولسوالۍ	Kishim District
+فيض آباد ولسوالۍ	Fayzabad District, Badakhshan
+اسلامي مذهبي لارښودان	Islamic religious leaders
+حسن بک جومات	Hassan Bek Mosque
+سمبالښت	Management
+باک ولسوالۍ	Bak District
+ننداره	Show
+چې زېټ ۲۰۷۵ رامي	CZ 2075 RAMI
+وېشنيزه:هڅوب	Category:Culture
+وېشنيزه:لويې وچې	Category:Continents
+وېشنيزه:ځمکپېژنده	Category:Geology
+وېشنيزه:الوتکې	Category:Aircraft
+چنای ایکسپریس	Chennai Express
+ثريا طرزي	Soraya Tarzi
+تور غر ولسوالۍ	Torghar District
+وکيل احمد متوکل	Wakil Ahmed Muttawakil
+د افغانستان د دفاع وزارت	Ministry of Defense (Afghanistan)
+محمد رباني	Mohammad Rabbani
+هرنۍ ولسوالۍ	Harnai District
+جام جم	Cup of Jamshid
+ژونکپوهنه	Cytology
+دامان ولسوالۍ	Daman District, Afghanistan
+سالنگ ولسوالۍ	Salang District
+بنو ولسوالۍ	Bannu District
+محمود راقي ولسوالۍ	Mahmud Raqi District
+حاجي زمان	Mohammed Zaman
+فيض محمد کاتب هزاره	Faiz Mohammad Katib Hazara
+فتحي يکن	Fathi Yakan
+چتکی	Warbler
+پژواک خبري اژانس	Pajhwok Afghan News
+واټ بړاس ماشين	Watt steam engine
+نانسي دوپري	Nancy Dupree
+ممتاز	Mumtaz (actress)
+میثاق کاظمي	Mithaq Kazimi
+اورياخېل	Oryakhel
+باغبان (فلم)	Baghban (film)
+حصه اول کوهستان ولسوالۍ	Hesa Awal Kohistan District
+هدايت امين ارسلا	Hedayat Amin Arsala
+څمکنۍ ولسوالۍ	Tsamkani District
+وېليم برايډن	William Brydon
+هېواد	Pays (France)
+ايشوبی	Boiler
+غوړگه	Calf (anatomy)
+نېلي ولسوالۍ	Nili District
+گلبدين نايب	Gulbudeen Naib
+درې پيالې چای	Three Cups of Tea
+بټگرام ولسوالۍ	Battagram District
+هنرونه	The arts
+مالاکنډ ولسوالۍ	Malakand District
+رحمت عزيز چترالي	Rehmat Aziz Chitrali
+د افغانستان سيندونه	List of rivers of Afghanistan
+په افغانستان کې کارېدونکې ټيليفون شمېرې	Telephone numbers in Afghanistan
+انوارالحق احدي	Anwar ul-Haq Ahady
+تانبه:ځمکپوهنه	Portal:Geography
+د مليت له پلوه د خلکو لړليک	Lists of people by nationality
+د جاينيزم فلسفه	Jain philosophy
+مماڼه	Sageretia brandrethiana
+جلغوزه	Pinus gerardiana
+تانبه:فلسفه	Portal:Philosophy
+د کوکا کولا شرکت	The Coca-Cola Company
+آريانا	Ariana
+ميمونه بنت الحارث	Maymunah bint al-Harith
+امير محمد اعظم خان	Mohammad Azam Khan
+د فلمونو هندۍ لوبگرانې	List of Indian film actresses
+کجران ولسوالۍ	Kajran District
+بنگي ولسوالۍ	Bangi District
+اشکامش ولسوالۍ	Ishkamish District
+بهسود ولسوالۍ	Hesa Awal Behsood District
+دايمرداد ولسوالۍ	Day Mirdad District
+چال ولسوالۍ	Chal District
+نازيه اقبال	Nazia Iqbal
+د شکیانو ښوونځې	Academic skepticism
+افغان ملت گوند	Afghan Social Democratic Party (Afghan Mellat)
+حرکت انقلاب اسلامي	Islamic and National Revolution Movement of Afghanistan
+عبدالحی حبيبي	Abdul Hai Habibi
+عبدالشکور رشاد	Abdul Shakoor Rashad
+گل پاچا الفت	Gul Pacha Ulfat
+قيام الدين خادم	Qiamuddin Khadim
+د چينايي فيلسوفانو لړليک	List of Chinese philosophers
+د عبدالرحمان جومات	Abdul Rahman Mosque
+انساني کوپړۍ	Human head
+ببی	Snipe
+واصل بن عطا	Wasil ibn Ata
+صوفی محمد	Sufi Muhammad
+جماران جنگي بېړۍ	Jamaran (frigate)
+آر پي جي- ۷۵	RPG-75
+قره باغ ولسوالۍ (غزني)	Qarabagh District, Ghazni
+اسلام او ژوي	Animals in Islam
+کامه ولسوالۍ	Kama District
+اسلام او ماشومان	Islam and children
+فیض آباد ولسوالۍ (جوزجان)	Fayzabad District, Jowzjan
+رېگ ولسوالۍ (کندهار)	Reg District (Kandahar)
+ويکيپېډيا:غونډال ته څنګه ورننوځو	Help:Logging in
+ترتيل	Tarteel
+شفيق الله شفق	Shafiqullah (cricketer)
+شبير نوري	Shabir Noori
+نصرت الله نصرت	Nasratullah Nasrat
+احمد شاه احمدي	Ahmed Shah (cricketer)
+سليم عزيز دراني	Salim Durani
+حميد حسن	Hameed Hassan
+محمد شهزاد محمدي	Mohammad Shahzad
+نور علي ځدراڼ	Noor Ali
+ريس احمدزی	Raees Ahmadzai
+ميرويس اشرف	Mirwais Ashraf
+سميع الله شينواری	Samiullah Shenwari
+پير سيد احمد گيلاني	Ahmed Gailani
+پدميني کولهاپوري	Padmini Kolhapure
+ذکر	Zekr (software)
+هريړه	Terminalia chebula
+قاري	Qāriʾ
+جويريه بنت الحارث	Juwayriyya bint al-Harith
+درمسال	Dharamshala (type of building)
+قلندر مومند	Qalandar Momand
+کيمياوي وسلې	Chemical weapon
+ناصر پورپيرار	Nasser Pourpirar
+د بېستون د ډبرليک بشپړه ژباړه	Full translation of the Behistun Inscription
+کلمپ	Clamp
+وېشنيزه:د پوهنغونډ روباټان	Category:All Wikipedia bots
+چمتال ولسوالۍ	Chimtal District
+نوی بغلان ولسوالۍ	Baghlani Jadid District
+ده صالح ولسوالۍ	Dih Salah District
+چارکنټ ولسوالۍ	Charkint District
+قيصار ولسوالۍ	Qaysar District
+کلدار ولسوالۍ	Kaldar District
+برکه ولسوالۍ	Burka District
+بگرامي ولسوالۍ	Bagrami District
+شکردره ولسوالۍ	Shakardara District
+پل حصار ولسوالۍ	Puli Hisar District
+ناهرين ولسوالۍ	Nahrin District
+خانه چارباغ ولسوالۍ	Khani Chahar Bagh District
+قرمگل ولسوالۍ	Qaramqol District
+چار بولک ولسوالۍ	Charbolak District
+نهر شاهي ولسوالۍ	Nahri Shahi District
+روی دو آب ولسوالۍ	Ruyi Du Ab District
+حصارک ولسوالۍ	Hesarak District
+مالستان ولسوالۍ	Malestan District
+شبرغان ولسوالۍ	Shibirghan District
+چپرهار ولسوالۍ	Chaparhar District
+وغاز ولسوالۍ	Waghaz District
+گېلان ولسوالۍ	Gelan District
+درزاب ولسوالۍ	Darzab District
+شغنان ولسوالۍ	Shighnan District
+زنه خان ولسوالۍ	Zana Khan District
+غورک ولسوالۍ	Ghorak District
+آيبک ولسوالۍ	Aybak District
+کوهستان ولسوالۍ (بدخشان)	Kohistan District, Badakhshan
+د شهدا ولسوالۍ	Shuhada District
+تاله او برفک ولسوالۍ	Tala wa Barfak District
+کوه بند ولسوالۍ	Koh Band District
+انجيل ولسوالۍ	Injil District
+خماب ولسوالۍ	Khamyab District
+دوشي ولسوالۍ	Dushi District
+قرقین ولسوالۍ	Qarqin District
+غزني ولسوالۍ	Ghazni District
+قلندر ولسوالۍ	Qalandar District
+پلخمري ولسوالۍ	Puli Khumri District
+شيرين تگاب ولسوالۍ	Shirin Tagab District
+آقچه ولسوالۍ	Aqcha District
+اندړ ولسوالۍ	Andar District
+آب بند ولسوالۍ	Ab Band District
+تڼي ولسوالۍ	Tani District
+المار ولسوالۍ	Almar District
+موسی خېل ولسوالۍ (خوست)	Musakhel District, Afghanistan
+گردېز ولسوالۍ	Gardez District
+سنگچارک ولسوالۍ	Sancharak
+سره رود ولسوالۍ	Surkh-Rōd District
+نورگرام ولسوالۍ	Nurgaram District
+دولت آباد ولسوالۍ (فارياب)	Dawlat Abad District
+شورتپه ولسوالۍ	Shortepa District
+ده دادي ولسوالۍ	Dihdadi District
+پغمان ولسوالۍ	Paghman District
+مارمل ولسوالۍ	Marmul District
+خواجه هجران ولسوالۍ	Khwaja Hijran District
+گذرگاه نور ولسوالۍ	Guzargahi Nur District
+پښتون کوټ ولسوالۍ	Pashtun Kot District
+دو آب ولسوالۍ	Du Ab District
+حصه دوم کوهستان ولسوالۍ	Hesa Duwum Kohistan District
+شمال ولسوالۍ	Shamal District
+برگمټال ولسوالۍ	Barg-i Matal District
+دره نور ولسوالۍ	Dara-I-Nur District
+ښېوه ولسوالۍ	Kuz Kunar District
+زاري ولسوالۍ	Zari District
+نوی بارکزی ولسوالۍ	Nawa-I-Barakzayi District
+کوهستانات ولسوالۍ	Kohistanat District
+پارون ولسوالۍ	Parun District
+نادرشاه کوټ ولسوالۍ	Nadir Shah Kot District
+چشت شريف ولسوالۍ	Chishti sharif District
+حضرت سلطان ولسوالۍ	Hazrati Sultan District
+جانيخېل ولسوالۍ (پکتيا)	Janikhel District (Paktia)
+دره صوفي بالا ولسوالۍ	Darah Sof District
+امير حمزه شينواری	Hamza Shinwari
+گېرو ولسوالۍ	Giro District
+شهربزرگ ولسوالۍ	Shahri Buzurg District
+عنزه	Anza (missile)
+محمد قاسم نانوتوي	Muhammad Qasim Nanotvi
+تامارا غیر فعال څارونکی سیستم	Tamara passive sensor
+نصيرالله بابر	Naseerullah Babar
+جنگ ورځپاڼه	Daily Jang
+خوگياڼي ولسوالۍ	Khogyani District (Nangarhar)
+خرم او سرباغ ولسوالۍ	Khuram Wa Sarbagh District
+حديقه کياني	Hadiqa Kiani
+د پاکستان خيالي پوهنتون	Virtual University of Pakistan
+هرات ولسوالۍ	Herat District
+جغتو ولسوالۍ	Jaghatu District
+وېشنيزه:د افغانستان توکمونه	Category:Ethnic groups in Afghanistan
+تانبه:ټولنه	Portal:Society
+اېلیپسوسېفالوس	Ellipsocephalus
+خوبانۍ	Apricot
+د افغانستان د پوهنتونو لړليك	List of universities in Afghanistan
+عبيد الله جان کندهاری	Ubaidullah Jan
+د کندهار پوهنتون	Kandahar University
+پريگانگليونېک عصبي ريښې	Preganglionic nerve fibers
+ده سبز ولسوالۍ	Deh Sabz District
+بخت خان	Bakht Khan
+څلوريځ	Cuplé
+د مسلمانو فيلسوفانو لړليک	List of Muslim philosophers
+سورلکۍ	Redstart
+ټاټرا ۸۱۶	Tatra 816
+سيد مخدوم رهين	Sayed Makhdoom Raheen
+عبدالکريم خرم	Karim Khoram
+د غزني پوهنتون	Ghazni University
+ښاپېرۍ نغمه	Naghma
+بشري حقونه په افغانستان کې	Human rights in Afghanistan
+بي بي مبارکه	Mubarika Yusufzai
+لمر تلويزيون	Lemar TV
+نبيل غمين مسکينيار	Nabil Miskinyar
+لويېس دوپري	Louis Dupree (professor)
+ظاهر طنين	Zahir Tanin
+د افغانستان امريکايي پوهنتون	American University of Afghanistan
+امير کروړ سوري	Amir Kror Suri
+غلام محمد خان طرزي	Ghulam Muhammad Tarzi
+افغانکا	Afghanka
+د خوست پوهنتون	Khost University
+محمد خان افغان	Afghan Moxammad
+حميد مومند	Abdul Hamid Baba
+د پښتنو لړليک	List of Pashtuns
+غياث الدين غوري	Ghiyath al-Din Muhammad
+تانبه:هنرونه	Portal:Arts
+كرهڼيزه ننداره	Agricultural show
+کلکان ولسوالۍ	Kalakan District
+خواجه بهاوالدين ولسوالۍ	Khwaja Baha Wuddin District
+تخنیکپوهنه	Scientific technique
+بهارک ولسوالۍ (تخار)	Baharak District, Takhar
+گلدره ولسوالۍ	Guldara District
+لژه احمد خېل ولسوالۍ	Lazha Ahmadkhel District
+پل علم ولسوالۍ	Pul-i-Alam District
+ځدراڼ ولسوالۍ	Zadran District
+علامه	Allamah
+اسلام او ساينس	Islam and science
+ټاټرا ۸۱۰	Tatra 810
+بهارک ولسوالۍ (بدخشان)	Baharak District, Badakhshan
+شېکي ولسوالۍ	Shekay District
+افغان تلويزيون	Afghan TV
+پښتانه ټبرونه	Pashtun tribes
+احمد آباد ولسوالۍ	Ahmadabad District (Afghanistan)
+نازو توخۍ	Nazo Tokhi
+متيازمېچ	Urinometer
+موسی خان	Muhammad Musa
+افغان کليسا	Afghan Church
+قره باغ ولسوالۍ	Qarabagh District, Kabul
+اميرزی سنگين	Amirzai Sangin
+احمد شاه خان	Ahmad Shah Khan, Crown Prince of Afghanistan
+مرکزي بهسود ولسوالۍ	Markazi Bihsud District
+گوسفندي ولسوالۍ	Gosfandi District
+موسهي ولسوالۍ	Mussahi District
+تالقان ولسوالۍ	Taluqan District
+ينگي کلا ولسوالۍ	Yangi Qala District
+درقد ولسوالۍ	Darqad District
+معروف ولسوالۍ	Maruf District
+ورساج ولسوالۍ	Warsaj District
+فرخار ولسوالۍ	Farkhar District
+د فرزه ولسوالۍ	Farza District
+برکي برک ولسوالۍ	Baraki Barak District
+محمد حنيف اتمر	Mohammad Hanif Atmar
+عبدالستار سيرت	Abdul Satar Sirat
+اختر عبدالرحمن	Akhtar Abdur Rahman
+غني خان	Khan Abdul Ghani Khan
+شاه ولي افغان	Shah Wali
+مروت	Marwat
+خاطر اپريدی	Khatir Afridi
+اجمل خټک	Ajmal Khattak
+د پاکستاني تلويزوني چينلونو لړليک	Television in Pakistan
+ايپي فقير	Faqir of Ipi
+سردار علي ټکر	Sardar Ali Takkar
+ميان نشين ولسوالۍ	Miyanishin District
+مصحف	Mus'haf
+پيغمبران په قرآن کې	List of Quranic prophets
+د اسلام آباد نړيوال اسلامي پوهنتون	International Islamic University, Islamabad
+محمد مهدي عاکف	Mohammed Mahdi Akef
+ټاټوبی (اونيزه)	Tatobay
+د پېښور پوهنتون	University of Peshawar
+حسين اندرياس	Hussain Andaryas
+شينواري	Shinwari (Pashtun tribe)
+موهن لال	Mohan Lal (Zutshi)
+شاه حسين هوتک	Hussain Hotak
+خټموښی	Masonry trowel
+کينډۍ:دوراشې کامه	Template:Quote
+د وينې رېفرانسي حدود	Reference ranges for blood tests
+ويکيپېډيا:د نن ورځې انځور	Wikipedia:Featured picture candidates
+وېشنيزه:هېوادونه	Category:Countries
+وېشنيزه:وټپوهنه	Category:Economics
+ويکيپېډيا:پازوالان	Wikipedia:Administrators
+ويکيپېډيا:روباټان	Wikipedia:Bots
+وېشنيزه:وخت	Category:Time
+وېشنيزه:انټرنټ	Category:Internet
+عبدالباري جهاني	Abdul Bari Jahani
+وېشنيزه:پیسې	Category:Money
+وېشنيزه:بوټپوهنه	Category:Botany
+وېشنيزه:اناتومي	Category:Anatomy
+وېشنيزه:طب	Category:Medicine
+وېشنيزه:سياست	Category:Politics
+بحرونه	Beher (poetry)
+گڼنه	Accounting
+سيد طيب جواد	Said Tayeb Jawad
+مصر	Egypt
+هندويزم او اسلام	Hindu–Islamic relations
+خولم ولسوالۍ	Kholm District
+اسلامي نظام	Islamic state
+وېشنيزه:فيلسوفان	Category:Philosophers
+کينډۍ:Bot	Template:Bot
+خپگان	Depression (mood)
+کاناډا	Canada
+وېشنيزه:هنګري	Category:Hungary
+وېشنيزه:د اروپایي اتحادیې غړي هیوادونه	Category:Member states of the European Union
+وېشنيزه:چېک جمهوريت	Category:Czech Republic
+وېشنيزه:سلواکيا	Category:Slovakia
+غلام فاروق يعقوبي	Ghulam Faruq Yaqubi
+ويکيپېډيا:نيوليک	Portal:Contents
+غوښتنه (وټپوهنه)	Demand
+اکدي واکمنۍ	Akkadian Empire
+وېشنيزه:مايکروسافټ	Category:Microsoft
+تانبه:پوهنه	Portal:Science
+کينډۍ:Flagicon	Template:Flagicon
+وېشنيزه:د اروپا هېوادونه	Category:Countries in Europe
+وېشنيزه:اروپا	Category:Europe
+يک تلويزيون	1TV (Afghan TV channel)
+تانبه:تازه پېښې	Portal:Current events
+کينډۍ:لاسوند	Template:Documentation
+آریا تلویزیون	ARIA TV
+آرزو تلويزيون	ARZU TV
+ويکيپېډيا:د ټولنې تانبه	Wikipedia:Community portal
+وېشنيزه:User languages	Category:Wikipedians by language
+ويکيپېډيا:کارن-نوم	Wikipedia:Username policy
+عبدالعلي مستغني	Abdul Ali Mustaghni
+عبدالهادي ارغنديوال	Abdul Hadi Arghandiwal
+عبدالهادي داوي	Abdul Hadi Dawai
+عبدالحفيظ منصور	Abdul Hafiz Mansoor
+عبدالحميد بهيج	Abdul Hamid Bahij
+عبدالحق شفق	Abdul Haq Shafaq
+عبدالجبار ثابت	Abdul Jabar Sabet
+عبدالجبار تقوا	Abdul Jabbar Taqwa
+عبدالکبير	Abdul Kabir
+عبدالکريم براهوي	Abdul Karim Brahui
+عبدلقدير علم	Abdul Qadir Alam
+عبدالصمد خان اڅکزی	Abdul Samad Khan Achakzai
+عبدالوحيد بابه جان	Abdul Wahid Baba Jan
+عبدالواحد نظري	Abdul Wahid Nazari
+عبدالله وردگ	Abdullah Wardak
+اڅکزي	Achakzai
+افغان فلم	Afghan Film
+افغان بسکېټ	Afghan biscuit
+د افغانستان د کرېکټ فدراسيون	Afghanistan Cricket Board
+افراسياب خټک	Afrasiab Khattak
+احمد يوسف نورستاني	Ahmad Yusuf Nuristani
+احمدزي	Ahmadzai (Wazir clan)
+احمد امېد خپلواک	Ahmed Omaid Khpalwak
+اجمل شمس	Ajmal Shams
+اکبر خان	Akbar Khan (director)
+د البيروني پوهنتون	Al-Beroni University
+عالم زېب مجاهد	Alamzeb Mujahid
+اليشنگ ولسوالۍ	Alishing District
+عليزي	Alizai (Pashtun tribe)
+عايشه بنت ابي بکر	Aisha
+امان الله سېلاب ساپی	Amanullah Sailaab Sapi
+انابه ولسوالۍ	Anaba District
+اندړ	Andar (Pashtun tribe)
+نغلو برېښناکوټ	Naghlu Dam
+ارگ	Arg (Kabul)
+ارغنداب ولسوالۍ (زابل)	Argahandab District
+آريانا افغانستان تلويزيون	Ariana Afghanistan
+امام ابن حبان	Ibn Hibban
+ارسلا جمال	Arsala Jamal
+ارين خان	Aryan Khan
+اسدالله همدم	Asadullah Hamdam
+اسد الله خان	Asadullah Khan
+اسدالله وفا	Assadullah Wafa
+مقر ولسوالۍ (غزني)	Muqur District, Ghazni
+دهنه غوري ولسوالۍ	Dahana i Ghuri District
+کوهستان ولسوالۍ (فارياب)	Kohistan District, Faryab
+اتل	Athlete (disambiguation)
+چارسده ولسوالۍ (غور)	Charsadda District, Afghanistan
+خوگياڼی ولسوالۍ (غزني)	Khogyani District (Ghazni)
+اتمانزي	Atmaanzai
+اټوال	Atwal
+سوداگري	Business
+عزيز الله لودين	Azizullah Lodin
+بوړاپ غیر فعال څارونکی سیستم	BORAP passive sensor
+د بغلان پوهنتون	Baghlan University
+تانبه:ټکنالوجي	Portal:Technology
+کينډۍ:Softredirect	Template:Soft redirect
+کينډۍ:ړنگول	Template:Db
+بخت زمينه	Bakht Zamina
+باختر پوهنتون	Bakhtar Institute of Higher Education
+د باميان پوهنتون	Bamiyan University
+ليکبڼه	Font
+د جمرود جگړه	Battle of Jamrud
+بازارک ولسوالۍ	Bazarak District
+بيټني	Bettani
+بېلچراغ ولسوالۍ	Bilchiragh District
+د بست پوهنتون	Bost University
+وېشنيزه:ژبې	Category:Languages
+ويکيپېډيا:General disclaimer	Wikipedia:General disclaimer
+وېشنيزه:د چېک جمهوريت ښارونه	Category:Cities and towns in the Czech Republic
+ماشیندار اېوو - ۳	CZ Scorpion Evo 3
+کينډۍ:Navbox	Template:Navbox
+چاريکار ولسوالۍ	Chaharikar District
+څمکني	Chamkani (Pashtun tribe)
+ويکيپېډيا:Shortcut	Template:Shortcut
+وېشنيزه:د ایران ښارونه	Category:Cities in Iran
+دره ولسوالۍ	Darah District
+ډرونټه برېښناکوټ	Darunta Dam
+داود شاه سبا	Daud Shah Saba
+دعوت پوهنتون	Dawat University
+دولتشاه ولسوالۍ	Dawlat Shah District
+دلبر جان ارمان شينواری	Delbar Jan Arman
+ډيله ولسوالۍ	Dila District, Afghanistan
+دين محمد	Din Mohammad
+خيميران	Chimaera
+کينډۍ:Citation needed	Template:Citation needed
+بينگړۍ	Squash (plant)
+تانبه:ژوندليکونه	Portal:Biography
+امروز تلويزيون	Emrooz TV
+عنايت الله عنايت	Enayatullah Enayat
+کينډۍ:Tnavbar	Template:Navbar
+ايمان	Faith
+کينډۍ:Clear	Template:Clear
+کينډۍ:Col-begin	Template:Col-begin
+کينډۍ:Col-end	Template:Col-end
+کينډۍ:Anchor	Template:Anchor
+فضل هادي شينواری	Faisal Ahmad Shinwari
+فرنگ او غارو ولسوالۍ	Farang Wa Gharu District
+فضل الله مجددي	Fazlullah Mujadedi
+فضل الله واحدي	Fazlullah Wahidi
+کينډۍ:Babel	Template:Babel
+کينډۍ:Commons	Template:Commons
+کينډۍ:لړسرچينې	Template:Reflist
+کينډۍ:AFG	Template:AFG
+کينډۍ:نابشپړ	Template:Stub
+خدايداد	General Khodaidad
+کينډۍ:User de	Template:User de
+کينډۍ:User en-3	Template:User en-3
+کينډۍ:User en-1	Template:User en-1
+کينډۍ:User en-2	Template:User en-2
+کينډۍ:User en	Template:User en
+کينډۍ:User fa	Template:User fa
+وېشنيزه:افغاني هڅوب	Category:Afghan culture
+غرغښت تلويزيون	Gharghasht TV
+غلام سرور ناشر	Gholam Serwar Nasher
+غلام دستگير آزاد	Ghulam Dastagir Azad
+غلام دستگير پنجشېری	Ghulam Dastagir Panjsheri
+غلام فاروق وردگ	Ghulam Farooq Wardak
+غلام قدوس ابوبکر	Ghulam Qawis Abubaker
+کينډۍ:User ja	Template:User ja
+کينډۍ:User ja-1	Template:User ja-1
+وېشنيزه:امريکايي لرغونپوهان	Category:American archaeologists
+کينډۍ:د هېواد مالومات تاجکستان	Template:Country data Tajikistan
+وېشنيزه:آسيا	Category:Asia
+کينډۍ:Esoteric	Template:Intricate template
+کينډۍ:د هېواد مالومات کویټ	Template:Country data Kuwait
+کينډۍ:Mod	Template:Mod
+کينډۍ:ISO639-3Documentation	Template:Infobox language/codelist
+کينډۍ:د هېواد مالومات بلجيم	Template:Country data Belgium
+کينډۍ:د هېواد مالومات سلواکيا	Template:Country data Slovakia
+کينډۍ:د هېواد مالومات اېل سلوادور	Template:Country data El Salvador
+کينډۍ:د هېواد مالومات پاناما	Template:Country data Panama
+کينډۍ:د هېواد مالومات اېکوادور	Template:Country data Ecuador
+کينډۍ:د هېواد مالومات اېتوپيا	Template:Country data Ethiopia
+کينډۍ:د هېواد مالومات تونېسيا	Template:Country data Tunisia
+کينډۍ:د هېواد مالومات د چېک جمهوريت	Template:Country data Czech Republic
+کينډۍ:د هېواد مالومات تايلنډ	Template:Country data Thailand
+کينډۍ:د هېواد مالومات کيوبا	Template:Country data Cuba
+کينډۍ:د هېواد مالومات اندونېزيا	Template:Country data Indonesia
+کينډۍ:د هېواد مالومات کمبوډيا	Template:Country data Cambodia
+کينډۍ:د هېواد مالومات سېنېگال	Template:Country data Senegal
+کينډۍ:د هېواد مالومات ماداګاسکر	Template:Country data Madagascar
+کينډۍ:د هېواد مالومات البانيا	Template:Country data Albania
+وېشنيزه:درملپوهنه	Category:Pharmacology
+کينډۍ:د هېواد مالومات پېرو	Template:Country data Peru
+کينډۍ:د هېواد مالومات پاراګوای	Template:Country data Paraguay
+کينډۍ:د هېواد مالومات کېنيا	Template:Country data Kenya
+کينډۍ:د هېواد مالومات نيکاراګوا	Template:Country data Nicaragua
+کينډۍ:د هېواد مالومات هندوراس	Template:Country data Honduras
+کينډۍ:د هېواد مالومات ازبکستان	Template:Country data Uzbekistan
+کينډۍ:د هېواد مالومات بولېويا	Template:Country data Bolivia
+کينډۍ:د هېواد مالومات د ډومينيکان جمهوريت	Template:Country data Dominican Republic
+کينډۍ:د هېواد مالومات توگو	Template:Country data Togo
+کينډۍ:د هېواد مالومات ګواتمالا	Template:Country data Guatemala
+وېشنيزه:ژبپوهنه	Category:Linguistics
+کينډۍ:د هېواد مالومات هايېتي	Template:Country data Haiti
+کينډۍ:د هېواد مالومات مالي	Template:Country data Mali
+کينډۍ:د هېواد مالومات مولدووا	Template:Country data Moldova
+کينډۍ:د هېواد مالومات لاتويا	Template:Country data Latvia
+کينډۍ:د هېواد مالومات مالټا	Template:Country data Malta
+کينډۍ:د هېواد مالومات ډېنمارک	Template:Country data Denmark
+کينډۍ:د هېواد مالومات آيسلېنډ	Template:Country data Iceland
+کينډۍ:د هېواد مالومات پولنډ	Template:Country data Poland
+کينډۍ:د هېواد مالومات کېپ وردا	Template:Country data Cape Verde
+کينډۍ:Click	Template:Click
+کينډۍ:د هېواد مالومات بلغاريه	Template:Country data Bulgaria
+کينډۍ:د هېواد مالومات بوسنيا او هېرزگوينا	Template:Country data Bosnia and Herzegovina
+کينډۍ:د هېواد مالومات ګايانا	Template:Country data Guyana
+کينډۍ:Wikivar	Template:Wikivar
+کينډۍ:د هېواد مالومات ناروې	Template:Country data Norway
+کينډۍ:د هېواد مالومات سوېلي افريقا	Template:Country data South Africa
+کينډۍ:د هېواد مالومات جمايکا	Template:Country data Jamaica
+کينډۍ:د هېواد مالومات ګورجستان	Template:Country data Georgia
+کينډۍ:د هېواد مالومات ارجنټاين	Template:Country data Argentina
+کينډۍ:د هېواد مالومات يوروګوای	Template:Country data Uruguay
+کينډۍ:Country showdata	Template:Country showdata
+کينډۍ:د هېواد مالومات ټرېنېډاډ او توباګو	Template:Country data Trinidad and Tobago
+کينډۍ:د انځور نښه	Template:Image label
+کينډۍ:د هېواد مالومات برونای	Template:Country data Brunei
+کينډۍ:د هېواد مالومات سريلانکا	Template:Country data Sri Lanka
+کينډۍ:د هېواد مالومات مکسيکو	Template:Country data Mexico
+کينډۍ:د هېواد مالومات یونان	Template:Country data Greece
+کينډۍ:د هېواد مالومات لوکسېمبورگ	Template:Country data Luxembourg
+کينډۍ:د هېواد مالومات سعودي عربستان	Template:Country data Saudi Arabia
+کينډۍ:د هېواد مالومات بهاماس	Template:Country data Bahamas
+کينډۍ:د هېواد مالومات کرواتيا	Template:Country data Croatia
+کينډۍ:د هېواد مالومات عراق	Template:Country data Iraq
+کينډۍ:ليکوال-مالوماتبکس/لاسوند	Template:Infobox writer
+کينډۍ:د هېواد مالومات متحده عرب امارات	Template:Country data United Arab Emirates
+کينډۍ:د هېواد مالومات ماروکو	Template:Country data Morocco
+کينډۍ:د هېواد مالومات سربيا	Template:Country data Serbia
+کينډۍ:د هېواد مالومات آسټراليا	Template:Country data Australia
+گل محمد عارفي	Gul Mohammad Arefi
+کينډۍ:د هېواد مالومات فرانسه	Template:Country data France
+کينډۍ:Ambox	Template:Ambox
+گلزار عالم	Gulzar Alam
+کينډۍ:DorlandsDict	Template:DorlandsDict
+کينډۍ:دکارنبکس-بېخ	Template:Userboxbottom
+گورزيوان ولسوالۍ	Gurziwan District
+کينډۍ:هېواد-مالوماتبکس	Template:Infobox country
+کينډۍ:د هېواد مالومات لاووس	Template:Country data Laos
+کينډۍ:د هېواد مالومات اتريش	Template:Country data Austria
+کينډۍ:د فلسفې څنگپټه	Template:Philosophy sidebar
+کينډۍ:د هېواد مالومات نيپال	Template:Country data Nepal
+کينډۍ:ترسره شو	Template:Done
+کينډۍ:لاسوند/دلاسوندنوم	Template:Documentation/docname
+کينډۍ:د هېواد مالومات فېنلاند	Template:Country data Finland
+کينډۍ:Audio	Template:Audio
+کينډۍ:د هېواد مالومات مصر	Template:Country data Egypt
+کينډۍ:د هېواد مالومات لېتوانيا	Template:Country data Lithuania
+ويکيپېډيا:ځان زده کړه (د ويکيپېډيا تړنې)	Wikipedia:Tutorial/Wikipedia links
+کينډۍ:Used in system	Template:Used in system
+گوزگان	Guzgan
+کينډۍ:د هېواد مالومات جاپان	Template:Country data Japan
+کينډۍ:د هېواد مالومات نېدرلنډ	Template:Country data Netherlands
+کينډۍ:Start box	Template:S-start
+کينډۍ:ساينسپوه-مالوماتبکس	Template:Infobox scientist
+کينډۍ:پوهنتون مالوماتبکس/لاسوند	Template:Infobox university
+کينډۍ:د هېواد مالومات آذربايجان	Template:Country data Azerbaijan
+کينډۍ:د فايرفاکس کارن	Template:User fox
+کينډۍ:Ar	Template:Lang-ar
+کينډۍ:د هېواد مالومات وېتنام	Template:Country data Vietnam
+کينډۍ:Featured article	Template:Featured article
+کينډۍ:د هېواد مالومات لېبيا	Template:Country data Libya
+کينډۍ:د هېواد مالومات روسیه	Template:Country data Russia
+وېشنيزه:User en	Category:User en
+وېشنيزه:User en-2	Category:User en-2
+کينډۍ:مالوماتبکس	Template:Infobox
+کينډۍ:د ايران ولايتونه	Template:Provinces of Iran
+کينډۍ:Navy	Template:Navy
+کينډۍ:د هېواد مالومات اېکواټوريال گوينا	Template:Country data Equatorial Guinea
+کينډۍ:User zh	Template:User zh
+کينډۍ:Colorbox	Template:Colorbox
+حبيب الله قادري	Habibullah Qaderi
+وېشنيزه:دوتر توکي	Category:Office equipment
+کينډۍ:د هېواد مالومات اټاليا	Template:Country data Italy
+کينډۍ:د المان ايالتي نقشه	Template:German Federal States
+حکيم تڼيوال	Hakim Taniwal
+کينډۍ:User ru-4	Template:User ru-4
+حميدالله قلندرزی	Hamidullah Qalandarzai
+کينډۍ:Pp-template	Template:Pp-template
+حنان حبيبزی	Hanan Habibzai
+کينډۍ:د هېواد مالومات سويډن	Template:Country data Sweden
+وېشنيزه:کرهڼه	Category:Agriculture
+هسکه مېنه ولسوالۍ	Haska Mina District
+کينډۍ:Infobox settlement	Template:Infobox settlement
+کينډۍ:سني اسلام	Template:Sunni Islam
+کينډۍ:User ru	Template:User ru
+کينډۍ:نغا	Template:IPA
+وېشنيزه:سياستوال	Category:Politicians
+وېشنيزه:لمريز نظام	Category:Planets of the Solar System
+وېشنيزه:امريکا	Category:Americas
+په افغانستان کې د عربانو تاريخ	History of Arabs in Afghanistan
+کينډۍ:د هېواد مالومات کوسټاريکا	Template:Country data Costa Rica
+کينډۍ:د هېواد مالومات هند	Template:Country data India
+کينډۍ:د هېواد مالومات الجېريا	Template:Country data Algeria
+کينډۍ:د هېواد مالومات وېنېزوېلا	Template:Country data Venezuela
+کينډۍ:د هېواد مالومات فيجي	Template:Country data Fiji
+کينډۍ:Infobox Officeholder	Template:Infobox officeholder
+کينډۍ:د هېواد مالومات انډورا	Template:Country data Andorra
+کينډۍ:د هېواد مالومات آنگولا	Template:Country data Angola
+کينډۍ:د هېواد مالومات بوټسوانا	Template:Country data Botswana
+کينډۍ:د هېواد مالومات اروپايي اتحاديه	Template:Country data European Union
+کينډۍ:Border	Template:Border
+کينډۍ:د هېواد مالومات ډومنيکا	Template:Country data Dominica
+کينډۍ:د هېواد مالومات پارتوګال	Template:Country data Portugal
+کينډۍ:د هېواد مالومات آيرلېنډ	Template:Country data Ireland
+کينډۍ:د هېواد مالومات واټيکان ښار	Template:Country data Vatican City
+کينډۍ:Fmbox	Template:Fmbox
+کينډۍ:د هېواد مالومات چین	Template:Country data China
+کينډۍ:د هېواد مالومات بېنين	Template:Country data Benin
+کينډۍ:د هېواد مالومات د کانگو جمهوريت	Template:Country data Republic of the Congo
+کينډۍ:ويکيسازنه	Template:Wikify
+کينډۍ:Familytree/end	Template:Family tree/end
+کينډۍ:د هېواد مالومات ترکيه	Template:Country data Turkey
+وېشنيزه:ليکوال	Category:Writers
+کينډۍ:د هېواد مالومات قبرس	Template:Country data Cyprus
+کينډۍ:د هېواد مالومات سويتزرلاند	Template:Country data Switzerland
+کينډۍ:د هېواد مالومات فلېپين	Template:Country data Philippines
+کينډۍ:د هېواد مالومات نايجېريا	Template:Country data Nigeria
+کينډۍ:د هېواد مالومات آيرلنډ	Template:Country data Belarus
+کينډۍ:د هېواد مالومات مالېزيا	Template:Country data Malaysia
+کينډۍ:د هېواد مالومات ارمنستان	Template:Country data Armenia
+کينډۍ:د هېواد مالومات زېمبابوې	Template:Country data Zimbabwe
+کينډۍ:د هېواد مالومات ختيځ تېمور	Template:Country data Timor-Leste
+وېشنيزه:تومانچې	Category:Pistols
+کينډۍ:د هېواد مالومات ماينامار	Template:Country data Myanmar
+کينډۍ:د هېواد مالومات قزاقستان	Template:Country data Kazakhstan
+کينډۍ:د هېواد مالومات چېلي	Template:Country data Chile
+کينډۍ:د هېواد مالومات سلووېنيا	Template:Country data Slovenia
+کينډۍ:د هېواد مالومات لبنان	Template:Country data Lebanon
+کينډۍ:د کتاب مالوماتبکس-1	Template:Infobox book
+وېشنيزه:اسلامي وييپانګه	Category:Arabic words and phrases
+کينډۍ:د هېواد مالومات بهوټان	Template:Country data Bhutan
+کينډۍ:Booland	Template:Both
+وېشنيزه:څارګرې ادارې	Category:Intelligence agencies
+کينډۍ:سورت	Template:Sura
+کينډۍ:لطفاً په دې مخ کې بدلون مه راولۍ	Wikipedia:Introduction 2
+کينډۍ:Tlx	Template:Tlx
+کينډۍ:Lang-la	Template:Lang-la
+کينډۍ:Lang-el	Template:Lang-el
+هوتک	Hotaki
+د افغانستان د همبستگۍ گوند	Solidarity Party of Afghanistan
+محمد هاشم زماني	Mohammad Hashem Zamani
+ابن طيفور سجاوندي	Ibn Abi Tahir Tayfur
+ابراهيم ملکزاده	Ibrahim Malikzada
+ابراهيم خېل	Ibrahimkhel
+وېشنيزه:اخلاق	Category:Ethics
+د سره صليب نړيواله ټولنه	International Committee of the Red Cross
+کينډۍ:AddNewSection	Template:AddNewSection
+وېشنيزه:چاودېدونكى مواد	Category:Explosives
+کينډۍ:Pp-meta	Template:Pp-meta
+کينډۍ:IPA-en	Template:IPA-en
+کينډۍ:Mergefrom	Template:Merge from
+وېشنيزه:سولګر	Category:Computers
+وېشنيزه:توکي	Category:Equipment
+عرفان خان (سندرغاړی)	Irfan Khan (singer)
+کينډۍ:مالوماتبکس لويه وچه	Template:Infobox continent
+سيد اسحاق گيلاني	Ishaq Gailani
+اسلام او جاينيزم	Islam and Jainism
+اسلامي ټولنه	Islamic society
+وېشنيزه:پخوانی ژبې	Category:Extinct languages
+جبارخېل	Jabbarkhel
+وېشنيزه:User ja-N	Category:User ja-N
+تانبه:اسلام	Portal:Islam
+جمال شاه	Jamal Shah
+کينډۍ:دشريان-مالوماتبکس	Template:Infobox artery
+کينډۍ:Polytonic	Template:Polytonic
+کينډۍ:تانبې گرځښتپټه	Template:Portals browsebar
+کينډۍ:Familytree/start	Template:Family tree/start
+جميل کرزی	Jamil Karzai
+سيد محمد شاه	Jan-Fishan Khan
+کينډۍ:نامبهمېدنه	Template:Disambiguation
+وېشنيزه:اسرائیلي جوماتونه	Category:Mosques in Israel
+وېشنيزه:د ایران امپراتورۍ او پاچاهۍ	Category:Persian history
+وېشنيزه:پوځي الوتکې	Category:Military aircraft
+کينډۍ:محمد	Template:Muhammad
+کينډۍ:Lang-grc	Template:Lang-grc
+کينډۍ:د هېواد مالومات کوموروس	Template:Country data Comoros
+کينډۍ:د فلسفې سرليکونه	Template:Philosophy topics
+کينډۍ:Lang-pt	Template:Lang-pt
+کينډۍ:د هېواد مالومات قطر	Template:Country data Qatar
+کينډۍ:FRA	Template:FRA
+کينډۍ:د هېواد مالومات اسرایل	Template:Country data Israel
+کينډۍ:د هېواد مالومات اوکراين	Template:Country data Ukraine
+کينډۍ:د هېواد مالومات کولمبيا	Template:Country data Colombia
+کينډۍ:د هېواد مالومات پاکستان	Template:Country data Pakistan
+کينډۍ:د هېواد مالومات ګانا	Template:Country data Ghana
+کينډۍ:د هېواد مالومات رومانیا	Template:Country data Romania
+کينډۍ:د هېواد مالومات سوېلي کوريا	Template:Country data South Korea
+کينډۍ:د لومړي مخ منځ-ويکي	Template:Main Page interwikis
+کينډۍ:Npov	Template:POV
+جمعه خان همدرد	Juma Khan Hamdard
+کينډۍ:Afghanistan-stub	Template:Afghanistan-stub
+کينډۍ:د هېواد مالومات بحرين	Template:Country data Bahrain
+کينډۍ:بوديزم	Template:Buddhism
+وېشنيزه:User ja	Category:User ja
+وېشنيزه:User ur	Category:User ur
+وېشنيزه:User ko-N	Category:User ko-N
+وېشنيزه:User ru-N	Category:User ru-N
+وېشنيزه:وختتېری	Category:Entertainment
+محمد کبير خان	Kabir Khan (cricketer)
+کاکړ ولسوالۍ	Kakar District
+وېشنيزه:افغاني ټولنه	Category:Afghan society
+وېشنيزه:چینی الوتکې	Category:Chinese fighter aircraft
+کرام الدين کرام	Keramuddin Keram
+وېشنيزه:تاريخپوهان	Category:Historians
+وېشنيزه:User de	Category:User de
+وېشنيزه:User de-N	Category:User de-N
+کينډۍ:د افغانستان ولايتونه	Template:Provinces of Afghanistan
+وېشنيزه:User en-3	Category:User en-3
+وېشنيزه:User en-N	Category:User en-N
+خادر ولسوالۍ	Khadir District
+خيرالله انوش	Khairullah Anosh
+آلو	Plum
+خنج ولسوالۍ	Khenj District
+وېشنيزه:User fa	Category:User fa
+خراسان پوهنتون	Khurasan University
+خواجه سبز پوش ولسوالۍ	Khwaja Sabz Posh District
+خيال محمد	Khyal Muhammad
+کينډۍ:N/A	Template:N/a
+وېشنيزه:د اسلام پيغمبران	Category:Prophets of Islam
+کينډۍ:د هېواد مالومات برونډي	Template:Country data Burundi
+کينډۍ:د هېواد مالومات جرمني	Template:Country data Germany
+کينډۍ:د هېواد مالومات بريتانيه	Template:Country data United Kingdom
+وېشنيزه:مېچپوهنه	Category:Geometry
+کينډۍ:د سورة مالوماتبکس	Template:Infobox Sura
+کينډۍ:د هېواد مالومات اېسټونيا	Template:Country data Estonia
+کينډۍ:د هېواد مالومات مانټېنېګرو	Template:Country data Montenegro
+کينډۍ:Weather box	Template:Weather box
+وېشنيزه:هنرمندان	Category:Artists
+وېشنيزه:User ja-1	Category:User ja-1
+کينډۍ:نستعليق	Template:Script/Nastaliq
+وېشنيزه:ژمنۍ لوبې	Category:Winter sports
+وېشنيزه:User ko	Category:User ko
+وېشنيزه:د امريکا د متحده ايالاتو ايالتونه	Category:States of the United States
+کينډۍ:Smallsup	Template:Smallsup
+کينډۍ:وټپوهنه	Template:Economics sidebar
+کينډۍ:د نېټه کارن	Template:User date
+کينډۍ:د ژغورنې کينډۍ	Template:Protection templates
+کينډۍ:کورنۍ	Template:Family
+وېشنيزه:بانکوالی	Category:Banking
+کينډۍ:د هېواد مالومات د عاج ساحل	Template:Country data Ivory Coast
+وېشنيزه:د ایران ولایتونه	Category:Provinces of Iran
+وېشنيزه:User ru-1	Category:User ru-1
+کينډۍ:د لارښود نيوليک پر شا تگ	Template:Help contents back
+کينډۍ:وپ دلارښود-مخونه (سرپټه)	Template:Help pages header
+اسلامي رخصتۍ	Muslim holidays
+عبدالطيف اپريدی	Latif Afridi
+کينډۍ:ويکيپېډيا-ډ-ځ-پ	Template:Wikipedia FAQ
+وېشنيزه:اند	Category:Thought
+وېشنيزه:سياسي هڅوب	Category:Political culture
+وېشنيزه:لمريز غونډال	Category:Solar System
+کينډۍ:د هېواد مالومات برازیل	Template:Country data Brazil
+وېشنيزه:مخترعين	Category:Inventors
+وېشنيزه:سر او غاړه	Category:Human head and neck
+ډبرپوهنه	Lithology
+کينډۍ:د هېواد مالومات سوازيلاند	Template:Country data Swaziland
+وېشنيزه:ژوپوهنه	Category:Zoology
+وېشنيزه:د رضوي خراسان ولايت	Category:Razavi Khorasan Province
+تانبه:دين	Portal:Religion
+وېشنيزه:هلیکوپترونه	Category:Helicopters
+وېشنيزه:ټولنيزې پوهنې	Category:Social sciences
+کينډۍ:د هېواد مالومات هنګري	Template:Country data Hungary
+وېشنيزه:د آفریقاهیوادونه	Category:Countries in Africa
+وېشنيزه:د هخامنشیانو حکمرانان	Category:Achaemenid Empire
+کينډۍ:Template reference list	Template:Template reference list
+وېشنيزه:حزب الله	Category:Hezbollah
+کينډۍ:د هېواد مالومات نيوزيلاند	Template:Country data New Zealand
+وېشنيزه:القاعده	Category:Al-Qaeda
+وېشنيزه:User ps-N	Category:User ps-N
+وېشنيزه:User ro-3	Category:User ro-3
+وېشنيزه:User ru	Category:User ru
+وېشنيزه:User ru-2	Category:User ru-2
+وېشنيزه:User ru-3	Category:User ru-3
+وېشنيزه:User ru-4	Category:User ru-4
+وېشنيزه:User ur-2	Category:User ur-2
+اشتارلي ولسوالۍ	Ishtarlay District
+ترنک او جلدک ولسوالۍ	Tarnak Aw Jaldak District
+جاني خېل ولسوالۍ (پکتيکا)	Janikhel District (Paktika)
+روخه ولسوالۍ	Rokha District
+سروبي ولسوالۍ (پکتيکا)	Surobi District (Paktika)
+سنگ تخت ولسوالۍ	Sangi Takht District
+شوتل ولسوالۍ	Shotul District
+شرن ولسوالۍ	Sharana District
+شيگل او ېلتن ولسوالۍ	Shaigal Aw Shiltan District
+قرغان ولسوالۍ	Qurghan District
+ميرامور ولسوالۍ	Miramor District
+مير بچه کوټ ولسوالۍ	Mir Bacha Kot District
+پريان ولسوالۍ	Paryan District
+کينډۍ:انبيا په قرآن كې	Template:Prophets in the Quran
+کينډۍ:د افغانستان تاريخ	Template:History of Afghanistan
+کينډۍ:Lang	Template:Lang
+کينډۍ:د هېواد مالومات د امريکا متحده ايالات	Template:Country data United States
+د افغانستان ډنډونه	List of dams and reservoirs in Afghanistan
+وحدة الوجود	Sufi metaphysics
+کينډۍ:د هېواد مالومات ترکمنستان	Template:Country data Turkmenistan
+د ځايونو نيوليک	Lists of places
+وېشنيزه:د ۱۹۵۷ کال زېږېدنې	Category:1957 births
+کينډۍ:د هېواد مالومات سهېلي کوريا	Template:Country data North Korea
+کينډۍ:د هېواد مالومات افغانستان	Template:Country data Afghanistan
+کينډۍ:د هېواد مالومات بنگله دېش	Template:Country data Bangladesh
+لوگر ولايت	Logar Province
+کينډۍ:د پاکستان سياسي جغرافي وېش	Template:Administrative units of Pakistan
+کينډۍ:د افغانستان سرليکونه	Template:Afghanistan topics
+کينډۍ:امينواسيدونه	Template:Amino acids
+وېشنيزه:افغانان	Category:Afghan people
+لطف الله مشعل	Lutfullah Mashal
+وېشنيزه:بي بي سي	Category:BBC
+کينډۍ:Biochemical families	Template:Biochemical families
+د آلمان دپاره آلترناتیف	Alternative for Germany
+میدان (دير ولسوالۍ)	Maidan, Lower Dir District
+وېشنيزه:آرنی	Category:Articles
+ممنون مقصودي	Mamnoon Maqsoodi
+منگل	Mangal (Pashtun tribe)
+کينډۍ:د هېواد مالومات د کانگو ډيموکراتيک جمهوريت	Template:Country data Democratic Republic of the Congo
+مسعود خليلي	Massoud Khalili
+مسعوده جلال	Massouda Jalal
+معصومه عصمتي وردگ	Masuma Esmati-Wardak
+کينډۍ:Elementbox isotopes stable	Template:Infobox element/isotopes stable
+کينډۍ:ICDO	Template:ICDO
+وېشنيزه:اوبتلونه	Category:Submarines
+وېشنيزه:ماشیندارونه	Category:Submachine guns
+وېشنيزه:د افریقایي اتحادیه غړي هیوادونه	Category:Member states of the African Union
+وېشنيزه:د پاکستان ایالتونه او سیمې	Category:Provinces of Pakistan
+د مخابراتو وزارت (افغانستان)	Ministry of Communications and Information Technology (Afghanistan)
+کينډۍ:د منځنۍ آسيا لويې ژبې	Template:Central Asian languages
+کينډۍ:Familytree/step2	Template:Family tree/step2
+کينډۍ:شريط-تصفح كتب-دين	Template:Religion portals browsebar
+ميرويس ياسيني	Mirwais Yasini
+وېشنيزه:ليبيا	Category:Libya
+محمد اکبر بارکزی	Mohammad Akbar Barakzai
+محمد امان حميمي	Mohammad Aman Hamimi
+سيد محمد امين فاطمي	Mohammad Amin Fatemi
+محمد امين واکمن	Mohammad Amin Wakman
+محمد عارف نورزى	Mohammad Arif Noorzai
+محمد اشرف ناصري	Mohammad Ashraf Naseri
+محمد داود (افغان والي)	Mohammad Daoud (Afghan Governor)
+محمد داؤد ميره کی	Mohammad Daud Miraki
+محمد دوران	Mohammad Dawran
+محمد گل خان مومند	Mohammad Gul Khan Momand
+محمد گلاب منگل	Mohammad Gulab Mangal
+محمد حليم فدايي	Mohammad Halim Fidai
+محمد هاشم زارې	Mohammad Hashim Zare
+سرور احمدزی	Mohammad Sarwar Ahmadzai
+محمد ظاهر اعظيمي	Mohammad Zahir Azimi
+محب الله صميم	Mohibullah Samim
+وېشنيزه:افغاني رسنۍ	Category:Afghan media
+مبارک علي	Mubarak Ali
+مجاور احمد زيار	Mujawar Ahmad Zyar
+منشي عبدالمجيد	Munshi Abdul Majid
+وېشنيزه:په وچې پورې تړلي هیوادونه	Category:Landlocked countries
+وېشنيزه:د افغانستان وټه	Category:Economy of Afghanistan
+نبي مصداق	Nabi Misdaq
+کينډۍ:Infobox Language/family-color	Template:Infobox language/family-color
+ننواتې	Nanawatai
+د ننگرهار پوهنتون	Nangarhar University
+کينډۍ:User ru-1	Template:User ru-1
+کينډۍ:د هېواد مالومات بېلاز	Template:Country data Belize
+وېشنيزه:بلوچستان	Category:Balochistan
+نگاه تلويزيون	Negaah TV
+کينډۍ:دا وخت	Template:Today cell
+کينډۍ:د هېواد مالومات کوسووا	Template:Country data Kosovo
+يعقوبي	Yaqubi
+کينډۍ:د هېواد مالومات ماورېتانيا	Template:Country data Mauritania
+کينډۍ:د هېواد مالومات ګابون	Template:Country data Gabon
+کينډۍ:د هېواد مالومات جبوتي	Template:Country data Djibouti
+کينډۍ:د هېواد مالومات آروبا	Template:Country data Aruba
+کينډۍ:د هېواد مالومات سوډان	Template:Country data Sudan
+کينډۍ:د هېواد مالومات چاډ	Template:Country data Chad
+وېشنيزه:روسي ساينسپوهان	Category:Russian scientists
+وېشنيزه:طالبان	Category:Taliban
+وېشنيزه:بازارموندنه	Category:Marketing
+وېشنيزه:د نړۍ هېوادونه	Category:International relations
+کينډۍ:د هېواد مالومات انټيگ او بربودا	Template:Country data Antigua and Barbuda
+کينډۍ:د هېواد مالومات ګامبيا	Template:Country data Gambia
+وېشنيزه:غږپوهنه	Category:Phonology
+کينډۍ:د هېواد مالومات نامېبيا	Template:Country data Namibia
+کينډۍ:Tnavbar-header	Template:Navbar-header
+وېشنيزه:مالیه	Category:Finance
+وېشنيزه:پاکستاني وسلې	Category:Military equipment of Pakistan
+وېشنيزه:روسی الوتکې	Category:Soviet and Russian military aircraft
+وېشنيزه:روسي اوبتلونه	Category:Submarines of the Russian Navy
+وېشنيزه:د افغانستان ولايتونه	Category:Provinces of Afghanistan
+وېشنيزه:د چېک خلک	Category:Czech people
+وېشنيزه:آلمانی الوتکې	Category:German military aircraft
+وېشنيزه:مرکزي بانکونه	Category:Central banks
+وېشنيزه:کيمياوي توکي	Category:Chemical elements
+وېشنيزه:امريکايي فيلسوفان	Category:American philosophers
+وېشنيزه:ساينسپوهان	Category:Scientists
+وېشنيزه:سولګر ملتونونه	Category:Computer companies
+نورين تلويزيون	Noorin TV
+وېشنيزه:لمريزې مياشتې	Category:Months of the Iranian calendar
+وېشنيزه:د افغانستان پوځ	Category:Military of Afghanistan
+وېشنيزه:سهېلي کوريا	Category:North Korea
+وېشنيزه:د ليبيا خلک	Category:Libyan people
+وېشنيزه:د آسيا ارزونه	Category:Currencies of Asia
+وېشنيزه:ايراني سیاستوال	Category:Iranian politicians
+وېشنيزه:د پاکستان سياستوال	Category:Pakistani politicians
+کينډۍ:د هېواد مالومات بورکينا فاسو	Template:Country data Burkina Faso
+کينډۍ:د هېواد مالومات د منځنۍ افريقا جمهوريت	Template:Country data Central African Republic
+وېشنيزه:خبريالي	Category:Journalism
+وېشنيزه:پښتانه ټبرونه	Category:Pashtun tribes
+وېشنيزه:اوزبکستان	Category:Uzbekistan
+عمر زاخېلوال	Omar Zakhilwal
+وېشنيزه:مغولو پاچايي	Category:Mughal Empire
+اورکزي	Orakzai
+وېشنيزه:عثماني پېر	Category:Ottoman Empire
+عثمان عثماني	Osman Osmani
+وېشنيزه:افغاني ليکوال	Category:Afghan writers
+پاچا خان ځدراڼ	Pacha Khan Zadran
+کينډۍ:د هېواد مالومات سېچېلېس	Template:Country data Seychelles
+د پکتيا پوهنتون	Paktia University
+کينډۍ:د هېواد مالومات پاپوا نيوګوينا	Template:Country data Papua New Guinea
+پامير پوهنتون	Pamir University
+وېشنيزه:پاکستاني هېوادمشران	Category:Presidents of Pakistan
+وېشنيزه:مېوې	Category:Fruit
+وېشنيزه:زهرلرونکي نباتونه	Category:Poisonous plants
+د پروان پوهنتون	Parwan University
+د پښتو ژبې لنډ گرامر	Pashto grammar
+پښتو رسنۍ	Pashto media
+د پښتنو ټولنیز ولسواک گوند	Pashtoons Social Democratic Party
+پښتني هڅوب	Pashtun culture
+وېشنيزه:د اروپا سيمې	Category:Regions of Europe
+وېشنيزه:د آسیا جغرافیا	Category:Geography of Asia
+وېشنيزه:جوماتونه	Category:Mosques
+وېشنيزه:د ترکیې جوماتونه	Category:Mosques in Turkey
+وېشنيزه:دانټي رېټرووايرل درملونه	Category:Antiretroviral drugs
+وېشنيزه:انتي بيوتيکونه	Category:Antibiotics
+وېشنيزه:مسکنونه	Category:Analgesics
+وېشنيزه:ميترو	Category:Rapid transit
+وېشنيزه:د افشاريانو حکمرانان	Category:Afsharid dynasty
+وېشنيزه:ددرمل شکل	Category:Dosage forms
+پيام افغان	Payam-E-Afghan TV
+وېشنيزه:د شمېرپوهنې ډګرونه	Category:Fields of mathematics
+وېشنيزه:خبري اژانس	Category:News agencies
+وېشنيزه:بشرِی حقوق	Category:Human rights
+تورن	Captain
+وېشنيزه:پاکستانی وېکيپېډياګران	Category:Pakistani Wikipedians
+وېشنيزه:ناټو	Category:NATO
+وېشنيزه:پوځي وييونه	Category:Military terminology
+وېشنيزه:غړي	Category:Organs
+وېشنيزه:وسلې	Category:Weapons
+وېشنيزه:افغان سندرغاړي	Category:Afghan singers
+وېشنيزه:امريکايي سندرغاړي	Category:American male singers
+پير محمد کاروان	Pir Mohammad Karwan
+وېشنيزه:د ټوپولف الوتکې	Category:Tupolev aircraft
+وېشنيزه:بم غورځونکي الوتکې	Category:Bomber aircraft
+وېشنيزه:د بېټا-لاکټاماز انتي بيوتيکونه	Category:Beta-lactam antibiotics
+وېشنيزه:پاړسي ژبه	Category:Persian language
+وېشنيزه:اېډز	Category:HIV/AIDS
+وېشنيزه:قران	Category:Quran
+وېشنيزه:ناروغۍ	Category:Diseases and disorders
+وېشنيزه:ترافيک ترانسپورت	Category:Transport
+وېشنيزه:لوبې	Category:Sports by type
+وېشنيزه:کورنۍ	Category:Family
+وېشنيزه:قضاء	Category:Justice
+وېشنيزه:سندرغاړي	Category:Singers
+وېشنيزه:وټپوهان	Category:Economists
+کينډۍ:Flagcountry	Template:Flagcountry
+کينډۍ:د ژبې مالوماتبکس	Template:Infobox language
+وېشنيزه:ځمکپوهان	Category:Geographers
+پوسټگانگليونېک عصبي ريښې	Postganglionic nerve fibers
+وېشنيزه:ولسواکي	Category:Democracy
+وېشنيزه:درمل	Category:Drugs
+وېشنيزه:ټانکونه	Category:Tanks
+قمرگله	Qamar Gula
+قربان علي ارزگاني	Qurban Ali Oruzgani
+وېشنيزه:د آفریقا د هېوادونو پلازمېنې	Category:Capitals in Africa
+د افغاني راډيوگانو لړليک	Radio stations in Afghanistan
+رفيق شينواری	Rafiq Shinwari
+وېشنيزه:ايراني هڅوب	Category:Iranian culture
+رحيم مهريار	Rahim Mehryar
+رحمت شاه سائل	Rahmat Shah Sail
+رحمت الله رحمت	Rahmatullah Rahmat
+رحمت الله روفي	Rahmatullah Raufi
+وېشنيزه:د رومانیا ښارونه	Category:Towns in Romania
+رڼا د لوړو زده كړو موسسه	Rana Institute of Higher Studies
+عبدالرسول امين	Rasul Amin
+راز محمد دليلي	Raz Mohammed Dalili
+وېشنيزه:کراچۍ	Category:Karachi
+وېشنيزه:کابل	Category:Kabul
+وېشنيزه:د آسیا د هېوادونو پلازمېنې	Category:Capitals in Asia
+وېشنيزه:پښتانه	Category:Pashtun people
+وېشنيزه:چېکي واکمنان	Category:Bohemian monarchs
+روح الامين	Roohul Amin
+وېشنيزه:د پکتيکا ولايت	Category:Paktika Province
+وېشنيزه:د پکتيا ولايت	Category:Paktia Province
+وېشنيزه:د باميان ولايت	Category:Bamyan Province
+وېشنيزه:نړۍ	Category:World
+سبا تلويزيون	Saba TV Network
+ترخه	Sagebrush
+ساکزي	Sakzai
+صلاح الدين رباني	Salahuddin Rabbani
+وېشنيزه:د مسراشمیت الوتکې	Category:Messerschmitt aircraft
+وېشنيزه:د افغانستان ژبې	Category:Languages of Afghanistan
+وېشنيزه:هندوکش	Category:Hindu Kush
+وېشنيزه:هزاره ګان	Category:Hazara people
+وېشنيزه:هرات	Category:Herat
+سيدال سخندان	Saydal Sokhandan
+سيد عبدالکريم هاشمي	Sayed Abdul Karim Hashimi
+سيد انور رحمتي	Sayed Anwar Rahmati
+سيد جلال کريم	Sayed Jalal Karim
+سيد خېل ولسوالۍ	Sayed Khel District
+سيد محمد اقبان منيب	Sayyed Mohammad Eqbal Munib
+کينډۍ:د خيبر پښتونخوا ولسوالۍ	Template:Districts of Khyber Pakhtunkhwa
+محمد صديق افغان	Sediq Afghan
+وېشنيزه:د بانکوالی وییونه او اوزار	Category:Banking terms
+شاه عبدلاحد افضلي	Shah Abdul Ahad Afzali
+شهلا عطا	Shahla Atta
+شهزاده شاهد	Shahzada Shahid
+شکېبا څانگه آماج	Shakaiba Sanga Amaj
+وېشنيزه:شوبلې ضد وسلې	Category:Anti-tank missiles
+کينډۍ:Dmbox	Template:Dmbox
+وېشنيزه:مرکزي قبایلي سیمې	Category:Federally Administered Tribal Areas
+وېشنيزه:معمر القذافي	Category:Muammar Gaddafi
+وېشنيزه:د افغانستان جوماتونه	Category:Mosques in Afghanistan
+کينډۍ:WPFCevent	Template:Infobox former country/event
+شمس الهدا شمس	Shams-ul-Huda Shams
+شمشاد (لروينون)	Shamshad TV
+وېشنيزه:کندهار	Category:Kandahar
+شرق تلويزيون	Sharq (TV channel)
+شېر علم ابراهيمي	Sher Alam Ibrahimi
+شېر محمد خان	Sher Khan Nashir
+شېر محمد اخندزاده	Sher Mohammad Akhundzada
+وېشنيزه:د قاجاريانو حکمرانان	Category:Qajar dynasty
+شکريه بارکزۍ	Shukria Barakzai
+سراج الحق	Siraj-ul-Haq Khan
+سويکا ۳	Sojka III
+سپين غر د لوړو زده کړو مرکز	Spinghar Higher Education Centre
+وېشنيزه:افغاني ګوندونه	Category:Political parties in Afghanistan
+کينډۍ:د هېواد مالومات اسپانيا	Template:Country data Spain
+کينډۍ:دچينايي-لوبگراوسندرغاړي-مالوماتبکس	Template:Infobox Chinese-language singer and actor
+کينډۍ:د هېواد مالومات کاناډا	Template:Country data Canada
+کينډۍ:د درملو لويې ډلې	Template:Major drug groups
+سوري	Sur (Pashtun tribe)
+کينډۍ:د هېواد مالومات بربادوس	Template:Country data Barbados
+کينډۍ:د هېواد مالومات ګرېنادا	Template:Country data Grenada
+کينډۍ:د هېواد مالومات اردن	Template:Country data Jordan
+کينډۍ:د هېواد مالومات قرغزستان	Template:Country data Kyrgyzstan
+کينډۍ:د هېواد مالومات لېسوتو	Template:Country data Lesotho
+کينډۍ:د هېواد مالومات لايبېريا	Template:Country data Liberia
+کينډۍ:د هېواد مالومات ملاوي	Template:Country data Malawi
+کينډۍ:د هېواد مالومات مالديپ	Template:Country data Maldives
+کينډۍ:د هېواد مالومات ماورېشوس	Template:Country data Mauritius
+کينډۍ:د هېواد مالومات مغولستان	Template:Country data Mongolia
+کينډۍ:د هېواد مالومات نايجېر	Template:Country data Niger
+کينډۍ:د هېواد مالومات فلسطين	Template:Country data Palestine
+کينډۍ:د هېواد مالومات پورټو ريکو	Template:Country data Puerto Rico
+کينډۍ:د هېواد مالومات راوانډا	Template:Country data Rwanda
+کينډۍ:د هېواد مالومات سېراليون	Template:Country data Sierra Leone
+کينډۍ:د هېواد مالومات سورينام	Template:Country data Suriname
+کينډۍ:د هېواد مالومات سوريه	Template:Country data Syria
+کينډۍ:د هېواد مالومات سېنگاپور	Template:Country data Singapore
+کينډۍ:د هېواد مالومات يوگانډا	Template:Country data Uganda
+طلوع نيوز تلويزيون	TOLOnews
+کينډۍ:د هېواد مالومات ونواتو	Template:Country data Vanuatu
+کينډۍ:د هېواد مالومات يمن	Template:Country data Yemen
+کينډۍ:د هېواد مالومات زېمبيا	Template:Country data Zambia
+طاهر بدخشي	Tahir Badakhshi
+طاهر شباب	Tahir Shubab
+تاج ملوک	Taj Malik
+تاج محمد وردگ	Taj Mohammad Wardak
+د تخار پوهنتون	Takhar University
+وېشنيزه:افغان جنګسالاران	Category:Afghan warlords
+تره کي	Tarakai
+ترين	Tareen
+وپش	Taxpayer Identification Number
+کينډۍ:د هېواد مالومات اېرېتېريا	Template:Country data Eritrea
+توخي	Tokhi
+کينډۍ:Free media	Template:Free media
+مهرانا اودی سېنگ	Udai Singh II
+اتمانخيل	Utmankhel
+کينډۍ:يهوديت	Template:Judaism
+وطن تلويزيون	Watan TV
+کينډۍ:رنگ مالوماتبکس	Template:Infobox color
+وزير (ټبر)	Wazir (Pashtun tribe)
+ارسلا خان	Wazir Arsala Khan
+ويښ زلميان	Weekh Zalmian
+کينډۍ:ورځ	Template:Today/AD/SH/AH
+وېشنيزه:د آسیا هېوادونه	Category:Countries in Asia
+زرڅانگه	Zarsanga
+زېب او حانيا	Zeb and Haniya
+زينت کرزۍ	Zeenat Karzai
+کينډۍ:آډولف هېټلر	Template:Adolf Hitler
+अ़	अ़
+کينډۍ:پښتانه	Template:Pashtun
+کينډۍ:لمريزې مياشتې	Template:IranianMonths
+کينډۍ:د وخت کارن	Template:User time
+کينډۍ:پوځي رتبې	Template:Military ranks
+کينډۍ:تصوف	Template:Sufism
+کينډۍ:سياسي اندونه	Template:Political ideologies
+کينډۍ:Utc	Template:Utc
+کينډۍ:Sw icon	Template:Sw icon
+قضا	Legal proceeding
+وېشنيزه:مسافروړونکي الوتکې	Category:Airliners
+کينډۍ:د هېواد مالومات عربي ټولنه	Template:Country data Arab League
+وېشنيزه:د القلوید مواد	Category:Alkaloids
+وېشنيزه:خيبر پښتونخوا	Category:Khyber Pakhtunkhwa
+وېشنيزه:د افغانستان بانکونه	Category:Banks of Afghanistan
+وېشنيزه:باليووډ	Category:Bollywood
+کينډۍ:د هېواد مالومات لوېديځه سحارا	Template:Country data Western Sahara
+کينډۍ:د هېواد مالومات د فالکلاند ټاپوان	Template:Country data Falkland Islands
+نومونپوهنه	Terminology
+وېشنيزه:د بادغيسو ولایت ولسوالۍ	Category:Districts of Badghis Province
+وېشنيزه:د سرپل ولسوالۍ	Category:Districts of Sar-e Pol Province
+کينډۍ:د هېواد مالومات ګونې	Template:Country data Guinea
+کينډۍ:د هېواد مالومات ګوينې بېساو	Template:Country data Guinea-Bissau
+کينډۍ:وسله مالوماتبکس	Template:Infobox weapon
+وېشنيزه:چېکي الوتکې	Category:Czech and Czechoslovakian military trainer aircraft
+وېشنيزه:د ټاټرا موټرونه	Category:Tatra vehicles
+وېشنيزه:د افغانستان د حکومت وزارتونه	Category:Government ministries of Afghanistan
+وېشنيزه:افغان واليان	Category:Governors of provinces of Afghanistan
+وېشنيزه:اسلامي وټه	Category:Islamic banking
+کينډۍ:د هېواد مالومات آذربايجان-SSR	Template:Country data Azerbaijan SSR
+وېشنيزه:ژبنيز ليکدودونه	Category:Language orthographies
+لارښود:نيوليک/تخينيکي مالومات	Help:Contents/Browse/Editing Wikipedia
+لارښود:نيوليک/انځورونه او رسنۍ	Help:Contents/Browse/Images and media
+لارښود:نيوليک/سرچينې او لړليکونه	Help:Contents/Browse/Resources and lists
+کينډۍ:غوږ شه	Template:Listen
+وېشنيزه:د افغانستان رسمي لاسوندونه	Category:Official documents of Afghanistan
+وېشنيزه:د ساسانیانو حکمرانان	Category:Sasanian dynasty
+وېشنيزه:د پاکستان هوایی ځواک	Category:Pakistan Air Force
+وېشنيزه:د پاکستان پوځ	Category:Pakistan Army
+کينډۍ:Duck	Template:Duck
+وېشنيزه:پښتو ادبیات	Category:Pashto literature
+وېشنيزه:پښتني هڅوب	Category:Pashtun culture
+وېشنيزه:سنډ	Category:Sindh
+وېشنيزه:د افغانستان لومړي وزيران	Category:Prime Ministers of Afghanistan
+وېشنيزه:امريکايي بم غورځونکي الوتکې	Category:United States bomber aircraft
+کينډۍ:د هېواد مالومات مقدونيه	Template:Country data Macedonia
+وېشنيزه:مسلمان فيلسوفان	Category:Muslim philosophers
+وېشنيزه:ليکتوکي	Category:Stationery
+وېشنيزه:بسونه	Category:Buses
+وېشنيزه:تصوف	Category:Sufism
+وېشنيزه:ورکړېنې	Category:Taxation
+وېشنيزه:سينگار توکي	Category:Toiletry
+روژه (مياشت)	Ramadan (calendar month)
+وېشنيزه:افغاني فلمونه	Category:Afghan films
+وېشنيزه:امریکایی الوتکې	Category:United States military aircraft
+وېشنيزه:امريکايي سندرغاړې	Category:American female singers
+کينډۍ:د هېواد مالومات تانزانيا	Template:Country data Tanzania
+وېشنيزه:ټراکټورونه	Category:Tractors
+وېشنيزه:پاکستانی جنرالان	Category:Pakistani generals
+کينډۍ:د هېواد مالومات سوماليا	Template:Country data Somalia
+وېشنيزه:پاکستاني جوماتونه	Category:Mosques in Pakistan
+کينډۍ:Pp-dispute	Template:Pp-dispute
+وېشنيزه:پښتو ژبه	Category:Pashto language
+وېشنيزه:د چیک ولسمشران	Category:Presidents of the Czech Republic
+وېشنيزه:قراني سورتونه	Category:Suras
+وېشنيزه:د لويديځ سلاوي ژبې	Category:West Slavic languages
+وېشنيزه:User en-1	Category:User en-1
+وېشنيزه:افغان ښځې	Category:Afghan women
+وېشنيزه:د پاکستان څارگرې ادارې	Category:Pakistani intelligence agencies
+وېشنيزه:پښتانه شاعران	Category:Pashto-language poets
+وېشنيزه:د پاکستان ښارونه	Category:Capitals of Pakistan
+وېشنيزه:اسلامپوهان	Category:Islamic studies scholars
+کينډۍ:نيمگړي کينډۍ	Template:Asbox
+اسلام او سکهيزم	Islam and Sikhism
+کينډۍ:Hlist	Template:Hlist
+کينډۍ:Half done	Template:Half done
+ويکيپېډيا:ځان زده کړه (د بحث مخونه)	Wikipedia:Tutorial/Talk pages
+ويکيپېډيا:ځان زده کړه (په ياد ولره)	Wikipedia:Tutorial/Keep in mind
+کينډۍ:Userbox-level	Template:Userbox-level
+کينډۍ:د اسلام پيغمبران	Template:Islamic prophets
+گنگسيت	Dizziness
+دويم بريدمن	Second lieutenant
+يوسف پښتون	Yousef Pashtun
+د امانت گڼون	Deposit account
+کينډۍ:User zh-min-nan-3	Template:User nan-3
+د امان الله خان سمونونه او کورنۍ جگړه	Reforms of Amānullāh Khān and civil war
+ټنک ولسوالۍ	Tank District
+کينډۍ:Tim	Template:Tim
+د ميوند زمری	Maiwand Lion
+شېر افضل خان بريکوټی	Sher Afzal Khan Barikoti
+کينډۍ:Supranational European Bodies	Template:Supranational European Bodies
+ټغ	Jay
+ويکيپېډيا:ځان زده کړه (تړل او نور مالومات)	Wikipedia:Tutorial/Wrap-up and more info
+ويکيپېډيا:ځان زده کړه (ثبتونه)	Wikipedia:Tutorial/Registration
+کاروان پوهنتون	Higher Education Institute of Karwan
+ويکيپېډيا:ډ-ځ-پ/مخليدنه	Wikipedia:FAQ/Overview
+کينډۍ:د بلوچستان ولسوالۍ (پاکستان)	Template:Districts of Balochistan (Pakistan)
+هېنري جورج راورټي	Henry George Raverty
+جاوېد لودين	Jawed Ludin
+افغان ښارونډيو ته د ويزې اړتيا	Visa requirements for Afghan citizens
+کينډۍ:د پنجاب ولسوالۍ (پاکستان)	Template:Districts of Punjab, Pakistan
+بادپوهنه	Anemology
+عبدالفتاح ابو غده	Abd al-Fattah Abu Ghudda
+د افغانستان پوځ	Afghan Armed Forces
+هرا پوهنتون	Hara University
+ويکيپېډيا:Infobox templates	Wikipedia:Manual of Style/Infoboxes
+اسلامي دینار	Gold dinar
+تانبه:قرآن	Portal:Quran
+کينډۍ:PoliticsAF	Template:Politics of Afghanistan
+کينډۍ:د لومړي مخ سرليک	Template:Main Page banner
+د پښتو ژبي د سندرغاړو نوملړ	List of Pashto-language singers
+کوکۍ	Butterfly
+کينډۍ:Native name	Template:Native name
+قيامت	Qiyamah
+بارکزي	Barakzai
+ابو منصور ماتريدي	Abu Mansur Maturidi
+ذبيح الله مجددي	Zabihullah Mojaddidy
+مولۍ	Radish
+هارون امين	Haron Amin
+تانبه:پاکستان	Portal:Pakistan
+قرآن او سنت	Hadith of the Quran and Sunnah
+هريپور ولسوالۍ	Haripur District
+کينډۍ:Style/ril	Template:Style/ril
+ويکيپېډيا:ډ-ځ-پ/لوستونکي	Wikipedia:FAQ/Readers
+ازاد خان افغان	Azad Khan Afghan
+کينډۍ:Infobox Language/genetic2	Template:Infobox language/genetic
+ويکيپېډيا:ډ-ځ-پ/بېلابېل	Wikipedia:FAQ/Miscellaneous
+وېشنيزه:ويکيپيډيا وړې کينډۍ	Template:Done/See also
+وعليکم السلام	Wa alaykumu s-salam
+کينډۍ:Style/IPA	Template:Style/IPA
+کينډۍ:Style/yid	Template:Style/yid
+Module:Convert	Module:Convert
+سوفيست	Sophist
+کينډۍ:د-ن-و-ا	Template:POTD
+کينډۍ:وړکې ردېدنه	Template:Smallrejected
+افغانستان او پاکستان کې د 2013 کال سېلابونه	2013 Pakistan–Afghanistan floods
+ويکيپېډيا:د نن ورځې غوره ليکنه/جولای 2007	Wikipedia:Today's featured article/July 2007
+کينډۍ:د هېواد مالومات عمان	Template:Country data Oman
+کينډۍ:د هېواد مالومات موزمبيق	Template:Country data Mozambique
+کينډۍ:د هېواد مالومات کېمرون	Template:Country data Cameroon
+Module:Roman	Module:Roman
+بېاتریکس فون شتورخ	Beatrix von Storch
+مسلمانه نړیواله پېغله	World Muslimah
+Module:ConvertNumeric	Module:ConvertNumeric
+کينډۍ:Infobox event	Template:Infobox event
+Module:Factorization	Module:Factorization
+ځانګړی:اوسني بدلونونه	Special:RecentChanges
+رضوان منور	Rezwan Munawar
+Module:Coordinates	Module:Coordinates
+ثنا ساپۍ	Sana Safi
+آمنه افضلي	Amina Afzali
+قطب الدین هلال	Qutbuddin Hilal
+د اتریش د کار گوند	Party of Labour of Austria
+د ملي دفاع پوهنتون (پاکستان)	National Defence University, Pakistan
+جاوېد اقبال رمدايي	Javed Iqbal Ramday
+سلام پوهنتون	Salam University
+شمع اشنا	Shama Ashna
+کينډۍ:Undone	Template:Undone
+رولا غني	Rula Ghani
+عمر وادیلو	Umar Vadillo
+د پېښور پر پوځي ښوونځي بريد	2014 Peshawar school massacre
+د لغمان پوهنتون	Loghman University
+د بدخشان پوهنتون	Badakhshan University
+کينډۍ:Nastaliq	Template:Script/Nastaliq2

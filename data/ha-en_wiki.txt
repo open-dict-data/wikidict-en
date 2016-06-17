@@ -1,0 +1,693 @@
+Afirka	Africa
+Japan	Japan
+Norway	Norway
+Ireland	Republic of Ireland
+Hungariya	Hungary
+An Spàinn	Spain
+Amurika	United States
+Beljik	Belgium
+Luksamburg	Luxembourg
+Duniya	Earth
+Yan-adam	Human
+Finland	Finland
+Sweden	Sweden
+Denmark	Denmark
+Poland	Poland
+Lithuania	Lithuania
+Italiya	Italy
+Switzerland	Switzerland
+Austriya	Austria
+Greek	Greece
+Turkiyya	Turkey
+Portugal	Portugal
+Turai	Europe
+Asiya	Asia
+Amirka ta Arewa	North America
+Wikipedia	Wikipedia
+Berlin	Berlin
+Airbus	Airbus
+Na'ura	Computer
+Yanar gizo	Internet
+Barack Obama	Barack Obama
+Pariis	Paris
+Kenya	Kenya
+Ethiopia	Ethiopia
+Zaki	Lion
+Faransa	France
+Esperanto	Esperanto
+Kare	Dog
+Birtaniya	United Kingdom
+Kyanwa	Cat
+Sin	China
+Kifi	Fish
+Rasha	Russia
+Teku	Sea
+São Paulo	São Paulo
+Jamus	Germany
+Iceland	Iceland
+Istoniya	Estonia
+Jirgin sama	Airplane
+Ɗaya	1 (number)
+Biyu	2 (number)
+Uku	3 (number)
+Huɗu	4 (number)
+Biyar	5 (number)
+Laitfiya	Latvia
+Ukraniya	Ukraine
+Kazech	Czech Republic
+Slofakiya	Slovakia
+Sloveniya	Slovenia
+MOldufiniya	Moldova
+Romainiya	Romania
+Bulgairiya	Bulgaria
+Masadoiniya	Republic of Macedonia
+Albaniya	Albania
+Kroatiya	Croatia
+Azerbaijan	Azerbaijan
+Andorra	Andorra
+Cyprus	Cyprus
+Georgia (country)	Georgia (country)
+Kazakystan	Kazakhstan
+Malta	Malta
+Monaco	Monaco
+Montenegro	Montenegro
+Vatican	Vatican City
+San Marino	San Marino
+Indonesiya	Indonesia
+Afirka ta kudu	South Africa
+Aljeriya	Algeria
+Uzbekistan	Uzbekistan
+Ruwa	Water
+Chile	Chile
+Isa Almasihu	Jesus
+Singafora	Singapore
+Ilmi	Science
+Liechtenstein	Liechtenstein
+Hitler	Adolf Hitler
+Facebook	Facebook
+Baharain	Bahrain
+Armeniya	Armenia
+Serbiya	Serbia
+Wata	Moon
+Santanbul	Istanbul
+Asturaliya	Australia
+Koriya ta Arewa	North Korea
+Kambodiya	Cambodia
+Musulunci	Islam
+Rana	Sun
+Angela Merkel	Angela Merkel
+Timor-Leste	East Timor
+Duniyoyi	Planet
+Cadi	Chad
+Indiya	India
+Mangolia	Mongolia
+Dabba	Animal
+Shuka	Plant
+Kaza	Chicken
+Jersey	Jersey
+Aladu	Domestic pig
+Iran	Iran
+Irak	Iraq
+Isra'ila	Israel
+Yemen	Yemen
+Jordan	Jordan
+Kyrgystan	Kyrgyzstan
+Kuwait	Kuwait
+Laos	Laos
+Lebanon	Lebanon
+Maldives	Maldives
+Maleziya	Malaysia
+Myanmar	Burma
+Nepal	Nepal
+Oman	Oman
+Pakistan	Pakistan
+Qatar	Qatar
+Saudiyya	Saudi Arabia
+Sri Lanka	Sri Lanka
+Siriya	Syria
+Tajikistan	Tajikistan
+Thailand	Thailand
+Turkmenistan	Turkmenistan
+Taraiyar larabawa	United Arab Emirates
+Vietnam	Vietnam
+Koriya ta Kudu	South Korea
+Da Simpsons	The Simpsons
+Afghanistan	Afghanistan
+Bangladash	Bangladesh
+Mali	Mali
+Angola	Angola
+Bhutan	Bhutan
+Brunei	Brunei
+Filipin	Philippines
+Togo	Togo
+Benin	Benin
+Botswana	Botswana
+Burkina faso	Burkina Faso
+Burundi	Burundi
+Jamhuriyar dimokuradiyya Kwango	Democratic Republic of the Congo
+Gine	Guinea
+Kameru	Cameroon
+Libya	Libya
+Muritaniya	Mauritania
+Nijar	Niger
+Nijeriya	Nigeria
+Uganda	Uganda
+Senegal	Senegal
+Julius Caesar	Julius Caesar
+Sudan	Sudan
+Majalisar Ɗinkin Duniya	United Nations
+Kofi Annan	Kofi Annan
+Montevideo	Montevideo
+Biri	Monkey
+Augustus	Augustus
+Gibraltar	Gibraltar
+Mota	Car
+Buenos Aires	Buenos Aires
+Abarba	Pineapple
+Zinedine Yazid Zidane	Zinedine Zidane
+Baibûl	Bible
+Gaskiyan Cocin Isa	True Jesus Church
+Concepción, Chile	Concepción, Chile
+Końskowola	Końskowola
+Maciji	Snake
+Kimiya	Chemistry
+Lima	Lima
+Santiago de Chile	Santiago
+Osasco	Osasco
+Dong Hoi Filin	Dong Hoi Airport
+Curitiba	Curitiba
+Confucius	Confucius
+Kiristancìì	Christianity
+Nahiya	Continent
+Tsuntsu	Bird
+Main Page	Main Page
+Saratov	Saratov
+Bus	Bus
+Åland	Åland Islands
+Makkah	Mecca
+Canary Islands	Canary Islands
+Category:Candidates for speedy deletion	Category:Candidates for speedy deletion
+Sahara	Sahara
+Kyautar Nobel	Nobel Prize
+Sauro	Mosquito
+Raƙumi	Camel
+Giwa	Elephant
+Ƙudan zuma	Bee
+Margaret Thatcher	Margaret Thatcher
+Nelson Mandela	Nelson Mandela
+Category:Fàransà	Category:France
+Hakkokin Yan-adam	Human rights
+Hong Kong	Hong Kong
+Rio de Janeiro	Rio de Janeiro
+Addini	Religion
+Muhammad	Muhammad
+Isle of Man	Isle of Man
+Ronald Reagan	Ronald Reagan
+Fernando Alonso	Fernando Alonso
+Bishiya	Tree
+APACHE	Apache HTTP Server
+Lissafi	Number
+Masara	Maize
+Ƙasashen Duniya	List of sovereign states
+Dabbar beya	Bear
+Sankara	Cancer
+Kurãme	Hearing loss
+Polio	Poliomyelitis
+Makaman nukiliya	Nuclear weapon
+Macau	Macau
+Raƙumin dawa	Giraffe
+Wikipedia:Community Portal	Wikipedia:Village pump
+Jimina	Ostrich
+Tara	9 (number)
+Jaki	Donkey
+Tuje	Bustard
+Bakwai	7 (number)
+Takwas	8 (number)
+Dabbar rendiya	Deer
+Tafarnuwa	Garlic
+Shida	6 (number)
+Moshchena	Moshchena
+Paltoga	Paltoga
+Selena	Selena
+Goma	10 (number)
+Guernsey	Guernsey
+Kahuhu	Hoopoe
+Kyankyaso	Cockroach
+Galantoyi	White stork
+Kada	Crocodilia
+Kurciya	Streptopelia
+Zaƙami	Datura stramonium
+Hausawa	Hausa people
+Mošovce	Mošovce
+Benazir Bhutto	Benazir Bhutto
+Mahmoud Ahmadinejad	Mahmoud Ahmadinejad
+Dokokin nan goma	Ten Commandments
+Damisa	Leopard
+Ido	Ido (language)
+Larabawa	Arabs
+Madinah	Medina
+Zaghawa (Sprache)	Zaghawa language
+Gyaɗa	Peanut
+Ɗari	100 (number)
+Hawainiya	Chameleon
+Firinji	Refrigerator
+Khomeini	Ruhollah Khomeini
+Ɗaɗɗoya	Basil
+Zirin Gaza	Gaza Strip
+Radio Studio 54 Network	Radio Studio 54 Network
+Ashirin	20 (number)
+Arbaʼin	40 (number)
+Palestin autonomija	Palestinian National Authority
+Talatin	30 (number)
+Dubu	1000 (number)
+Desmond Tutu	Desmond Tutu
+Villeneuve-d'Ascq	Villeneuve-d'Ascq
+Tsibirin Bermuda	Bermuda Triangle
+Dabgi	Aardvark
+Kotun Shari'ar Miyagun Laifuka	International Criminal Court
+Template:Commonscat	Template:Commons category
+Afirnawan Amirka	African American
+Ƙwayoyin cuta na Ebola	Ebola virus disease
+Hausa	Hausa language
+Ali Khamenei	Ali Khamenei
+Sao Vang Filin	Tho Xuan Airport
+Sittin	60 (number)
+Tsamiya	Tamarind
+Kuɓewa	Okra
+Rogo	Cassava
+Karkandan	Black rhinoceros
+Cutar murar aladu	2009 flu pandemic
+Umaru Musa Yar'Adua	Umaru Musa Yar'Adua
+Abbott (bakin dutse)	Abbot (crater)
+Abbe (bakin dutse)	Abbe (crater)
+Tattalin arzikin duniya	Financial crisis
+Dila	Golden jackal
+Balbela	Cattle egret
+Rimi	Ceiba pentandra
+Ashuwaki	Salvadora persica
+Zamfara	Zamfara State
+Zariya	Zaria
+Blair Adams	Blair Adams
+Zirman	Castor oil plant
+Kuka	Adansonia digitata
+Ɓauna	African buffalo
+Alkama	Common wheat
+Kwari	Housefly
+Gweba	Psidium guajava
+Zabo	Guineafowl
+Dage	Honey badger
+Herzegovina	Herzegovina
+CFA franc ( sefar yammaci Afirka)	CFA franc
+Magaryar kura	Ziziphus mucronata
+Kaduna	Kaduna
+Gwaggon biri	Olive baboon
+Boko Haram	Boko Haram
+Jaffna	Jaffna
+Maiduguri	Maiduguri
+Afifiya	Turtle
+Gwaza	Colocasia esculenta
+Soso	Luffa
+Zogale	Moringa oleifera
+Casaʼin	90 (number)
+Jibda	African civet
+Dumya	Spur-winged goose
+Ƙirƙa	Grivet
+Giginya	Borassus aethiopum
+Batsiya	Oribi
+Benik Afobe	Benik Afobe
+43 (adadan)	43 (number)
+Zawo	Gymnarchus
+Barewa	Red-fronted gazelle
+Shamuwa	Abdim's stork
+Baba	Indigofera
+Kanya	Diospyros mespiliformis
+Dadis Mousa Camara	Moussa Dadis Camara
+Mayen kifi	Pied kingfisher
+Agadez	Agadez
+Mazo	Bushbuck
+Adnan Ahmed	Adnan Ahmed
+Marek Grechuta	Marek Grechuta
+Jan baki	Red-billed quelea
+Ajami	Ajami script
+Gauraka	Black crowned crane
+Baƙurna	Red-flanked duiker
+Kumurci	Black-necked spitting cobra
+Matiyu	Gospel of Matthew
+Ahmadu Bello	Ahmadu Bello
+Akala (rapper)	Akala (rapper)
+Kwara	Kwara State
+Julia Savicheva	Yulia Savicheva
+Gwamki	Roan antelope
+Tan Son Nhat Filin	Tan Son Nhat International Airport
+Andrew Aitken (footballer born 1909)	Andrew Aitken (footballer, born 1909)
+Gaiwa	West African lungfish
+Babba da jaka	Marabou stork
+Trevor Bailey	Trevor Bailey
+Labarin kasa na Nijeriya	Geography of Nigeria
+Alf Ainsworth	Alf Ainsworth
+Waaken Santanbul	Pigeon pea
+Carki	Oxpecker
+Jihar Katsina	Katsina State
+Danya	Sclerocarya birrea
+Kano	Kano State
+Ybe	Yobe State
+Tamanin	80 (number)
+Sabaʼin	70 (number)
+Hamsin	50 (number)
+Yanyawa	Pale fox
+Wushi-wushi	Fulvous whistling duck
+Ƙirinjijiya	White-faced whistling duck
+Gada	Common duiker
+Da Nang Filin	Da Nang International Airport
+Yankan Allah	Cut-throat finch
+VietJet Air	VietJet Air
+Hazbiya	Speckled pigeon
+Bill Adams (footballer born 1902)	Bill Adams (footballer, born 1902)
+51 (adadan)	51 (number)
+Ca Mau Filin	Cà Mau Airport
+Help:Contents	Help:Contents
+Alan A'Court	Alan A'Court
+Will Atkinson	Will Atkinson
+Katsina	Katsina
+Zakaran ƙeƙuwa	Black-headed lapwing
+Hankaka	Pied crow
+Tsanwaka	Abyssinian roller
+C. W. Alcock	C. W. Alcock
+Kurege	Xerus erythropus
+Kabarai	Village weaver
+Sisita	Red-cheeked cordon-bleu
+Cilakowa	African grey hornbill
+Compton (bakin dutse)	Compton (crater)
+Kwallo	Football
+Shaun Barker	Shaun Barker
+Jetstar Pacific Airlines	Jetstar Pacific Airlines
+Aya	Cyperus esculentus
+Tom Baddeley	Tom Baddeley
+Suda	Black-crowned tchagra
+Category:Turkiyya	Category:Turkey
+Category:Afirka ta kudu	Category:South Africa
+Category:Nijeriya	Category:Nigeria
+Category:Vietnam	Category:Vietnam
+Category:Tsuntsu	Category:Birds
+Category:Shuka	Category:Plants
+Category:Addini	Category:Religion
+Category:Duniya	Category:Earth
+Hausa Bakwai	Hausa Kingdoms
+Duniyar Computer	Computerworld
+Gafiya	Gambian pouched rat
+Karfasa	Tilapia (genus)
+LGBT hakkin a Afrika	LGBT rights in Africa
+Shaho	Eagle
+Gamba	Andropogon gayanus
+Tommy Banks (footballer)	Tommy Banks (footballer)
+Tarwaɗa	Clarias anguillaris
+Alf Agar	Alf Agar
+Tsada	Ximenia americana
+Garafuni	Momordica balsamina
+Albert Adomah	Albert Adomah
+Kimba	Xylopia aethiopica
+Riɗi	Sesame
+Albert Aldridge	Albert Aldridge
+Sarauniya Amina	Amina
+Bert Addinall	Bert Addinall
+Category:Stubs	Category:Stubs
+ESB Villeneuve-d'Ascq	ESB Villeneuve-d'Ascq
+Edmond Debeaumarché	Edmond Debeaumarché
+Rukuɓu	Amaranthus viridis
+Colin Addison	Colin Addison
+Abubakar Imam	Abubakar Imam
+Simon Barker	Simon Barker
+Mahaman Shata	Mamman Shata
+Dan Maraya	Dan Maraya
+Terry Bailey	Terry Bailey
+Alan Ainscow	Alan Ainscow
+Charles Adcock	Charles Adcock
+Craig Alcock	Craig Alcock
+Template:Tl	Template:Tl
+Template:Userbox	Template:Userbox
+Adebayo Akinfenwa	Adebayo Akinfenwa
+Steve Banks	Steve Banks
+Category:Ƙasā̀shē	Category:Countries
+Wikipedia:Administrators	Wikipedia:Administrators
+Wikipedia:Vital 100	Wikipedia:Vital articles/Level/2
+Christopher Anderson (footballer)	Christopher Anderson
+Misra	Egypt
+Yawan Jama'a, Yana da Muhimmanci	Population Matters
+Albidaya wan Nihaya	Al-Bidaya wa'l-Nihaya
+Template:Bot	Template:Bot
+Kanada	Canada
+Category:Slovakia	Category:Slovakia
+Category:Tūrai	Category:Europe
+Template:Documentation	Template:Documentation
+Wikipedia:Community portal	Wikipedia:Community portal
+Category:User languages	Category:Wikipedians by language
+Sung Jae-ki	Sung Jae-gi
+Albert Alderman	Albert Alderman
+Amos Adams (footballer)	Amos Adams (footballer)
+Andy Ainscow	Andy Ainscow
+Andy Ansah	Andy Ansah
+Andy Anson	Andy Anson
+Andy Arnott	Andy Arnott
+Andy Awford	Andy Awford
+Arthur Aaron (footballer)	Arthur Aaron (footballer)
+Arthur Attwood	Arthur Attwood
+Template:Softredirect	Template:Soft redirect
+Template:Delete	Template:Db
+Barry Ashworth	Barry Ashworth
+Basil Acres	Basil Acres
+Ben Abbey	Ben Abbey
+Bill Albury	Bill Albury
+Billy Adams (footballer born 1919)	Billy Adams (footballer, born 1919)
+Bob Adams (footballer)	Bob Adams (footballer)
+Brian Adams (footballer)	Brian Adams (footballer)
+Brian Albeson	Brian Albeson
+Category:Wikipedia	Category:Wikipedia
+Wikipedia:General disclaimer	Wikipedia:General disclaimer
+Wikipedia:Statistics	Wikipedia:Statistics
+Template:Navbox	Template:Navbox
+Carl Airey	Carl Airey
+Charles Ademeno	Charles Ademeno
+Charles Ainsworth (footballer)	Charles Ainsworth (footballer)
+Chris Abel	Chris Abel
+Chris Adamson	Chris Adamson
+Cliff Akurang	Cliff Akurang
+Colin Alcide	Colin Alcide
+Conductive tawada	Conductive ink
+Dala, Nigeria	Dala, Nigeria
+Dennis Bailey (footballer born 1935)	Dennis Bailey (footballer, born 1935)
+Template:=	Template:=
+Template:Navbar	Template:Navbar
+Template:Unicode	Template:Unicode
+Template:Col-break	Template:Col-break
+Template:Col-begin	Template:Col-begin
+Template:Col-end	Template:Col-end
+Wikipedia:Vital articles	Wikipedia:Vital articles
+Category:Afirka	Category:Africa
+Category:Adadan	Category:Numbers
+Template:Babel	Template:Babel
+Template:Reflist	Template:Reflist
+Frank Bailey (footballer)	Frank Bailey (footballer)
+Tommy Baldwin	Tommy Baldwin
+Template:Stub	Template:Stub
+Template:User af-1	Template:User af-1
+Template:User als-1	Template:User als-1
+Template:User ar-1	Template:User ar-1
+Template:User ast-1	Template:User ast-1
+Template:User az	Template:User az
+Template:User bar-1	Template:User bar-1
+Template:See also	Template:See also
+Template:User da-2	Template:User da-2
+Template:User da	Template:User da
+Template:User ca-1	Template:User ca-1
+Template:User ca-4	Template:User ca-4
+Template:User be-2	Template:User be-2
+Template:User da-1	Template:User da-1
+Template:User cs-1	Template:User cs-1
+Template:User bg-1	Template:User bg-1
+Template:User de	Template:User de
+Template:User de-1	Template:User de-1
+Template:User el	Template:User el
+Template:User de-3	Template:User de-3
+Template:User en-3	Template:User en-3
+Template:User el-1	Template:User el-1
+Template:User en-1	Template:User en-1
+Template:User en-2	Template:User en-2
+Template:User en-4	Template:User en-4
+Template:User en	Template:User en
+Template:User de-2	Template:User de-2
+Template:User tr-2	Template:User tr-2
+Template:User tr	Template:User tr
+Category:Asiya	Category:Asia
+Category:User uk	Category:User uk
+Category:User uk-N	Category:User uk-N
+Template:Mod	Template:Mod
+Template:SIL	Template:Infobox language/codelist
+Template:User uk	Template:User uk
+Template:ITA	Template:ITA
+Template:Wikivar	Template:Wikivar
+Template:Country showdata	Template:Country showdata
+Template:Image label	Template:Image label
+Template:Infobox dot-com company	Template:Infobox dot-com company
+Template:Ambox	Template:Ambox
+Template:Infobox Country	Template:Infobox country
+Template:Documentation/docname	Template:Documentation/docname
+Template:Tmbox	Template:Tmbox
+Template:Cite journal	Template:Cite journal
+Category:User en-4	Category:User en-4
+Category:User en	Category:User en
+Category:User en-2	Category:User en-2
+Template:Infobox	Template:Infobox
+Template:Cite web	Template:Cite web
+Template:Ombox	Template:Ombox
+Template:Country data	Template:Country data
+Template:Pp-template	Template:Pp-template
+Template:Mbox templates	Template:Mbox templates (small)
+Template:IPA	Template:IPA
+Category:Amurika	Category:Americas
+Template:MONTHNAME	Template:MONTHNAME
+Template:Namespace detect	Template:Namespace detect
+Template:Country data Nigeria	Template:Country data Nigeria
+Template:Image label end	Template:Image label end
+Template:Tlx	Template:Tlx
+Template:Purge	Template:Purge
+Template:Sportivo	Template:Infobox sportsperson
+Template:Country flag2	Template:Flag/core
+Ibrahim Shema	Ibrahim Shema
+Kungiyar Agaji Ta Red Cross Ta Duniya	International Committee of the Red Cross
+Template:Image label small	Template:Image label small
+Template:Tūrai	Template:Europe and seas labelled map
+Template:Pp-meta	Template:Pp-meta
+Template:Mbox	Template:Mbox
+Template:Disambig	Template:Disambiguation
+Template:Divbox	Template:Divbox
+Template:Dated maintenance category	Template:Dated maintenance category
+Category:User az	Category:User az
+Category:User be	Category:User be
+Category:User cs-1	Category:User cs-1
+Category:User da-1	Category:User da-1
+Category:User ar-1	Category:User ar-1
+Category:User be-2	Category:User be-2
+Category:User da-2	Category:User da-2
+Category:User tr-2	Category:User tr-2
+Category:User af	Category:User af
+Category:User af-1	Category:User af-1
+Category:User als	Category:User als
+Category:User ar	Category:User ar
+Category:User ast	Category:User ast
+Category:User ast-1	Category:User ast-1
+Category:User az-N	Category:User az-N
+Category:User bar	Category:User bar
+Category:User bar-1	Category:User bar-1
+Category:User bg	Category:User bg
+Category:User bg-1	Category:User bg-1
+Category:User ca	Category:User ca
+Category:User ca-1	Category:User ca-1
+Category:User ca-4	Category:User ca-4
+Category:User cs	Category:User cs
+Category:User da	Category:User da
+Category:User de	Category:User de
+Category:User de-2	Category:User de-2
+Category:User de-3	Category:User de-3
+Category:User el	Category:User el
+Category:User el-1	Category:User el-1
+Category:User el-N	Category:User el-N
+Category:User en-3	Category:User en-3
+Category:User en-N	Category:User en-N
+Category:User ha	Category:User ha
+Category:User ha-N	Category:User ha-N
+Template:Nastaliq	Template:Script/Nastaliq
+Category:User tr	Category:User tr
+Category:User tr-N	Category:User tr-N
+Category:Bishiya	Category:Trees
+Template:As of	Template:As of
+Category:Kudi	Category:Currency
+Template:DecreasePositive	Template:DecreasePositive
+Category:Ingila kwallon kafa players	Category:English footballers
+Category:Kifi	Category:Fish
+Category:Amfani	Category:Fruit
+Category:Biri	Category:Monkeys
+Category:Dabba	Category:Animals
+Kabewa	Cucurbita pepo
+Shabazz Baidoo	Shabazz Baidoo
+Template:FULLROOTPAGENAME	Template:FULLROOTPAGENAME
+Simon Baldry	Simon Baldry
+Stefan Bailey	Stefan Bailey
+Steve Aylott	Steve Aylott
+Steve Baines	Steve Baines
+Steve Baker (footballer born 1962)	Steve Baker (footballer, born 1962)
+Steve Ball	Steve Ball
+Steve Barnes (footballer)	Steve Barnes (footballer)
+Stewart Barrowclough	Stewart Barrowclough
+Stuart Barfoot	Stuart Barfoot
+Stuart Barlow	Stuart Barlow
+Template:Flag	Template:Flag
+Ted Ballard	Ted Ballard
+Terry Austin (footballer)	Terry Austin (footballer)
+Terry Baker (footballer)	Terry Baker (footballer)
+Template:DMCA	Template:DMCA
+Tom Bailey (footballer)	Tom Bailey (footballer)
+Tom Bamford	Tom Bamford
+Tom Barcroft	Tom Barcroft
+Tom Barkhuizen	Tom Barkhuizen
+Tom Barlow (footballer)	Tom Barlow (footballer)
+Tom Barrett (footballer)	Tom Barrett (footballer)
+Tommy Ball	Tommy Ball
+Tony Barras	Tony Barras
+Tony Barratt	Tony Barratt
+Tosh Barrell	Tosh Barrell
+Trevor Aylott	Trevor Aylott
+Trojany	Trojany, Masovian Voivodeship
+Tunji Banjo	Tunji Banjo
+Tyrone Barnett	Tyrone Barnett
+Wally Barnard	Wally Barnard
+Walter Atkinson	Walter Atkinson
+Walter Aveyard	Walter Aveyard
+Wilfred Adey	Wilfred Adey
+William Abbott (footballer)	William Abbott (footballer)
+William Adams (footballer)	William Adams (footballer)
+William Bagley (footballer)	William Bagley (footballer)
+William Baker (footballer)	William Baker (footballer)
+William Ball (footballer)	William Ball (footballer)
+William Banks (footballer)	William Banks (footballer)
+Doya	Yam (vegetable)
+Yemi Abiodun	Yemi Abiodun
+Zema Abbey	Zema Abbey
+Category:Hausa	Category:Hausa language
+Category:Hausawa	Category:Hausa people
+Template:Image label begin	Template:Image label begin
+Template:Ns has subpages	Template:Ns has subpages
+Template:Ombox/core	Template:Ombox/core
+Category:User en-1	Category:User en-1
+Category:User de-1	Category:User de-1
+Category:User da-N	Category:User da-N
+Steve Baker (footballer born 1978)	Steve Baker (footballer, born 1978)
+Billy Adams (footballer born 1892)	Billy Adams (footballer, born 1892)
+Trevor Atkinson	Trevor Atkinson
+Tom Barnett (footballer)	Tom Barnett (footballer)
+Brian Abrey	Brian Abrey
+Barrie Aitchison	Barrie Aitchison
+Template:Start date	Template:Start date
+Template:User ha	Template:User ha
+Module:Citation/CS1/Whitelist	Module:Citation/CS1/Whitelist
+Malan boɗe ido	Butterfly
+Chuba Akpom	Chuba Akpom
+Module:Convert	Module:Convert
+Template:Ambox/core	Template:Ambox/core
+Template:Tmbox/core	Template:Tmbox/core
+Special:RecentChanges	Special:RecentChanges
+Module:Citation/CS1	Module:Citation/CS1
+Module:Citation/CS1/Configuration	Module:Citation/CS1/Configuration
+Module:InfoboxImage	Module:InfoboxImage
+Module:Infobox	Module:Infobox
+Chulipuram	Chulipuram
+Bill Adams (footballer born 1921)	Bill Adams (footballer, born 1921)
+Charlie Adams (English footballer)	Charlie Adams (English footballer)
+Alec Acton	Alec Acton
+Charlee Adams	Charlee Adams
+Craig Adams (footballer)	Craig Adams (footballer)
+Module:Citation/CS1/Date validation	Module:Citation/CS1/Date validation
+Adam Armstrong (footballer)	Adam Armstrong (footballer)
+Tommy Barber	Tommy Barber
+Thomas Bagley (footballer)	Thomas Bagley (footballer)
+Paul Barrowcliff	Paul Barrowcliff
+Steve Ball (footballer, born 1973)	Steve Ball (footballer, born 1973)
